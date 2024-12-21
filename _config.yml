@@ -3,4 +3,4 @@ plugins:
 remote_theme: jekyll/minima
 title: Oak Hu
 minima:
-  skin: solarized-dark
+  skin: dark
