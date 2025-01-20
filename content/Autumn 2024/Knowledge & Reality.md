@@ -1,4 +1,4 @@
-Most of these were written starting around midnight before the weekly morning deadline, but almost all of them apparently out great. I really liked my tutor, Daniel Kodsi (we'd exchanged something like 2000 words via email before term started), and I think I learned a lot.
+Most of these were written starting around midnight before the weekly morning deadline, but almost all of them apparently out great. (Most include some embarrassing slip-ups, though.) I really liked my tutor, Daniel Kodsi (we'd exchanged something like 2000 words via email before term started), and I think I learned a lot.
 
 ### Week 1: Theories of Knowledge
 
@@ -6,7 +6,8 @@ This is reworked from the original, which tried to do way too much.
 <iframe src="https://drive.google.com/file/d/1E-QvZapPT7c54BClrun9n6QBYCAjO4ek/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ### Week 2: Contextualism
-Linguistic judgments differ a lot, but I was surprised to find that mine were so contextualist. Daniel said that he was quite annoyed that he couldn't come up with an example context where 'they ate the snacks. Well, they didn't *eat* them, but they ate them' worked (but findally did come up with the snacks being soup). Also:
+
+Linguistic judgments differ a lot, but I was surprised to find that mine were so contextualist. Daniel said that he was quite annoyed that he couldn't come up with an example context where 'they ate the snacks. Well, they didn't *eat* them, but they ate them' worked (but finally did come up with the snacks being soup).
 <iframe src="https://drive.google.com/file/d/1JfXXERLu3zSOcronqgG3AwcT9ka_pd-o/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ### Week 3: Williamson I
