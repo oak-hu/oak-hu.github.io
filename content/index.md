@@ -1,7 +1,7 @@
 ---
 title: About
 ---
-<img style="float: top-right; margin-left: 10%;"
+<img style="float: right; margin-left: 10%;"
      src="ProfilePicture.jpg" 
      width=40% 
      height=auto
