@@ -1,5 +1,5 @@
 ---
-title: about
+title: About
 ---
 <img style="float: right; margin-left: 3%;"
      src="ProfilePicture.jpg" 
@@ -7,8 +7,8 @@ title: about
      height=auto
      padding=40px/>
 
-welcome!
+Welcome!
 
-i do math and philosophy at magdalen College, oxford. on this site, you can find copies of essays (for undergraduate classes) and notes (for graduate seminars).
+I do math and philosophy at Magdalen College, Oxford. On this site, you can find copies of essays (for undergraduate classes) and notes (for graduate seminars).
 
-this site is very much a work-in-progress!
+This site is very much a work-in-progress!
