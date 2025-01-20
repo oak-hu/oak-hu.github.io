@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Oak Hu",
+    pageTitle: "🌳 Oak Hu",
     pageTitleSuffix: " | Oak Hu",
     enableSPA: true,
     enablePopovers: true,
@@ -47,7 +47,7 @@ const config: QuartzConfig = {
           darkgray: "#d4d4d4",
           dark: "#ebebec",
           secondary: "#02ab72",
-          tertiary: "#84a59d",
+          tertiary: "#01603b",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
         },
