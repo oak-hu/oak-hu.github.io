@@ -9,6 +9,6 @@ title: About
 
 Welcome!
 
-I do math and philosophy at Magdalen College, Oxford. On this site, you can find copies of essays (for undergraduate classes) and notes (for graduate seminars).
+I do math and philosophy at Magdalen College, Oxford. On this site, you can find copies of essays (for [[2024-2025/Knowledge--and--Reality|undergraduate]] [[2023-2024/Summer-Project|classes]]) and notes (for [[2024-2025/Non-Consequentialism|graduate]] [[2023-2024/Graduate-Classes|seminars]]).
 
 This site is very much a work-in-progress!
