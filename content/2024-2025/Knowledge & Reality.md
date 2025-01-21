@@ -32,7 +32,7 @@ Really should have found *Bounds of Possibility* (which I think I should read du
 
 ## Week 7: Modality
 
-This one is bad; Daniel concluded that he should change this week's reading list. I wish I'd found some discussion of Atomicity as a logical principle. Also not sure whether 'the way X is' is unique. Daniel's unthinking example: 'One of the ways that she annoys me is that she always second-guesses me' (which we laughed for a bit at).
+This one is bad; Daniel concluded that he should change this week's reading list. I wish I'd found some discussion of Atomicity as a logical principle. Also not sure whether 'the way X is' is unique. Daniel's unthinking example: 'One of the ways that she annoys me is that she always second-guesses me'.
 <iframe src="https://drive.google.com/file/d/1Y2cL-scTE2GIEAR4g6Q-jDg-lZskvpBf/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Week 8: Social Kinds
