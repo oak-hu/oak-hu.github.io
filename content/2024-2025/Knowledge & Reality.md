@@ -3,7 +3,7 @@ Most of these were written starting around midnight before the weekly morning de
 ## Week 1: Knowledge
 
 This is reworked from the original, which tried to do way too much.
-<iframe src="https://drive.google.com/file/d/1E-QvZapPT7c54BClrun9n6QBYCAjO4ek/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1E-QvZapPT7c54BClrun9n6QBYCAjO4ek/preview" width=100% height=auto allow="autoplay"></iframe>
 
 ## Week 2: Contextualism
 
