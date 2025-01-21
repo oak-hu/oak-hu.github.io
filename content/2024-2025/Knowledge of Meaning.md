@@ -44,3 +44,13 @@ Response: *in 'Ann smokes', 'Ann' isn't *used* as a sentence; so it's not a subs
 
 **Can we assimilate all imperatives to declaratives, where the imperative force is pragmatic? We derive 'make it such that P' (Altshuler) from a patently false 'P'.**
 
+* Example: 'A-company will parade at ten thirty tomorrow morning'. Same truth-conditions, but from a tour guide the speaker is responsible for the truth of the sentence, whereas from a general the audience is responsible for the truth of the sentence.
+
+(Someone asks a discussion on why you can't assimilate declaratives to imperatives. But declaratives-first is just, as a matter of fact, a much more successful and promising research program than the hypothesized imperatives-first alternative.)
+
+### Declarative sentences
+
+* 'No one would assign truth-conditions to "let's go"'. (But why not? '[You] let us go' is true iff the audience does let them go.)
+I thought the proposal was to assimilate all of these apparently non-declarative things to pragmatic derivations from declaratives? But The answer here was that we need to keep in mind even distinctions between, say, ordering and telling to and inviting in order to classify sentences.
+
+(We ran out of time before finishing the handout.)
