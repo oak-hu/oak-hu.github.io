@@ -14,9 +14,9 @@ Wittgenstein: *4.024 Einen Satz verstehen, heißt, wissen was der Fall ist, wenn
   * Full understanding requires, say, catching allusions; but knowledge of truth-condition is a central dimension.
 * Obvious generalizations: to understand an imperative is to know under what conditions it is obeyed; to understand an interrogative is to know...?
 
-Do we really want to say our philosophical opponents (say, Graham Priest) who disagree with us about the meanings to sentences don't understand the sentences they're uttering?
+Do we really want to say our philosophical opponents who disagree with us about the meanings to sentences don't understand the sentences they're uttering?
 
-Why assume anything like this is true? I don't know the truth-conditions in any transparent guise (say, a non-transparent disquotational schema? What if it's really, really context-sensitive?).
+Why assume anything like this is true? I don't know the truth-conditions in any transparent guise (say, with a disquotational schema)? What if it's really, really context-sensitive? What if the truth-conditions are vague, and so unknowable?
 
 ### 2. What is a sentence?
 
@@ -48,7 +48,7 @@ Response: *in 'Ann smokes', 'Ann' isn't *used* as a sentence; so it's not a subs
 
 (Someone asks a discussion on why you can't assimilate declaratives to imperatives. But declaratives-first is just, as a matter of fact, a much more successful and promising research program than the hypothesized imperatives-first alternative.)
 
-### Declarative sentences
+### 5. Declarative sentences
 
 * 'No one would assign truth-conditions to "let's go"'. (But why not? '[You] let us go' is true iff the audience does let them go.)
 I thought the proposal was to assimilate all of these apparently non-declarative things to pragmatic derivations from declaratives? But The answer here was that we need to keep in mind even distinctions between, say, ordering and telling to and inviting in order to classify sentences.
