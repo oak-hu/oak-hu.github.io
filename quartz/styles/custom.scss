@@ -6,3 +6,9 @@ p, a {
   overflow-wrap: break-word;
   hyphens: none;
 }
+
+@media screen and (max-width: 768px) {
+  p {
+    text-align: left;
+  }
+}
