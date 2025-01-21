@@ -48,6 +48,8 @@ Response: *in 'Ann smokes', 'Ann' isn't *used* as a sentence; so it's not a subs
 
 (Someone asks a discussion on why you can't assimilate declaratives to imperatives. But declaratives-first is just, as a matter of fact, a much more successful and promising research program than the hypothesized imperatives-first alternative.)
 
+I wonder what the imperative mood in other languages looks like. Could be a challenge to the assimilation!
+
 ### 5. Declarative sentences
 
 * 'No one would assign truth-conditions to "let's go"'. (But why not? '[You] let us go' is true iff the audience does let them go.)
