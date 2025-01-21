@@ -46,3 +46,9 @@ Stronger than delegation theory, in the presence of principle p3
 
 primitive theory: presence is irreducible to notions such as location and delegation, even if it might display some substantive connections to them, and should not be defined in their terms.
 
+a perdurant delegates its proper temporal parts at a time, an endurant delegates itself, a social entity delegates its members, a universal delegates of of the things that exemplify it, a contingent object delegates its counterparts (induced relations)
+
+might allow higher-order identities between presence and these induced relations. 
+
+an induced relation is location conducive iff it entails that the delegator is weakly located at the place of delegation; exlusive, indifferent clear generalizations
+
