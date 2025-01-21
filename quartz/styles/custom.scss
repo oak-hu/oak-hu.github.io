@@ -1,9 +1,8 @@
 @use "./base.scss";
 
-.article {
-  hyphens: none;
-  word-break: normal;
-  overflow-wrap: break-word;
+p, a {
   text-align: justify;
   text-justify: inter-word;
+  overflow-wrap: break-word;
+  hyphens: none;
 }
