@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: " | Oak Hu",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: { provider: 'google', tagId: 'G-3L42PTTP8D' },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
