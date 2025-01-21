@@ -34,10 +34,13 @@ Is it open to the Strawsonian to individuate things in this way? It seems like y
 
 Response: *in 'Ann smokes', 'Ann' isn't *used* as a sentence; so it's not a subsentence.* But 'Ann smokes, and Jane dances' doesn't use 'Ann smokes' as a sentence, yet 'Ann smokes' is surely a subsentence in a way that 'Ann' isn't!
 
+'The proposition that arithmetic is incomplete was first proved by Godel?' Does the ideology of propositions even make sense here, for necessary truths?
+
 ### 4. The classification of sentences
 
 * Claim: it's unfruitful to try and find differences in speech acts, say, in telling someone that something is the case, or to do something.
-* 
+* Example: 'In this house, we remove our shoes before entering'. (Similar: 'You do it like this'.)
+* In these cases, you're committed to postulating some ambiguity, or something, between truth-apt uses and imperative uses.
 
-(The proposition that arithmetic is incomplete was first proved by Godel? Does the ideology of propositions even make sense here, for necessary truths?)
+**Can we assimilate all imperatives to declaratives, where the imperative force is pragmatic? We derive 'make it such that P' (Altshuler) from a patently false 'P'.**
 
