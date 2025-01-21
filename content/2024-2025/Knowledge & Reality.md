@@ -1,6 +1,6 @@
 Most of these were written starting around midnight before the weekly morning deadline, but almost all of them apparently out great. (Most include some embarrassing slip-ups, though.) I really liked my tutor, Daniel Kodsi (we'd exchanged something like 2000 words via email before term started), and I think I learned a lot.
 
-## Week 1: Theories of Knowledge
+## Week 1: Knowledge
 
 This is reworked from the original, which tried to do way too much.
 <iframe src="https://drive.google.com/file/d/1E-QvZapPT7c54BClrun9n6QBYCAjO4ek/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -20,12 +20,12 @@ Unfortunately, as Jeremy Goodman notes, "Williamson is his own best expositor". 
 Canonically two [[https://offhandquibbles.substack.com/p/probability-for-philosophers|Substack]] [[https://offhandquibbles.substack.com/p/evidence-is-knowledge|posts]].
 <iframe src="https://drive.google.com/file/d/1VY8lCrxWK_FN_MMWzAHcRyPGv4vySSZj/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Week 5: Causation and Counterfactuals
+## Week 5: Causation
 
 This neglects the austere sufficiency view on which 'A causes B' just means that A counterfactually implies B, which is actually pretty interesting.
 <iframe src="https://drive.google.com/file/d/1ayKKQWSyHRer0KEdb4OY8voKJo72nza1/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Week 6: Coincidence and Constitution
+## Week 6: Coincidence
 
 Really should have found *Bounds of Possibility* (which I think I should read during Spring vacation).
 <iframe src="https://drive.google.com/file/d/1CdCGJcJ5OIqyv47AM1aORNLfJ9OXsnsb/preview" width="640" height="480" allow="autoplay"></iframe>
