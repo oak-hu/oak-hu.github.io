@@ -13,4 +13,4 @@ I do math and philosophy at Magdalen College, Oxford. On this site, you can find
 
 This site is very much a work-in-progress!
 
-[^1] Well, [[https://offhandquibbles.substack.com/p/quotes-and-quinean-quasi-quotes-quickly|technically]], my name is 'Oak'. I was named after Oklahoma State University, where both my parents went for graduate school after immigrating from China.
+[^1]: Well, [[https://offhandquibbles.substack.com/p/quotes-and-quinean-quasi-quotes-quickly|technically]], my name is 'Oak'. I was named after Oklahoma State University, where both my parents went for graduate school after immigrating from China.
