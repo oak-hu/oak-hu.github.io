@@ -30,13 +30,14 @@ Why assume anything like this is true? I don't know the truth-conditions in any 
 * Also useful to treat lexical items as having their meanings necessarily, and 'other meanings' as different homophonous items.
 * We identify sentences with phemes; in particular, those whose utterance may perform a complete speech act.
 
-Is it open to the Strawsonian to individuate things in this way? It seems like you have to buy some notions of reference. (Or, I guess I don't understand how you can go syntax-first.) 'Ann!' seems to count (as a greeting from a friend, an imperative from a parent, ...) without any obvious elided content (versus in answer to, say, 'Who smokes?'). So, does 'Ann smokes' contain the subsentence 'Ann'?
+Is it open to the Strawsonian to individuate things in this way? It seems like you have to buy some realist-y notions. (Or, I guess I don't understand how you can go syntax-first.) 'Ann!' seems to count (as a greeting from a friend, an imperative from a parent, ...) without any obvious elided content (versus in answer to, say, 'Who smokes?'). So, does 'Ann smokes' contain the subsentence 'Ann'?
 
 Response: *in 'Ann smokes', 'Ann' isn't *used* as a sentence; so it's not a subsentence.* But 'Ann smokes, and Jane dances' doesn't use 'Ann smokes' as a sentence, yet 'Ann smokes' is surely a subsentence in a way that 'Ann' isn't!
 
 ### 4. The classification of sentences
 
-
+* Claim: it's unfruitful to try and find differences in speech acts, say, in telling someone that something is the case, or to do something.
+* 
 
 (The proposition that arithmetic is incomplete was first proved by Godel? Does the ideology of propositions even make sense here, for necessary truths?)
 
