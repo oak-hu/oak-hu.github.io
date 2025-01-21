@@ -51,4 +51,3 @@ a perdurant delegates its proper temporal parts at a time, an endurant delegates
 might allow higher-order identities between presence and these induced relations. 
 
 an induced relation is location conducive iff it entails that the delegator is weakly located at the place of delegation; exlusive, indifferent clear generalizations
-
