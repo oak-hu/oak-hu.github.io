@@ -1,4 +1,4 @@
-Most of these were written starting around midnight before the weekly morning deadline, but almost all of them apparently out great. (Most include some embarrassing slip-ups, though.) I really liked my tutor, Daniel Kodsi (we'd exchanged something like 2000 words via email before term started), and I think I learned a lot.
+Most of these were written starting around midnight before the weekly morning deadline, but apparently they turned out great. Most include some embarrassing slip-ups, though. I really liked my tutor, Daniel Kodsi (we'd exchanged something like 2000 words via email before term started), and I think I learned a lot.
 
 ## Week 1: Knowledge
 
