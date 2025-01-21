@@ -7,7 +7,9 @@ title: About
      height=auto
      padding=40px/>
 
-Welcome! My name is Oak.[^1] I do math and philosophy at Magdalen College, Oxford.
+Welcome!
+
+My name is Oak.[^1] I do math and philosophy at Magdalen College, Oxford.
 
 On this site, you can find copies of my philosophy essays (for [[/2024-2025/Knowledge--and--Reality|undergraduate]] [[/2023-2024/Summer-Project|classes]]) and notes (for [[/2024-2025/Non-Consequentialism|graduate]] [[/2023-2024/Graduate-Classes|seminars]]). For more public-facing work, subscribe to my [[https://offhandquibbles.substack.com|Substack]]; for more personal stuff, follow my [[https://instagram.com/oak.hu|Instagram]].
 
