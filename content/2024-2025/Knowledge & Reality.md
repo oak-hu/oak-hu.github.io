@@ -1,4 +1,6 @@
-Most of these were written starting around midnight before the weekly morning deadline, but apparently they turned out great. Most include some embarrassing slip-ups, though. I really liked my tutor, Daniel Kodsi (we'd exchanged something like 2000 words via email before term started), and I think I learned a lot.
+Most of these were written starting around midnight before the weekly morning deadline, but apparently they turned out great. Most include some quite embarrassing slip-ups, though. I really liked my tutor, Daniel Kodsi (we'd exchanged something like 2000 words via email before term started), and I think I learned a lot.
+
+The best essays here are those from Week 4 (arguing that evidence is just knowledge) and Week 6 (arguing that there are a _lot_ of objects).
 
 ## Week 1: Knowledge
 
