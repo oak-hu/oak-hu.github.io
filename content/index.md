@@ -11,7 +11,7 @@ Welcome!
 
 My name is Oak.[^1] I do math and philosophy at Magdalen College, Oxford.
 
-Here, you can find copies of my philosophy essays (for [[/2024-2025/Knowledge--and--Reality|undergraduate]] [[/2023-2024/Summer-Project|classes]]) and notes (for [[/2024-2025/Non-Consequentialism|graduate]] [[/2023-2024/Graduate-Classes|seminars]]). For more public-facing work, subscribe to my [[https://offhandquibbles.substack.com|Substack]]; for more personal stuff, see my [[https://instagram.com/oak.hu|Instagram]].
+Here, you can find copies of my philosophy essays (for [[/2024-2025/Knowledge--and--Reality|undergraduate]] [[/2023-2024/Summer-Project|classes]]) and notes (for [[/2024-2025/Knowledge-of-Meaning|graduate]] [[/2024-2025/Non-Consequentialism|seminars]]). For more public-facing work, subscribe to my [[https://offhandquibbles.substack.com|Substack]]; for more personal stuff, see my [[https://instagram.com/oak.hu|Instagram]].
 
 I grew up reading LessWrong fairly uncriticially, so when I first got to Oxford, I found [[https://www.lesswrong.com/posts/vzLrQaGPa9DNCpuZz/against-modal-logics|modal]] and [[https://www.lesswrong.com/posts/2HxAkCG7NWTrrn5R3/three-fallacies-of-teleology|teleological]] notions a bit spooky. Despite my best efforts, I now think that the most progressive research programs in metaphysics and epistemology take such notions as primitive.[^2]
 
