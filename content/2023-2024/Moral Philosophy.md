@@ -1,8 +1,8 @@
-I really liked this class, and thought I learned a lot. Here's the feedback I got from this class:
+I really liked this class, and thought I learned a lot. Here's the feedback I got from my tutor:
 
 > Oak's work on Mill has been stellar. She writes extremely sophisticated philosophical prose at the level of a good graduate student. The only issue is that occasionally she tries to pack in too much in too short a space, leading to unclarity. By the end of our four sessions, after I had warned her of this, it looked like she had overcome this tendency; but she would still be well advised to bear this issue in mind.
 
-Funnily story: after I finished my last essay, I decided to go through and rewrite the entire thing to make it move as slowly as possible. You can see both versions below.
+Funny story: after I finished my last essay, I decided to go through and rewrite the entire thing to make it move as slowly as possible. You can see both versions below.
 
 I also got an 80 on my collections essay for moral philosophy, which I'm quite proud of.
 
