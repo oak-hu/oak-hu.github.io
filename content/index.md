@@ -18,7 +18,7 @@ I grew up reading LessWrong fairly uncriticially, so when I first got to Oxford,
 I'm still sympathetic to the Rationalist and Effective Altruist movements. I've [[https://www.givingwhatwecan.org/pledge/flow|pledged]] to donate 10% of my income (or 1% of spending money, while studying) to wherever it can do the most good. I think you should too!
 
 This site is under construction. Soon, I'd like to:
-* Upload Political Philosophy and General Philosophy essays to 2023-2024
+* Upload Political Philosophy and General Philosophy essays
 * Switch from embedded PDFs to MarkDown text directly on this site
 * Add some personal things (say, what I'm currently reading / doing)
 
