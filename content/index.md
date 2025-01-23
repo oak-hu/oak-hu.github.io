@@ -17,5 +17,10 @@ I grew up reading LessWrong fairly uncriticially, so when I first got to Oxford,
 
 I'm still sympathetic to the Rationalist and Effective Altruist movements. I've [[https://www.givingwhatwecan.org/pledge/flow|pledged]] to donate 10% of my income (or 1% of spending money, while studying) to wherever it can do the most good. I think you should too!
 
+This site is under construction. Soon, I'd like to:
+* Upload Political Philosophy and General Philosophy essays to 2023-2024
+* Switch from embedded PDFs to MarkDown text directly on this site
+* Add some personal things (say, what I'm currently reading / doing)
+
 [^1]: Well, [[https://offhandquibbles.substack.com/p/quotes-and-quinean-quasi-quotes-quickly|technically]], my name is 'Oak'. My parents named me after Oklahoma State University, where they both went for graduate school after immigrating from China.
 [^2]: There are two senses of 'primitive' here, which we can gloss as 'all-explaining' versus 'unexplainable'. These research programs attempt to explain things—like [[https://offhandquibbles.substack.com/p/counterfactuals|counterfactuals]] or [[https://offhandquibbles.substack.com/p/probability-for-philosophers|credences]]—in terms of necessity ('intensionalism') and knowledge ('knowledge-first'), so they take these notions as primitive in the first sense. But they need not take them as primitive in the second sense! For instance (helping ourselves to technical terms), we may define metaphysical necessity as the broadest objective modality, and knowledge as the most general factive stative propositional attitude.
