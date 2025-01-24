@@ -1,3 +1,7 @@
+---
+date: November 2024
+---
+
 Most of these were written starting around midnight before the weekly morning deadline, but apparently they turned out great. Most include some quite embarrassing slip-ups, though. I really liked my tutor, Daniel Kodsi (we'd exchanged something like 2000 words via email before term started), and I think I learned a lot.
 
 The best epistemology essay (arguing that evidence = knowledge) was from [Week 4](#week-4-williamson-ii), and the best metaphysics essay (arguing that there are a _lot_ of objects) was from [Week 6](#week-6-coincidence). Here's how I'd rank the rest of them:
