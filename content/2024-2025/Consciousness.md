@@ -1,6 +1,6 @@
 Special lectures with Elisabetta Sassarini and Mattia Cecchinato. Sympathetic to 'analytic' functionalism. (If you're not, psychophysical harmony is a problem!) When one of Tim's students calls a position 'exceptionalist', you know that they're about to argue against it.
 
-# Week 1
+## Week 1
 
 Exceptionalists: consciousness poses a special problem to metaphysics and cognitive science.
 
