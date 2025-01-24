@@ -10,7 +10,7 @@ Introduced axiomatizations of EU theory under risk, uncertainty, and dynamic cho
 
 ## Formal Semantics (Paul Elbourne, TT24)
 
-Worked through Heim & Kratzer, with extra discussion on issues relevant to the philosophy of language. Paul pulls in the opposite direction from Tim in areas like semantic internalism or Fregeanism about proper names. This class was unortunately scheduled such that in almost half the sessions, half of us would leave halfway through for Jowett Society meetings.
+Worked through Heim & Kratzer, with extra discussion on issues relevant to the philosophy of language. Paul pulls in the opposite direction from Tim in areas like semantic internalism or Fregeanism about proper names. This class was unfortunately scheduled such that in almost half the sessions, half of us would leave halfway through for Jowett Society meetings.
 
 ## Topics in Epistemology (Tim Williamson, TT24)
 
