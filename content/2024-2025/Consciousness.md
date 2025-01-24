@@ -61,7 +61,7 @@ But how can an epistemic premise about the explanation of pheonmenal states (the
 
 Similarly with Mary, from the same paper; what it's like to be a bat, from Nagel.
 
-So we're to Fred as a red-green color-blind person is to us. We can do all the neuroscience on Fred that we want; but we'll never know what it's like for Fred to see these colors. The claim is that all the physical information still leaves underdetermined _all_ the information. (Guises? Know everything about piano playing, but not know how to play piano? In a similar way that someone can know all the information, but not the first-personal information: Stanford library or Harvard library? Or Lingens reading about Hesperus and Phosphorus in unhelpful guises ('Phosphorus is called "Phosphorus"'; but pretty much everything about Phosphorus is communicated under the guise of information about Hesperus.)
+So we're to Fred as a red-green color-blind person is to us. We can do all the neuroscience on Fred that we want; but we'll never know what it's like for Fred to see these colors. The claim is that all the physical information still leaves underdetermined _all_ the information. (Guises? Know everything about piano playing, but not know how to play piano? In a similar way that someone can know all the information, but not the first-personal information: Stanford library or Harvard library? Or Lingens reading about Hesperus and Phosphorus in unhelpful guises ('Phosphorus is called "Phosphorus"'; but pretty much everything about Phosphorus is communicated under the guise of information about Hesperus.))
 
 Nagel: 'People are now told at an early age that all matter is really energy. But despite the fact that people know what "is" means \[...\] like the claim uttered by a Pre-Socratic'
 
@@ -71,4 +71,8 @@ Nagel: 'People are now told at an early age that all matter is really energy. Bu
 4. We don't have complete information about Fred (3) \[So the claim is that this doesn't follow from 3?\]
 5. Physical information is not complete information (2, 4)
 6. So, physicalism is false. (1, 5)
+
+7. Actually i think this lecturer is quite bright (this is just, lik,e a very low-level course
+8. i'm not saying that any of them are unintelligent, only that a lot are bad lecturers - i.e. not engaging, dry, etc. Worst offender: Volker
+9. Is there a library nearby that we could go have a 5 hour long date in after this? 
 
