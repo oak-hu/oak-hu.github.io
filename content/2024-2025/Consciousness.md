@@ -68,7 +68,7 @@ Nagel: 'People are now told at an early age that all matter is really energy. Bu
 1. Physicalism is true iff all correct information is physical information (By definition)
 2. We have complete physical information about Fred (By assumption)
 3. We still don't know what it is like for him to see red (By assumption)
-4. We don't have complete information about Fred (3)
+4. We don't have complete information about Fred (3) \[So the claim is that this doesn't follow from 3?\]
 5. Physical information is not complete information (2, 4)
 6. So, physicalism is false. (1, 5)
 
