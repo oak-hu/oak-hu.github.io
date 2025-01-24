@@ -1,6 +1,6 @@
 ---
 title: About
-date: 20 January 2025
+date: January 2025
 description: Welcome! My name is Oak. I do math and philosophy at Magdalen College, Oxford. Here, you can find copies of my philosophy essays and notes.
 ---
 <img style="float: right; margin-left: 3%;"
