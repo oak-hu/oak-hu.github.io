@@ -1,3 +1,7 @@
+---
+date: January 2025
+---
+
 Notes from graduate seminar with Hilary Greaves and Tomi Francis on whether moderate ('half-hearted') or radical ('thoroughgoing') non-consequentialist moral theories are more plausible. The format seems to be a presentation with clarificatory questions for the first half of each class, and then substantive discussion on questions as decided by Slido votes.
 
 I find it difficult to write emails sometimes, but I thought my permission email was good. (I basically just use this as a template for all graduate class permission emails.)
