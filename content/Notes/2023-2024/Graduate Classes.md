@@ -1,3 +1,7 @@
+---
+date: 2024
+---
+
 Here are some quick summaries of the graduate seminars I audited in 2023-2024. Unfortunately, I don't have digital notes from any of them (I've only started taking those in 2025). But I did get to know a lot of really cool professors and graduate students.
 
 ## Formal Epistemology (Bernhard Salow, HT24)
