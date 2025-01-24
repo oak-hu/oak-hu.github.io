@@ -71,8 +71,3 @@ Nagel: 'People are now told at an early age that all matter is really energy. Bu
 4. We don't have complete information about Fred (3) \[So the claim is that this doesn't follow from 3?\]
 5. Physical information is not complete information (2, 4)
 6. So, physicalism is false. (1, 5)
-
-7. Actually i think this lecturer is quite bright (this is just, lik,e a very low-level course
-8. i'm not saying that any of them are unintelligent, only that a lot are bad lecturers - i.e. not engaging, dry, etc. Worst offender: Volker
-9. Is there a library nearby that we could go have a 5 hour long date in after this? 
-
