@@ -1,3 +1,7 @@
+---
+date: January 2025
+---
+
 Notes from a graduate class with Ian Rumfitt on how we know what things mean.
 
 ## Week 1: The Tractarian Thesis
