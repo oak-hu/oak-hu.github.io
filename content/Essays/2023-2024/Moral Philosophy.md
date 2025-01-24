@@ -1,3 +1,7 @@
+---
+date: January 2024
+---
+
 This is the class that I think I've put the most work into. Here's the feedback I got from my tutor:
 
 > Oak's work on Mill has been stellar. She writes extremely sophisticated philosophical prose at the level of a good graduate student. The only issue is that occasionally she tries to pack in too much in too short a space, leading to unclarity. By the end of our four sessions, after I had warned her of this, it looked like she had overcome this tendency; but she would still be well advised to bear this issue in mind.
