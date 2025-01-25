@@ -49,7 +49,9 @@ I’ve defined strong, asymmetric, weak, and minimal conflicts between a normati
 Here is one version of an argument (ACCURACY) that it is a problem for a normative ethical theory if it conflicts with widely felt moral intuitions:
 
 > (1) It is a problem for T if its extension is probably inaccurate.
+> 
 > (2) T’s extension is probably inaccurate if T is in conflict with WFMI.
+> 
 > (∗) So, it is a problem for T if it is in conflict with WFMI.
 
 If I want to defend T, I could accept ACCURACY but argue that T is not in conflict with WFMI; this would mean that ACCURACY poses no problems for T in particular. I could also take a more general strategy by attacking (2): perhaps WFMI are merely results of evolutionary pressures, and thus unlikely to be a guide to the truth.[^6] If this sort of attack is successful, then ACCURACY fails to show (∗). This would mean that ACCURACY poses no problems for any normative ethical theory. However, this might not mean (∗) is false, since there might be other reasons to believe something like it. These other reasons might still pose problems for normative ethical theories. I will briefly argue for two.
@@ -57,10 +59,15 @@ If I want to defend T, I could accept ACCURACY but argue that T is not in confli
 One reason to believe something like (∗) is COMPLIANCE:
 
 > (C1) It is a problem for T if we won’t comply with it.
+> 
 > (C2a) We won’t comply with T if we have motivation against compliance.
+> 
 > (C2b) We won’t comply with T if we lack motivation for compliance.
+> 
 > (C3a) We have motivation against compliance if T conflicts strongly with WFMI.
+> 
 > (C3b) We lack motivation for compliance if T conflicts asym-ly with WFMI.
+> 
 > (C∗) So, it is a problem for T if it conflicts strongly or asymmetrically with WFMI.
 
 We have (C1) from our discussion of problems for normative ethical theories, and (C2a) seems pretty clear if there are no overriding considerations. (C2b) is similar; note that here T calls something either obligatory or impermissible, and it seems difficult to always or never do something if there are no overriding considerations. By introducing such considerations, advocates of T can block these two premises and thereby defeat the COMPLIANCE problem. As I suggested in the first section, COMPLIANCE is defeasible.
@@ -72,8 +79,11 @@ For (C3b), recall that asymmetric conflict with WFMI means that T calls somethin
 Another reason to believe something like (∗) is ACCEPTANCE:
 
 > (A1) It is a problem for T if we will not accept what it says to accept.
+> 
 > (A2) We won’t accept what T says to if it means rejecting our moral intuitions.
+> 
 > (A3) Acceptance means rejecting our moral intuitions if T conflicts with WFMI.
+> 
 > (A∗) So, it is a problem for T if it conflicts with WFMI.
 
 Like (C1), we have (A1) from our discussion of problems for normative ethical theories. For (A2), I assume that we need some overriding consideration to reject our moral intuitions, especially if they are intensely felt. This makes ACCEPTANCE defeasible as well, since its advocates might be able to provide such considerations. For (A3), I assume that conflict means at least minimal conflict. Recall that this means that T disagrees with WFMI about, at the very least, what we should believe about why some things are good or bad, right or wrong, etc.; T and WFMI might also have other conflicts between their extensions. To accept T when it disagrees with WFMI just means to reject our moral intuitions, at least for all of those people who share them.
