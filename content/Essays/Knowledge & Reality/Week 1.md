@@ -1,5 +1,6 @@
 ---
 date: November 2024
+draft: true
 ---
 
 ## Knowledge
