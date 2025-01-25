@@ -78,7 +78,7 @@ Next, (RU) must be made more robust, or fall a ‘new ideal-world objection’. 
 
 This meta-rule may be weakly optimific, but is far from optimal: it is badly calibrated. We must amend (RU) to be robust toward partial compliance, not just full compliance. The simplest way to do this is to always act as if you had at least some threshold of compliance; but this fails ‘minimization’ problems. Consider:
 
-> If at least $m$ of the people in your village work together, they can raise a new flagpole that will make everyone incredibly happy. But if fewer than m people try to raise the flagpole, it will just fall and hurt them.
+> If at least $m$ of the people in your village work together, they can raise a new flagpole that will make everyone incredibly happy. But if fewer than $m$ people try to raise the flagpole, it will just fall and hurt them.
 
 Optimifically, exactly $m$ people should go to raise the flag. But surely, you should not always act as if at least $m$ people were compliant. Uncalibrated (RU) is still not robust. Instead, we should calibrate acts to be optimal for the expected level of compliance; but since non-compliance may take many forms (perhaps some people would raise the flag anyway), this should be even more precise: calibrate action toward how you expect others to act.
 
