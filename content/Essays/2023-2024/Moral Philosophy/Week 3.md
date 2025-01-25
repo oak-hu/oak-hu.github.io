@@ -2,12 +2,11 @@
 date: January 2024
 ---
 
-# Does Mill’s distinction between higher and lower pleasures achieve what he wants it to achieve?
+## Does Mill’s distinction between higher and lower pleasures achieve what he wants it to achieve?
 
 One worry for utilitarian theories of value is that they are degrading. Under simple hedonism:
 
-> (1) If two things yield the same quantity of pleasure, they are equally valu-
-able.
+> (1) If two things yield the same quantity of pleasure, they are equally valuable.
 
 But it seems plausible that:
 
