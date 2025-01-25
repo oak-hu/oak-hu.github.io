@@ -29,7 +29,7 @@ Here is a long quotation where Mill motivates, as outlined above, his distinctio
 
 > Utilitarian writers in general have placed the superiority of mental over bodily pleasures chiefly in...their circumstantial advantages rather than in their intrinsic nature. And on all these points utilitarians have fully proved their case; but they might have taken the other, and, as it may be called, higher ground, with entire consistency. It is quite compatible with the principle of utility to recognise the fact, that some kinds of pleasure are more desirable and more valuable than others. It would be absurd that while, in estimating all other things, quality is considered as well as quantity, the estimation of pleasures should be supposed to depend on quantity alone.
 
-Now, Mill’s distinction may be interpreted finitarily: for any two pleasures and a quantity *q*, there is some finite multiplier $k$ such that $q$ of the higher is worth $k\times q$ of the lower. Alternatively, Mill may be interpreted infinitarily: for some pairs of pleasures there is no finite $k$ (i.e., a minimal amount of the higher pleasure is worth more than any finite amount of the lower pleasure).[^2] Mill’s writing is more consistent with the finitary view (italics mine):
+Now, Mill’s distinction may be interpreted finitarily: for any two pleasures and a quantity $q$, there is some finite multiplier $k$ such that $q$ of the higher is worth $k\times q$ of the lower. Alternatively, Mill may be interpreted infinitarily: for some pairs of pleasures there is no finite $k$ (i.e., a minimal amount of the higher pleasure is worth more than any finite amount of the lower pleasure).[^2] Mill’s writing is more consistent with the finitary view (italics mine):
 
 > If one of the two \[pleasures\] is, by those who are competently acquainted with both, placed so far above the other that they prefer it, even though knowing it to be attended with a greater amount of discontent, and would not resign it for any quantity of the other pleasure *which their nature is capable of*, we are justified in ascribing to the preferred enjoyment a superiority in quality, so far out-weighing quantity as to render it, in comparison, of *small* account.
 
@@ -43,7 +43,7 @@ The finitary reading does not fully achieve Mill’s aim. After making his disti
 
 The finitary reading falls to an amended version (Oyster) of the degradingness objection:
 
-> (2’) A magical oyster living $k$years yields the same quality-adjusted amount of pleasure as Hadyn’s life.
+> (2’) A magical oyster living $k$ years yields the same quality-adjusted amount of pleasure as Hadyn’s life.
 >
 > (3’) So, the oyster’s life is of equal value with Hadyn’s life.
 
