@@ -1,5 +1,5 @@
 ---
-draft:true
+draft: true
 ---
 
 ## Week 1: 'Separation is Foundation' (Claudio Calosi)

@@ -1,8 +1,16 @@
-Most of these were written starting around midnight before the weekly morning deadline, but almost all of them apparently out great. (Most include some embarrassing slip-ups, though.) I really liked my tutor, Daniel Kodsi (we'd exchanged something like 2000 words via email before term started), and I think I learned a lot.
+---
+date: November 2024
+---
+
+Most of these were written starting around midnight before the weekly morning deadline, but apparently they turned out great. Most include some quite embarrassing slip-ups, though. I really liked my tutor, Daniel Kodsi (we'd exchanged something like 2000 words via email before term started), and I think I learned a lot.
+
+The best epistemology essay (arguing that evidence = knowledge) was from [Week 4](#week-4-williamson-ii), and the best metaphysics essay (arguing that there are a _lot_ of objects) was from [Week 6](#week-6-coincidence). Here's how I'd rank the rest of them:
+
+[Week 4](#week-4-williamson-ii) > [Week 6](#week-6-coincidence) > [Week 8](#week-8-social-kinds) > [Week 5](#week-5-causation) > [Week 3](#week-3-williamson-i) > [Week 2](#week-2-contextualism) > [Week 7](#week-7-modality) > [Week 1 (original)](#week-1-knowledge)
 
 ## Week 1: Knowledge
 
-This is reworked from the original, which tried to do way too much.
+The version that I've included here is reworked from the original, which just tried to do way too much.
 <iframe src="https://drive.google.com/file/d/1E-QvZapPT7c54BClrun9n6QBYCAjO4ek/preview" width=100% height="500" allow="autoplay"></iframe>
 
 ## Week 2: Contextualism
