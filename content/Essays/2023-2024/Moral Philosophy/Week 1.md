@@ -3,11 +3,9 @@ date: January 2024
 ---
 
 ## Mill's Principle
+**Was Mill an advocate of act utilitarianism or rule utilitarianism? Which one is better?**
 
 *(January 2025): I take it that this question was intended, at least in part, to emphasize the distinction between multi-level act utilitarianism and genuine rule utilitarianism (as these are popularly conflated). But, surprisingly, Mill does seem to be a rule-utilitarian after all! Today, I would at the very least reword some of the discussion of act versus rule utilitarianism, which I think is slightly misguided. For instance, the best argument for expected-value consequentialism isn't that it avoids uncertainty (it doesn't), but just by extensional adequacy (see [[/Notes/2024-2025/Non-Consequentialism#week-1-introduction|here]] for some discussion).*
-
-**Was Mill an advocate of act utilitarianism or rule utilitarianism? Which one is better?
-**
 
 Act Utilitarianism (AU) and Rule Utilitarianism (RU) differ by their criteria of moral right. A token act *a* is morally right insofar as (and because):
 
