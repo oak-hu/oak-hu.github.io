@@ -1,5 +1,5 @@
 ---
-Date: January 2024
+date: January 2024
 ---
 
 # Does Mill’s distinction between higher and lower pleasures achieve what he wants it to achieve?
