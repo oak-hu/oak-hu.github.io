@@ -86,11 +86,11 @@ Parfit raises a troubling objection about alienation.
 
 ## References
 
-Crisp, Roger. Routledge Philosophy Guidebook to Mill on Utilitarianism. Abingdon, Oxon: Routledge, 2009.
-Foot, Philippa, ed. Theories of Ethics. Oxford: Oxford University Press, 2002.
-Kagan, Shelly. “Kantianism for Consequentialists.” In Groundwork for the Metaphysics of Morals, 111–156. New Haven: Yale University Press, 2017.
-Lyons, David. Forms and Limits of Utilitarianism. Reprinted (with corrections). Oxford: Clarendon Press, 1978.
-Mill, John Stuart. Utilitarianism. Luton: AUK Classics, 2014.
-Mill, John Stuart, and J. Laurence (James Laurence) Laughlin. Principles of Political Economy. New York: D. Appleton, 1884.
-Mill, John Stuart, Francis Mineka, and Dwight Lindley. The Later Letters of John Stuart Mill 1849-1873: Volumes XIV-XVII. 1st ed. Vol. v.XIV-XVII. Toronto: University of Toronto Press, 1972.
-Parfit, Derek. On What Matters: Volume One. Oxford: Oxford University Press, 2011.
+* Crisp, Roger. Routledge Philosophy Guidebook to Mill on Utilitarianism. Abingdon, Oxon: Routledge, 2009.
+* Foot, Philippa, ed. Theories of Ethics. Oxford: Oxford University Press, 2002.
+* Kagan, Shelly. “Kantianism for Consequentialists.” In Groundwork for the Metaphysics of Morals, 111–156. New Haven: Yale University Press, 2017.
+* Lyons, David. Forms and Limits of Utilitarianism. Reprinted (with corrections). Oxford: Clarendon Press, 1978.
+* Mill, John Stuart. Utilitarianism. Luton: AUK Classics, 2014.
+* Mill, John Stuart, and J. Laurence (James Laurence) Laughlin. Principles of Political Economy. New York: D. Appleton, 1884.
+* Mill, John Stuart, Francis Mineka, and Dwight Lindley. The Later Letters of John Stuart Mill 1849-1873: Volumes XIV-XVII. 1st ed. Vol. v.XIV-XVII. Toronto: University of Toronto Press, 1972.
+* Parfit, Derek. On What Matters: Volume One. Oxford: Oxford University Press, 2011.
