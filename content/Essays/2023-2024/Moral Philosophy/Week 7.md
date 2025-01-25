@@ -1,3 +1,7 @@
+---
+date: January 2024
+---
+
 ## It is a problem for a normative ethical theory if it is in conflict with widely felt moral intuitions.
 
 *(January 2025): This essay was rewritten from scratch before submitting, to make it move much more slowly. I might put up the original version, too, so you can see the contrast. I'm not sure how large a distinction there is between the natural and the normative: for instance, I don't think there's any deep distinction between natural and normative facts: we may understand both as just sets of possible worlds that include the actual world (see Williamson). There's also a bit more to say about moral dilemmas. For instance, if we accept (a) that ought(X) implies can(X), and (b) that ought(X) and ought(Y) imply ought(X and Y), then there are no moral dilemmas (Amos Wollen mentioned this to me). (Assume for sake of contradiction that there's some X such that ought(X) and ought(not X). Then by (b) we have ought(X and not X), and so by (a) we have can(X and not X), which is a contradiction.) Also, we might understand individual inconsistency on the model of collective disagreement, such that inconsistency is just self-disagreement; this lets us treat things like inconsistent intuitions a bit more nicely (see Kodsi).*
@@ -14,7 +18,7 @@ Some theories about ethics are natural theories, while others are normative. A n
 
 The normative version of that ethical theory would say:
 
-> ‘If you knew the facts, you would want to do X, so do it!’4
+> ‘If you knew the facts, you would want to do X, so do it!’
 
 Notice that both of these theories might have problems with accuracy; for instance, perhaps if you knew all the facts, you would want to do Y, not X! The same thing goes for simplicity. But the normative ethical theory alone faces the problems of acceptance and compliance. This is because the success of a description does not depend on whether it guides action, but the success of a prescription does depend on whether it does so. So, acceptance and compliance give us no good reason to reject a natural theory. They also might give us no good reason to reject a normative theory. However, they would still be problems for a normative theory. If these are big problems for a normative ethical theory, its advocates might need to spend quite a bit of effort promoting acceptance or compliance. This effort might include ingraining new patterns of thought, or establishing social and political institutions.[^5] So these problems can be overcome, even if they are big.
 
@@ -81,7 +85,7 @@ An edge case for ACCEPTANCE is self-effacing theories. Notice that the main argu
 
 A final complication for ACCEPTANCE is the worry that it is too broad. In particular, the only theories which avoid ACCEPTANCE are those that don’t even minimally conflict with WFMI. But there’s good reason to think that WFMI are extensionally incorrect. For instance, the WFMI of the past may have included the permissibility of slavery, or the inferior moral worth of various groups of people. If the WFMI of so many eras are so flawed, it’s difficult to believe that our current WFMI are somehow flawless. But if our current WFMI are extensionally flawed, then so is any theory which self-effaces in favor of our current WFMI! Such a theory also seems incapable of revising our moral intuitions, which is something we might seek from a moral theory. These two problems seem worse than ACCEPTANCE; so, perhaps ACCEPTANCE is a good problem to have. However, recall again that ACCEPTANCE comes in degrees. While a little bit of this problem is the price for avoiding much worse problems, this problem can also become severe for moral theories that diverge very far from our current WFMI. So, ACCEPTANCE still represents a genuine problem.
 
-References
+### References
 
 * Parfit, Derek, and Samuel Scheffler. On What Matters. Volume Two. Oxford: Oxford University Press, 2011.
 * Parfit, Derek. Reasons and Persons. Oxford: Clarendon Press, 1986.
