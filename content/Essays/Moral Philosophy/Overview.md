@@ -10,7 +10,7 @@ Funny story: it only looked like I overcame that tendency because, after I finis
 
 I got an 80 on my collections essay for moral philosophy, which I'm quite proud of; it was largely on material from the Week 3 essay, with some more discussion of moral motivation (drawing from Kagan's *Limits of Morality*).
 
-## Week 1: [[/Week-1|Mill's Principle]]
+## Week 1: [[/Essays/Moral-Philosophy/Week-1|Mill's Principle]]
 **Was Mill an advocate of act utilitarianism or rule utilitarianism? Which one is better?**
 
 I take it that this question was intended, at least in part, to emphasize the distinction between multi-level act utilitarianism and genuine rule utilitarianism (as these are popularly conflated). But, surprisingly, Mill does seem to be a rule-utilitarian after all! Today, I would at the very least reword some of the discussion of act versus rule utilitarianism, which I think is slightly misguided. For instance, the best argument for expected-value consequentialism isn't that it avoids uncertainty (it doesn't), but just by extensional adequacy (see [[/Notes/2024-2025/Non-Consequentialism#week-1-introduction|here]] for some discussion).
