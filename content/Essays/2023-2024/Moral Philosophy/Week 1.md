@@ -2,7 +2,7 @@
 date: January 2024
 ---
 
-## Was Mill an advocate of act utilitarianism or rule utilitarianism? which one is better?
+## Was Mill an advocate of act utilitarianism or rule utilitarianism? Which one is better?
 
 Act Utilitarianism (AU) and Rule Utilitarianism (RU) differ by their criteria of moral right. A token act *a* is morally right insofar as (and because):
 
