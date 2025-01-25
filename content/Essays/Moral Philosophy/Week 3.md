@@ -29,7 +29,7 @@ Here is a long quotation where Mill motivates, as outlined above, his distinctio
 
 > Utilitarian writers in general have placed the superiority of mental over bodily pleasures chiefly in...their circumstantial advantages rather than in their intrinsic nature. And on all these points utilitarians have fully proved their case; but they might have taken the other, and, as it may be called, higher ground, with entire consistency. It is quite compatible with the principle of utility to recognise the fact, that some kinds of pleasure are more desirable and more valuable than others. It would be absurd that while, in estimating all other things, quality is considered as well as quantity, the estimation of pleasures should be supposed to depend on quantity alone.
 
-Now, Mill’s distinction may be interpreted finitarily: for any two pleasures and a quantity *q*, there is some finite multiplier *k* such that *q* of the higher is worth *k* $\times$ *q* of the lower. Alternatively, Mill may be interpreted infinitarily: for some pairs of pleasures there is no finite k (i.e., a minimal amount of the higher pleasure is worth more than any finite amount of the lower pleasure).[^2] Mill’s writing is more consistent with the finitary view (italics mine):
+Now, Mill’s distinction may be interpreted finitarily: for any two pleasures and a quantity *q*, there is some finite multiplier $k$ such that $q$ of the higher is worth $k\times q$ of the lower. Alternatively, Mill may be interpreted infinitarily: for some pairs of pleasures there is no finite $k$ (i.e., a minimal amount of the higher pleasure is worth more than any finite amount of the lower pleasure).[^2] Mill’s writing is more consistent with the finitary view (italics mine):
 
 > If one of the two \[pleasures\] is, by those who are competently acquainted with both, placed so far above the other that they prefer it, even though knowing it to be attended with a greater amount of discontent, and would not resign it for any quantity of the other pleasure *which their nature is capable of*, we are justified in ascribing to the preferred enjoyment a superiority in quality, so far out-weighing quantity as to render it, in comparison, of *small* account.
 
@@ -43,7 +43,8 @@ The finitary reading does not fully achieve Mill’s aim. After making his disti
 
 The finitary reading falls to an amended version (Oyster) of the degradingness objection:
 
-> (2’) A magical oyster living *k* years yields the same quality-adjusted amount of pleasure as Hadyn’s life.
+> (2’) A magical oyster living $k$years yields the same quality-adjusted amount of pleasure as Hadyn’s life.
+>
 > (3’) So, the oyster’s life is of equal value with Hadyn’s life.
 
 The finitary view’s implication that a sufficiently long-lived oyster has a life as valuable as Hadyn’s is seen as disqualifying. Since it falls to (Oyster), the finitary view fails Mill’s goal of providing a more principled defense of utilitarian theories of value: it is no less circumstantial than the defenses taking the ‘lower ground’.
@@ -78,7 +79,7 @@ A further departure from Mill might be more plausible. Rather than a consensus o
 
 To recap: Mill wants his distinction between higher and lower pleasures to provide a more principled defense of utilitarian theories of value against the degradingness objection. One feature of a more principled defense would be withstanding amended versions of the objection. However, the most textually-supported reading of Mill fails to do this for Crisp’s (Oyster) case. If we amend our reading, as Crisp does, we are led to an infinitary reading which seems more principled at first pass. However, it falls to a more general objection: not the easily-met (Austerity) objection that Crisp raises, but rather a (Symmetry) objection which Smart raises but does not successfully address. While this objection may be answerable, doing so requires departing completely from Mill’s distinction. So, Mill’s own distinction is unable to achieve what he wants it to achieve.
 
-### An Aside
+### An aside
 Here is an aside on hedonism; I don’t think it’s relevant to the essay title, but it seems relevant to the topic in general. That is, I assume it might come up in the tutorial, and so I wanted to note my thoughts (badly articulated, even compared to the above essay) here. The most relevant reference is Appendix I of Reasons and Persons, though Sumner (2009) has some related discussion about early theorists. Hedonism (in particular, preference hedonism) differs from desire-satisfaction (in particular, success theory) in that the former takes preferences only about ‘introspectively discernible mental states’ to matter, while the latter takes preferences about ourselves more generally. Both of these differ from objective list theory, on which values precede preferences: approximately, something can be good simpliciter, rather than just good for some particular person. Mill writes:
 
 > It may be questioned whether any one who has remained equally susceptible to both classes of pleasures, ever knowingly and calmly preferred the lower... the judgment of those who are qualified by knowledge of both, or, if they differ, that of the majority among them, must be admitted as final.
