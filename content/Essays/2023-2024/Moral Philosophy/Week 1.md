@@ -9,6 +9,7 @@ date: January 2024
 Act Utilitarianism (AU) and Rule Utilitarianism (RU) differ by their criteria of moral right. A token act *a* is morally right insofar as (and because):
 
 > (AU) the performance of *a* would make things best.
+>
 > (RU) *a* is of some type A such that the performance of all A-acts would make things best.
 
 How to cash out ‘best’ is controversial within utilitarianism and is not my focus here; but at first pass, it’s something like the promotion of aggregate well-being. I call ‘optimal’ the token acts which, if done, would make things best; and (loosely following Parfit, but a bit idiosyncratically) ‘optimific’ the token acts of a type which, if acts of that type were generally done, things would be best. That is, (AU) says to act optimally, and (RU) says to act optimifically. Notice that the difference between (AU) and (RU) has nothing to do with explicit reference to rules; both criteria can be stated with or without such reference.
