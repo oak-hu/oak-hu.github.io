@@ -11,7 +11,7 @@ description: Welcome! My name is Oak. I do math and philosophy at Magdalen Colle
 
 Welcome!
 
-My name is Oak Hu.[^1] I do math and philosophy at Magdalen College, Oxford.
+My name is Oak.[^1] I do math and philosophy at Magdalen College, Oxford.
 
 Here, you can find copies of my philosophy essays (for [[/Essays/2023-2024/Moral-Philosophy/Overview|undergraduate]] [[/Essays/2024-2025/Knowledge--and--Reality|classes]]) and notes (for [[/Notes/2024-2025/Knowledge-of-Meaning|graduate]] [[/Notes/2024-2025/Non-Consequentialism|seminars]]). For more public-facing work, subscribe to my [[https://offhandquibbles.substack.com|Substack]]; for more personal stuff, see my [[https://instagram.com/oak.hu|Instagram]].
 
@@ -24,5 +24,5 @@ This site is under construction. Soon, I'd like to:
 * Switch from embedded PDFs to MarkDown text directly on this site
 * Add some personal things (say, what I'm currently reading / doing)
 
-[^1]: Well, [[https://offhandquibbles.substack.com/p/quotes-and-quinean-quasi-quotes-quickly|technically]], my name is 'Oak Hu' (a five-letter string), while *I* am Oak Hu (the person to whom 'Oak Hu' refers); but it's fine to be sloppy in almost all contexts. My parents named me after Oklahoma State University, where they both went for graduate school after immigrating from China. My last name, 'Hu', is from the Chinese 胡, composed of 古 ('ancient') and 月 ('moon'), although the latter is simplified from ⺼ ('meat'). Likewise, I stopped eating meat a few years ago. Funnily enough, adding 说 ('speak') yields 胡说 ('nonsense') — a nominative determinist might suggest that this is why someone named 'Oak Hu' does philosophy.
+[^1]: Well, [[https://offhandquibbles.substack.com/p/quotes-and-quinean-quasi-quotes-quickly|technically]], my name is 'Oak Hu' (a five-letter string), while *I* am Oak Hu (the person to whom 'Oak Hu' refers); but it's fine to be sloppy in almost all contexts. My parents named me 'Oak' after Oklahoma State University, where they both went for graduate school after immigrating from China. My last name, 'Hu', is from the Chinese 胡, composed of 古 ('ancient') and 月 ('moon'), although the latter is simplified from ⺼ ('meat'). Coincidentally, I stopped eating meat a few years ago. Also, adding 说 ('speak') to yields 胡说 ('nonsense') — a nominative determinist might suggest that this is why someone named 'Oak Hu' does philosophy.
 [^2]: There are two senses of 'primitive' here, which we can gloss as 'all-explaining' versus 'unexplainable'. These research programs attempt to explain things—like [[https://offhandquibbles.substack.com/p/counterfactuals|counterfactuals]] or [[https://offhandquibbles.substack.com/p/probability-for-philosophers|credences]]—in terms of necessity ('intensionalism') and knowledge ('knowledge-first'), so they take these notions as primitive in the first sense. But they need not take them as primitive in the second sense! For instance (helping ourselves to technical terms), we may define metaphysical necessity as the broadest objective modality, and knowledge as the most general factive stative propositional attitude.
