@@ -2,7 +2,7 @@
 date: January 2024
 ---
 
-# Was Mill an advocate of Act Utilitarianism or Rule Utilitarianism? Which one is better?
+## Was Mill an advocate of Act Utilitarianism or Rule Utilitarianism? Which one is better?
 
 \[There are several things in here that I would at the very least reword, but I've fixed only minor typos.\]
 
@@ -12,6 +12,8 @@ Act Utilitarianism (AU) and Rule Utilitarianism (RU) differ by their criteria of
 > (RU) *a* is of some type A such that the performance of all A-acts would make things best.
 
 How to cash out ‘best’ is controversial within utilitarianism and is not my focus here; but at first pass, it’s something like the promotion of aggregate well-being. I call ‘optimal’ the token acts which, if done, would make things best; and (loosely following Parfit, but a bit idiosyncratically) ‘optimific’ the token acts of a type which, if acts of that type were generally done, things would be best. That is, (AU) says to act optimally, and (RU) says to act optimifically. Notice that the difference between (AU) and (RU) has nothing to do with explicit reference to rules; both criteria can be stated with or without such reference.
+
+### Reading Mill as a rule utilitarian
 
 In his *Utilitarianism*, Mill assumes that optimific and optimal acts are identical, so it might be best to say that he advocates utilitarianism generally; however, he holds that acts are right in virtue of being optimific rather than in virtue of being optimal, so his position is more consistent with ru. Mill claims that everyone acting optimally would be the ‘nearest approach’ to ‘the ideal perfection of utilitarian morality’; i.e., that optimal acts are optimific:
 
@@ -36,6 +38,8 @@ But they should never be violated:
 
 In other words, sometimes *a* is actually (AU)-right but apparently (RU)-wrong. In these cases, either a is not actually ru-wrong (in which case we should amend what we think is optimific), or a is actually ru-wrong (in which case a would be morally wrong; but as we saw, Mill doubts this possibility). The latter feature is not characteristic of multi-level (AU) heuristics, so I read Mill as advocating (RU) instead.
 
+## Objections to my reading
+
 Crisp (1997) objects to this conclusion; since I think he successfully undercuts much of Urmson’s justification for reading Mill as supporting (RU), this is worth addressing. First, he claims that this line from Mill is closer to generalized utilitarianism than to rule-utilitarianism. As he sees it,
 
 > Another version of indirect utilitarianism, which one might call utilitarian generalization, makes no essential reference to rules, but is structurally very similar to rule utilitarianism. It requires that we perform no action which is such that, if people were generally to perform it, welfare would not be maximized.
@@ -59,6 +63,8 @@ Mill’s use of ‘might’ is very clearly explained without the need to twist 
 This is much more in line with my reading than with Crisp’s: spending money on frivolities might be best on particular occasions, but if practiced in general, would lead to bankruptcy. It’s unclear what ‘abstinences’ have to do with avoiding events that have some chance of benefit but overall negative expected value. So, this objection and alternate reading also don’t work. Mill is simply suggesting that even if one thinks that an optimific act is suboptimal, the optimific act is still morally right; morality is fundamentally about following the optimific rules, and the fact that they turn out to be optimal is a happy accident which enables him to improve on the defect with Kant’s fundamental rule: it isn’t wrong, but it’s ‘grotesquely’ insufficient.
 
 Overall, then, I maintain the position that Mill did not see any practical difference between (AU) and (RU), but rather advocated for what he took to be properly implied by both (i.e., not naive (AU)); and furthermore, that his position is more consistent with (RU) than multi-level (AU).
+
+## Act vs. rule utilitarianism
 
 The two criteria I take to be relevant for comparing (AU) and (RU) are extensional adequacy (are optimal/optimific acts the morally right ones?) and intensional adequacy (is being optimal/optimific what it means to be morally right?) of the best versions of those respective theories; so, first I specify these best versions.
 
