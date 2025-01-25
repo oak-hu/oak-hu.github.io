@@ -2,7 +2,8 @@
 date: January 2024
 ---
 
-## Is it a problem for a normative ethical theory if it is in conflict with widely felt moral intuitions?
+## Moral Intuitions
+**Is it a problem for a normative ethical theory if it is in conflict with widely felt moral intuitions?**
 
 *(January 2025): This was the first draft of my [[/Week-7|Week 7 essay]], which I then edited to make move slower (as that was the main feedback that I'd gotten from my tutor for previous essays). It seems to have worked! But here's the original, to illustrate the difference.*
 
