@@ -2,9 +2,7 @@
 date: January 2024
 ---
 
-## Was Mill an advocate of Act Utilitarianism or Rule Utilitarianism? Which one is better?
-
-\[There are several things in here that I would at the very least reword, but I've fixed only minor typos.\]
+## Was Mill an advocate of act utilitarianism or rule utilitarianism? which one is better?
 
 Act Utilitarianism (AU) and Rule Utilitarianism (RU) differ by their criteria of moral right. A token act *a* is morally right insofar as (and because):
 
@@ -38,7 +36,7 @@ But they should never be violated:
 
 In other words, sometimes *a* is actually (AU)-right but apparently (RU)-wrong. In these cases, either a is not actually ru-wrong (in which case we should amend what we think is optimific), or a is actually ru-wrong (in which case a would be morally wrong; but as we saw, Mill doubts this possibility). The latter feature is not characteristic of multi-level (AU) heuristics, so I read Mill as advocating (RU) instead.
 
-## Objections to my reading
+### Objections to my reading
 
 Crisp (1997) objects to this conclusion; since I think he successfully undercuts much of Urmson’s justification for reading Mill as supporting (RU), this is worth addressing. First, he claims that this line from Mill is closer to generalized utilitarianism than to rule-utilitarianism. As he sees it,
 
@@ -64,7 +62,7 @@ This is much more in line with my reading than with Crisp’s: spending money on
 
 Overall, then, I maintain the position that Mill did not see any practical difference between (AU) and (RU), but rather advocated for what he took to be properly implied by both (i.e., not naive (AU)); and furthermore, that his position is more consistent with (RU) than multi-level (AU).
 
-## Act vs. rule utilitarianism
+### Act vs. rule utilitarianism
 
 The two criteria I take to be relevant for comparing (AU) and (RU) are extensional adequacy (are optimal/optimific acts the morally right ones?) and intensional adequacy (is being optimal/optimific what it means to be morally right?) of the best versions of those respective theories; so, first I specify these best versions.
 
@@ -90,7 +88,7 @@ Parfit raises a troubling objection about alienation.
 
 (There is a note at the starred point, where Parfit argues that this isn’t strictly true; but we’ve conceded above that everyone being uncalibrated gets rewarded in the Stag Hunt style case that he raises.) I grant that in the actual world, (AU) requires that we become alienated to the extent that this would maximize aggregate welfare, and that this is at the limit of human tolerability. But if it would be better to form more personal relationships in the ideal world, (AU) would recommend forming personal relationships. The alienation gap is between what’s best for everyone and what’s best for us. But this gap is more tolerable in the ideal world because we now gain benefits from others acting optimally. And, by construction, if we all decreased the gap any more, we’d all feel worse off. One might expect that the right amount of alienation in the ideal world is less than what (AU) requires in the actual world; and if that were so, (AU) would simply require that lower amount of alienation instead. So, I don’t think this objection works.
 
-## References
+### References
 
 * Crisp, Roger. Routledge Philosophy Guidebook to Mill on Utilitarianism. Abingdon, Oxon: Routledge, 2009.
 * Foot, Philippa, ed. Theories of Ethics. Oxford: Oxford University Press, 2002.
