@@ -4,6 +4,8 @@ date: January 2024
 
 ## Does Mill’s distinction between higher and lower pleasures achieve what he wants it to achieve?
 
+\[(January 2025): I think some of the symmetry discussion, like a lot of discussion of skepticism in general, is too dialectically-minded. People can know what the higher pleasures are, even if they can't convince their opponents. However, there might still be a problem of making the higher pleasures depend on peoples' judgments ('what *makes* one pleasure more valuable than another'), rather than taking these judgments as merely indicating what the objectively higher pleasures are. Also, note that the transfinite ordinal scale isn't *really* needed (as with slightly less naive utility functions we can represent welfare levels with just the reals).\]
+
 One worry for utilitarian theories of value is that they are degrading. Under simple hedonism:
 
 > (1) If two things yield the same quantity of pleasure, they are equally valuable.
