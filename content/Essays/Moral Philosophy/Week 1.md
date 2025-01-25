@@ -7,11 +7,11 @@ date: January 2024
 
 *(January 2025): I take it that this question was intended, at least in part, to emphasize the distinction between multi-level act utilitarianism and genuine rule utilitarianism (as these are popularly conflated). But, surprisingly, Mill does seem to be a rule-utilitarian after all! Today, I would at the very least reword some of the discussion of act versus rule utilitarianism, which I think is slightly misguided. For instance, the best argument for expected-value consequentialism isn't that it avoids uncertainty (it doesn't), but just by extensional adequacy (see [[/Notes/2024-2025/Non-Consequentialism#week-1-introduction|here]] for some discussion).*
 
-Act Utilitarianism (AU) and Rule Utilitarianism (RU) differ by their criteria of moral right. A token act *a* is morally right insofar as (and because):
+Act Utilitarianism (AU) and Rule Utilitarianism (RU) differ by their criteria of moral right. A token act $a$ is morally right insofar as (and because):
 
-> (AU) the performance of *a* would make things best.
+> (AU) the performance of $a$ would make things best.
 >
-> (RU) *a* is of some type A such that the performance of all A-acts would make things best.
+> (RU) $a$ is of some type A such that the performance of all A-acts would make things best.
 
 How to cash out ‘best’ is controversial within utilitarianism and is not my focus here; but at first pass, it’s something like the promotion of aggregate well-being. I call ‘optimal’ the token acts which, if done, would make things best; and (loosely following Parfit, but a bit idiosyncratically) ‘optimific’ the token acts of a type which, if acts of that type were generally done, things would be best. That is, (AU) says to act optimally, and (RU) says to act optimifically. Notice that the difference between (AU) and (RU) has nothing to do with explicit reference to rules; both criteria can be stated with or without such reference.
 
@@ -38,7 +38,7 @@ But they should never be violated:
 
 > In the case of abstinences indeed—of things which people forbear to do, from moral considerations, though the consequences in the particular case might be beneficial—it would be unworthy of an intelligent agent not to be consciously aware that the action is of a class which, if practised generally, would be generally injurious, and that this is the ground of the obligation to abstain from it.
 
-In other words, sometimes *a* is actually (AU)-right but apparently (RU)-wrong. In these cases, either a is not actually ru-wrong (in which case we should amend what we think is optimific), or a is actually ru-wrong (in which case a would be morally wrong; but as we saw, Mill doubts this possibility). The latter feature is not characteristic of multi-level (AU) heuristics, so I read Mill as advocating (RU) instead.
+In other words, sometimes $a$ is actually (AU)-right but apparently (RU)-wrong. In these cases, either $a$ is not actually (RU)-wrong (in which case we should amend what we think is optimific), or a is actually (RU)-wrong (in which case a would be morally wrong; but as we saw, Mill doubts this possibility). The latter feature is not characteristic of multi-level (AU) heuristics, so I read Mill as advocating (RU) instead.
 
 ### Objections to my reading
 
@@ -70,7 +70,7 @@ Overall, then, I maintain the position that Mill did not see any practical diffe
 
 The two criteria I take to be relevant for comparing (AU) and (RU) are extensional adequacy (are optimal/optimific acts the morally right ones?) and intensional adequacy (is being optimal/optimific what it means to be morally right?) of the best versions of those respective theories; so, first I specify these best versions.
 
-Firstly, expected consequences matter. I will not argue that we should directly reason off expected value (i.e., without loss aversion), but simply note that we must have some way to deal with the epistemic (at least) fact that outcomes are fundamentally uncertain. That results of that uncertainty are not up to us. We can try to bring about some results, but must take into account that we may fail in the trying (as Crisp’s probabilistic reading of Mill warns us). Acts, generally, should be construed as ‘trying to act so’; to ask more than this is to ask moral agents to bring about better outcomes than they are able to, and one may as well ask non-agents to do the same. The only acts open to agents are of the form *a* := ‘try to bring about *a∗*’ where *a∗* is some set of expected consequences, so I shall say ‘try to act’ for clarity. To use the intention/motive distinction Mill attributes to Bentham, actions are at least about intentions (and, since (RU) does not have limited scope, I take it that we should act toward our motives as we should act elsewhere: try to fix them such that the best outcomes result). Thus, I make no distinction between successfully complying with a set of rules and sincerely accepting them: the former is either a complete non-starter, or else simply means the latter.
+Firstly, expected consequences matter. I will not argue that we should directly reason off expected value (i.e., without loss aversion), but simply note that we must have some way to deal with the epistemic (at least) fact that outcomes are fundamentally uncertain. That results of that uncertainty are not up to us. We can try to bring about some results, but must take into account that we may fail in the trying (as Crisp’s probabilistic reading of Mill warns us). Acts, generally, should be construed as ‘trying to act so’; to ask more than this is to ask moral agents to bring about better outcomes than they are able to, and one may as well ask non-agents to do the same. The only acts open to agents are of the form $a$ := ‘try to bring about *a∗*’ where *a∗* is some set of expected consequences, so I shall say ‘try to act’ for clarity. To use the intention/motive distinction Mill attributes to Bentham, actions are at least about intentions (and, since (RU) does not have limited scope, I take it that we should act toward our motives as we should act elsewhere: try to fix them such that the best outcomes result). Thus, I make no distinction between successfully complying with a set of rules and sincerely accepting them: the former is either a complete non-starter, or else simply means the latter.
 
 Next, (RU) must be made more robust, or fall a ‘new ideal-world objection’. From Parfit:
 
