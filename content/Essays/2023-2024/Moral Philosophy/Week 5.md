@@ -2,7 +2,8 @@
 date: January 2024
 ---
 
-## Is Mill’s utilitarianism capable of satisfying our intuitions about justice and rights? If not, does it matter?
+## Justice & Rights
+**Is Mill’s utilitarianism capable of satisfying our intuitions about justice and rights? If not, does it matter?**
 
 *(January 2025): Since writing, I've become much more sympathetic to a sort of objective-list theory, and slightly less sympathetic to sophisticated subjectivism (think Railton); so, I'd probably change some of the wording / framing. But I do think that consequentialism more broadly isn't as counterintuitive as you'd initially think! Obviously, there's the worry that consequentialists may pursue a degenerating research program of adding epicycles to accommodate unfriendly intuitions (something like this, I think, is a problem with sophisticated subjectivisms). But I don't think this holds.*
 
