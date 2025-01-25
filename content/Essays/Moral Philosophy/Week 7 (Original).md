@@ -10,14 +10,19 @@ date: January 2024
 Here is one version of an argument (CONFLICT) that it is a problem for a normative ethical theory φ if it conflicts with widely felt moral intuitions (WFMI):
 
 > (1) It is a problem for φ if it is probably extensionally incorrect.[^1]
+> 
 > (2) φ is probably extensionally incorrect if it is in conflict with WFMI.[^2]
+> 
 > (3) So, it is a problem for φ if it is in conflict with WFMI.
 
 To defend some particular theory φ (e.g., Mill’s utilitarianism), one might accept CONFLICT but argue that φ doesn’t conflict with WFMI. A more general line is to attack (2) with an evolutionary debunking argument.[^3] If successful, this means CONFLICT fails to establish (3). However, this would not refute (3), since there might be other reasons to believe it. Here is a sketch of two:
 
 > (C1) It is a problem (COMPLIANCE) for φ if it is difficult to comply with.
+> 
 > (C2) φ is difficult to comply with if it is in strong conflict with WFMI.
+> 
 > (A1) It is a problem (ACCEPTANCE) for φ if it is difficult to accept.
+> 
 > (A2) φ is difficult to accept if it is in weak conflict with WFMI.
 
 Note that these are two distinct problems: an implications of some φ might be easy to comply with but difficult to accept (e.g., ‘everything is permitted’) or vice versa (e.g., ‘we are morally obliged to give up meat’). However, as we’ll see, acceptance might be a special type of compliance.
@@ -53,16 +58,24 @@ I think the spirit of that worry is correct. But ACCEPTANCE is not a good proble
 It is a problem for a normative ethical theory φ if it is in conflict with widely felt moral intuitions. One argument to this effect is CONFLICT. We can situate the debate about intuition and the methodology of normative ethics here. But even if CONFLICT is undercut by that debate, there might be independent lines toward its conclusion. I advance two of them: COMPLIANCE and ACCEPTANCE. Here are revised versions of the arguments. (Of course, read ‘difficult’ as ‘difficult for most people’ and ‘we’ as ‘most people’.)
 
 > (C1.1) It is a problem for φ if it will not get broad compliance.
+> 
 > (C1.2) φ will not get broad compliance if it is difficult to comply with.
+> 
 > (C2.1) φ is difficult to comply with if we have must overcome or create strong motivations to do so.
+> 
 > (C2.2) We must overcome strong motivationsto comply with φ if it conflicts strongly with WFMI, and create strong motivations to comply with φ if it conflicts asymmetrically with WFMI.
+> 
 > (COMPLIANCE) It is a problem for φ if it conflicts strongly or asymmetrically with WFMI.
 
 
 > (A1.1) It is a problem for φ if φ* will not get broad acceptance.
+> 
 > (A1.2) φ* will not get broad acceptance if it is difficult to accept.
+> 
 > (A2.1) φ* is difficult to accept if we must reject strong attachments to do so.
+> 
 > (A2.2) We must reject strong attachments to accept φ* if φ conflicts even minimally with WFMI.
+> 
 > (ACCEPTANCE) It is a problem for φ if it conflicts even minimally with WFMI.
 
 ### References
