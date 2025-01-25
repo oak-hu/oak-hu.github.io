@@ -4,6 +4,8 @@ date: January 2024
 
 ## Was Mill an advocate of act utilitarianism or rule utilitarianism? Which one is better?
 
+\[(January 2025): I take it that this question was intended, at least in part, at emphasizing the distinction between multi-level act utilitarianism versus genuine rule utilitarianism (as people often conflate these). But, surprisingly, Mill does seem to be a rule-utilitarian after all! Today, I would at the very least reword some of the discussion of act versus rule utilitarianism, which I think is slightly misguided. For instance, the best argument for expected-value consequentialism isn't that it avoids uncertainty (it doesn't), but just by extensional adequacy (see [/Notes/2024-2025/Non-Consequentialism|here] for some discussion).\]
+
 Act Utilitarianism (AU) and Rule Utilitarianism (RU) differ by their criteria of moral right. A token act *a* is morally right insofar as (and because):
 
 > (AU) the performance of *a* would make things best.
@@ -11,7 +13,7 @@ Act Utilitarianism (AU) and Rule Utilitarianism (RU) differ by their criteria of
 
 How to cash out ‘best’ is controversial within utilitarianism and is not my focus here; but at first pass, it’s something like the promotion of aggregate well-being. I call ‘optimal’ the token acts which, if done, would make things best; and (loosely following Parfit, but a bit idiosyncratically) ‘optimific’ the token acts of a type which, if acts of that type were generally done, things would be best. That is, (AU) says to act optimally, and (RU) says to act optimifically. Notice that the difference between (AU) and (RU) has nothing to do with explicit reference to rules; both criteria can be stated with or without such reference.
 
-### Reading Mill as a rule utilitarian
+### Mill's rule-utilitarianism
 
 In his *Utilitarianism*, Mill assumes that optimific and optimal acts are identical, so it might be best to say that he advocates utilitarianism generally; however, he holds that acts are right in virtue of being optimific rather than in virtue of being optimal, so his position is more consistent with ru. Mill claims that everyone acting optimally would be the ‘nearest approach’ to ‘the ideal perfection of utilitarian morality’; i.e., that optimal acts are optimific:
 
