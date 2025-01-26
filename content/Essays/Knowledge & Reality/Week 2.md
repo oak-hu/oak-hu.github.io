@@ -3,7 +3,7 @@ title: "W2: Contextualism"
 date: November 2024
 ---
 
-##Contextualism
+## Contextualism
 **What is the difference between contextualism and
 subject-sensitive invariantism? Which is better motivated by
 shifting patterns of knowledge ascriptions?**
