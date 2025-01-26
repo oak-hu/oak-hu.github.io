@@ -1,6 +1,6 @@
 ---
 date: November 2024
-draft: true
+title: W1: Knowledge
 ---
 
 ## Knowledge
