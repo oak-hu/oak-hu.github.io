@@ -1,5 +1,5 @@
 ---
-title: W1: Knowledge
+title: "W1: Knowledge"
 date: November 2024
 ---
 
