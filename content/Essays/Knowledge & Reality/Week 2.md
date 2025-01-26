@@ -1,5 +1,5 @@
 ---
-title: W2: Contextualism
+title: "W2: Contextualism"
 date: November 2024
 ---
 
