@@ -1,11 +1,12 @@
 ---
+title: "W7: Moral Intuitions"
 date: January 2024
 ---
 
 ## Moral Intuitions
 **It is a problem for a normative ethical theory if it is in conflict with widely felt moral intuitions.**
 
-*(January 2025): This essay was rewritten from scratch before submitting, to make it move much more slowly. I might put up the original version, too, so you can see the contrast. I'm not sure how large a distinction there is between the natural and the normative: for instance, I don't think there's any deep distinction between natural and normative facts: we may understand both as just sets of possible worlds that include the actual world (see Williamson). There's also a bit more to say about moral dilemmas. For instance, if we accept (a) that ought(X) implies can(X), and (b) that ought(X) and ought(Y) imply ought(X and Y), then there are no moral dilemmas (Amos Wollen mentioned this to me). (Assume for sake of contradiction that there's some X such that ought(X) and ought(not X). Then by (b) we have ought(X and not X), and so by (a) we have can(X and not X), which is a contradiction.) Also, we might understand individual inconsistency on the model of collective disagreement, such that inconsistency is just self-disagreement; this lets us treat things like inconsistent intuitions a bit more nicely (see Kodsi).*
+*(January 2025): This essay was rewritten from scratch before submitting, to make it move much more slowly. I've put up [[/Week-7-(Original)|the original version]], too, so you can see the contrast. I'm not sure how large a distinction there is between the natural and the normative: for instance, I don't think there's any deep distinction between natural and normative facts: we may understand both as just sets of possible worlds that include the actual world (see Williamson). There's also a bit more to say about moral dilemmas. For instance, if we accept (a) that ought(X) implies can(X), and (b) that ought(X) and ought(Y) imply ought(X and Y), then there are no moral dilemmas (Amos Wollen mentioned this to me). (Assume for sake of contradiction that there's some X such that ought(X) and ought(not X). Then by (b) we have ought(X and not X), and so by (a) we have can(X and not X), which is a contradiction.) Also, we might understand individual inconsistency on the model of collective disagreement, such that inconsistency is just self-disagreement; this lets us treat things like inconsistent intuitions a bit more nicely (see Kodsi).*
 
 ### Normative ethical theories
 
