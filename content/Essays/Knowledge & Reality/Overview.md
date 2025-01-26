@@ -16,7 +16,7 @@ The version that I've included here is reworked from the original, which just tr
 
 Linguistic judgments differ a lot, but I was surprised to find that mine were so contextualist. Daniel said that he was quite annoyed that he couldn't come up with an example context where 'they ate the snacks. Well, they didn't *eat* them, but they ate them' worked (but finally did come up with the snacks being soup).
 
-## Week 3:[[/Essays/Knowledge--and--Reality/Week-3|Williamson I]]
+## Week 3: [[/Essays/Knowledge--and--Reality/Week-3|Williamson I]]
 
 Unfortunately, as Jeremy Goodman notes, "Williamson is his own best expositor". The compositeness of true belief is a weird result, which suggests that primeness might be too high a bar.
 
