@@ -1,5 +1,5 @@
 ---
-title: "3. Higher Pleasures"
+title: "W3: Higher Pleasures"
 date: January 2024
 ---
 
