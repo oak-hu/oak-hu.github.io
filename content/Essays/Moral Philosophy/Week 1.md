@@ -1,5 +1,5 @@
 ---
-title: "W1: Mill's Principle"
+draft: true
 date: January 2024
 ---
 
