@@ -1,5 +1,5 @@
 ---
-draft: true
+title: "3. Higher Pleasures"
 date: January 2024
 ---
 
