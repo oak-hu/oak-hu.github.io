@@ -1,5 +1,5 @@
 ---
-title: "5. Justice & Rights"
+title: "W5: Justice & Rights"
 date: January 2024
 ---
 
