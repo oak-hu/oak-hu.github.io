@@ -1,4 +1,5 @@
 ---
+title: "W1: Mill's Principle"
 date: January 2024
 ---
 
