@@ -1,5 +1,5 @@
 ---
-draft: true
+title: 7. Moral Intuitions
 date: January 2024
 ---
 
