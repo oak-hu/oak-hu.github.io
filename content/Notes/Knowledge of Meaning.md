@@ -4,7 +4,7 @@ date: January 2025
 
 Notes from a graduate class with Ian Rumfitt on how we know what things mean.
 
-## Week 1: The Tractarian Thesis
+## Week 1
 
 ### 1. The thesis
 Wittgenstein: *4.024 Einen Satz verstehen, heißt, wissen was der Fall ist, wenn er wahr ist* ('To understand a declarative sentence means to know what is the case if it is true').
@@ -22,12 +22,12 @@ Do we really want to say our philosophical opponents who disagree with us about 
 
 Why assume anything like this is true? I don't know the truth-conditions in any transparent guise (say, with a disquotational schema)? What if it's really, really context-sensitive? What if the truth-conditions are vague, and so unknowable?
 
-### 2. What is a sentence?
+### 2. Sentences
 
 * On a broadly Strawsonian view: roughly, something with which you can perform a complete speech act. By contrast with some expression which (together) has type <t>. Consider: 'Hello, Jemima'; 'Hurrah for Manchester United!'
 * Frege's context principle: only ask for the meaning of a word in the context of a sentence. 'Only in the context of a sentence does a word mean anything'. (Wait, what? Seems quite weird, and in tension with Frege's thesis.)
 
-### 3. The individuation of sentences
+### 3. Individuation
 
 * Austin: To perform a _locutionary_ act is to (a) utter a _phone_ (certain noises), (b) utter a _pheme_ (certain lexical items in a grammatically okay way), and (c) perform a _rhetic_ act (do so with a more or less definite sense and reference).
 * Example: The same phone 'flying planes can be dangerous' corresponds to two English phemes.
@@ -40,7 +40,7 @@ Response: *in 'Ann smokes', 'Ann' isn't *used* as a sentence; so it's not a subs
 
 'The proposition that arithmetic is incomplete was first proved by Godel?' Does the ideology of propositions even make sense here, for necessary truths?
 
-### 4. The classification of sentences
+### 4. Classification
 
 * Claim: it's unfruitful to try and find differences in speech acts, say, in telling someone that something is the case, or to do something.
 * Example: 'In this house, we remove our shoes before entering'. (Similar: 'You do it like this'.)
@@ -54,9 +54,46 @@ Response: *in 'Ann smokes', 'Ann' isn't *used* as a sentence; so it's not a subs
 
 I wonder what the imperative mood in other languages looks like. Could be a challenge to the assimilation!
 
-### 5. Declarative sentences
+### 5. Declaratives
 
 * 'No one would assign truth-conditions to "let's go"'. (But why not? '[You] let us go' is true iff the audience does let them go.)
 I thought the proposal was to assimilate all of these apparently non-declarative things to pragmatic derivations from declaratives? But The answer here was that we need to keep in mind even distinctions between, say, ordering and telling to and inviting in order to classify sentences.
 
 (We ran out of time before finishing the handout.)
+
+## Week 2
+
+### 1. Declaratives
+
+- Frege: 'What is true is independently of our recognizing it as such' ('implausible to suggest that sentences would exist independently of us': shouldn't this be about propositions, though?)
+- McDowell: 'The truth-condition of a sentence may obtain, or not, independently of our capacity to tell that it obtains, or that it does not'
+- Wiggins: 'Every statement which lacks (possesses) truth lacks (possesses) it independently of a sepaker's means of recognizing it [...] something potentially resistant, and outside the act of judgement itself, upon which the mind can gain purchase and _go forward_ in judgement or denial' ('so, the source may be the judgment of others': so Wiggins says this is necessary, but does he say that this suffices, such that just the judgments of others suffice?)
+- Frege:
+- - 'Botticellis _La Primavera ist ein altes Tafelgemalde' ('It's old')
+  - '[...] ein shones Gemalde' (It's beautiful')
+- Dummett's Test: can it serve as the antecedent of a conditional?
+- - 'If Reagan was a KGB agent, no evidence to that effect will ever be found'
+  - On Frege-Geach: 'reflects the peculiar power of the context to demand interpretation in terms of truth-conditions'
+- Not reliable (!?): 'if it works, it works only for English and not for very close relatives'. In Gibbardese, 'Act $A$ is the thing to do' expresses a plan to perform $A$: but, 'packing is the thing to do' can still serve as an antecedent. (Surely the test isn't meant to be definitive, such that artificial counterexamples could be cooked up? But maybe that's the point. )
+- 'If the cup broke if it was dropped, then it was fragile' / '[...] If (it's the case that) Kripke was at the conference if strawson was, then Anscombe was there'
+
+### 2. Neo-Ramsey
+
+- Frege: Thoughts are not private, else disputes would be futile. (Really beautiful passage!)
+- - But: 'Let's go to Quod' / 'No, let's go to the Old Parsonage' (But does Frege require that this is sufficient for being truth-evaluable, or just necessary? Further, maybe we do take these to be truth-evaluable after all...)
+- Ramsey: $S$ is [true/false] iff $\exists P(S$ expresses the thought that $P \land [P/\lnot P])$
+- - Moral: propositions are just those things manipulable by the propositional calculus
+  - For instance, Lewis's argument about conditionals relies on the logical equivalence between $X$ and $(X\land C)\lor(X\land\lnot C)$.
+- Claim: the 'morass' of debate around the truth-conditions for indicative conditionals (and generics) matches their borderline embeddability within the propositional calculus.
+
+### 3. Real declaratives
+
+- Dummett: A sentence may be used to make a claim if those who understand it know what would justify an assertive use of it. (Conditionals, moral statements are fine. But of course we who think they're just straightforwardly propositional agree.)
+- - Non-classical negation, according to which the negative utterance 'Not B' expresses a second-order claim to be entitled to make a claim incompatible with the utterance of 'B'
+  - (Does a knowledge norm on assertion get you something like this?)
+  - These are complicated contraries, but not negations (I think that's right)
+- Gibbard: Negation is disagreeing (entails not-agreeing) with a claim. But fails to validate disjunctive syllogism
+- - Either packing now is the thing to do, or by now it's too late to catch the train anyway; but it's not too late to catch the train, so packing now is the thing to do.
+  - Failing to rule 'packing now is the thing to do' (keeping it as a live option) is not going to entail deciding 'packing now is the thing to do' outright. (And he thinks the first premise is just ruling out rejecting both disjuncts, the second is rejecting the second.)
+  - (But if disagreement is super weak, then the negation story doesn't work out: to negate something, I should have to think of it)
+
