@@ -53,3 +53,33 @@ might allow higher-order identities between presence and these induced relations
 an induced relation is location conducive iff it entails that the delegator is weakly located at the place of delegation; exlusive, indifferent clear generalizations
 
 Loc Con requires delegator to be there; occupany only requires it to be somewhere in the system.
+
+### Belief Change as Evidence
+**Elise Woodard (KCL)**
+
+Motivating Case: I'm against some position; I learn that you used to be against it, for the same reasons, but then changed your mind.
+
+The View:
+
+This can provide
+1. zetetic ('inquiric') reasons to investigate further
+2. second-order evidence (a) that there is more evidence out there, and (b) about the quality of your reasoning
+
+But not when
+1. It's not a genuine change of mind
+2. There's overwhelming counterevidence against the adopted view
+
+Minimal pairs (over, say, the relative importance of family, or philosophical pragmatism)
+1. A and B disagree, and always have.
+2. A and B disagree, but B used to agree with A.
+
+Being A in version 2 seems much more worrying!
+
+Changes of mind:
+- Not just any belief-revision (just as forgetting is not just any loss of knowledge)
+- Indicator of epistemic improvement
+- Epistemic virtue and avoiding certain biases
+- Evidence of epistemic superiority & empathy
+
+(So, like, this is why we give the advice to be able to argue for your opponents' positions at least as well as they can themselves. Also, this is why people parade around, say, religious converts.)
+
