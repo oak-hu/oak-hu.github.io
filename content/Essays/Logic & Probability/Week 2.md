@@ -69,7 +69,7 @@ Induction: now assume (IH) that for any ND$_1$-proof of $\psi$ with $k$ assumpti
 >
 > Call this system H*. Is H* complete for the semantics of $\mathcal{L}_1$? If so, provide a proof. If not, explain why and suggest a new rule (other than ($\to$Elim)) that could be added to H* to restore completeness.
 
-H* is not complete, because (MT) only proves sentences of the form $\lnot\psi$. So, for instance, it can't prove that $\lnot\lnot P\vDash P$. So, adding double-negation elimination or ($\lnot$Elim) would restore completeness.
+H* is not complete, because (MT) only proves sentences of the form $\lnot\psi$. So, for instance, it can't prove that $\lnot\lnot P\vDash P$. We could add contraposition, and double-negation introduction/elimination.
 
 ### Question 2.8
 > Let $\mathcal{L}_!$ be $\mathcal{L}_=$ enriched with a new quantifier $\exists!$, whose syntax is $\exists!\textbf{v}\phi$ and whose intended interpretation is 'there exists exactly one ...'. Provide precise semantic clauses for $\exists!$ and find introduction and elimination rules that could be added to ND$_=$ to generate a system ND$_!$ (with deducibility relation $\vdash_!$) for $\mathcal{L}_!$. Show that ND$_!$ is conservative over ND$_=$ in the following sense: where $\phi\in\mathsf{Sent}$ and $\Gamma\subseteq\mathsf{Sent}$, $\Gamma\vdash_!\phi$ only if $\Gamma\vdash\phi$ (according to the standard ND$_=$-derivability relation $\vdash$).
