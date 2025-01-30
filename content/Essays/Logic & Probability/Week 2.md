@@ -32,7 +32,7 @@ Recall that $\Gamma$ is maximal consistent just in case $\Gamma$ is consistent, 
 ### Question 2.4
 > Prove one of the missing quantifier cases of Theorem 2.1.2. (Soundness of ND$_=$). (You may choose which one.)
 
-For ($\forall$Elim), the proof $\pi$ has the structure $\pi_1\cdots\forall\textbf{v}\phi\ |\ \phi[\textbf{c}/\textbf{v}]$, with $\mathsf{As}(\pi)=\mathsf{As}(\pi_1)$. We have $\mathsf{As}(\pi)\vdash^\pi_n\phi[\textbf{c}/\textbf{v}]$. We fix an arbitrary $\mathsf{A}$ and assume $\mathsf{A}\vDash\chi$ for every $\chi\in\mathsf{As}(\pi)$; we need to show $\mathsf{A}\vDash\phi[\textbf{c}/\textbf{v}]$. We have $\mathsf{As}(\pi_1)\vdash^{\pi_1}_{<n}\forall\textbf{v}\phi$, so by the IH $\mathsf{As}(\pi_1)\vDash\forall\textbf{v}\phi$. Since $\mathsf{As}(\pi)=\mathsf{As}(\pi_1)$, $\mathsf{A}\vDash\forall\textbf{v}\phi$. That is, for any variable assignment $\alpha$, $\min\{|\phi|_\mathsf{A}^{\alpha[a/\textbf{v}]}:a\in D_\mathsf{A}\}=1$, so in particular $|\phi[\textbf{c}/\textbf{v}]|^\alpha_\mathsf{A}=|\phi|^{\alpha[\textbf{c}/\textbf{v}]}_\mathsf{A}=1$. So, $\mathsf{A}\vDash\phi[\textbf{c}/\textbf{v}].$
+For ($\forall$Elim), the proof $\pi$ has the structure $\pi_1\cdots\forall\textbf{v}\phi\ |\ \phi[\textbf{c}/\textbf{v}]$, with $\mathsf{As}(\pi)=\mathsf{As}(\pi_1)$. We have $\mathsf{As}(\pi)\vdash^\pi_n\phi[\textbf{c}/\textbf{v}]$. We fix an arbitrary $\mathcal{A}$ and assume $\mathcal{A}\vDash\chi$ for every $\chi\in\mathsf{As}(\pi)$; we need to show $\mathcal{A}\vDash\phi[\textbf{c}/\textbf{v}]$. We have $\mathsf{As}(\pi_1)\vdash^{\pi_1}_{<n}\forall\textbf{v}\phi$, so by the IH $\mathsf{As}(\pi_1)\vDash\forall\textbf{v}\phi$. Since $\mathsf{As}(\pi)=\mathsf{As}(\pi_1)$, $\mathcal{A}\vDash\forall\textbf{v}\phi$. That is, for any variable assignment $\alpha$, $\min\{|\phi|_\mathcal{A}^{\alpha[a/\textbf{v}]}:a\in D_\mathcal{A}\}=1$, so in particular $|\phi[\textbf{c}/\textbf{v}]|^\alpha_\mathcal{A}=|\phi|^{\alpha[\textbf{c}/\textbf{v}]}_\mathcal{A}=1$. So, $\mathcal{A}\vDash\phi[\textbf{c}/\textbf{v}].$
 
 ### Question 2.5
 > Let H be the deduction system for $\mathcal{L}_1$ with the following rules:
@@ -46,9 +46,9 @@ For ($\forall$Elim), the proof $\pi$ has the structure $\pi_1\cdots\forall\textb
 >
 > Show that H is sound and complete for the semantics of $\mathcal{L}_1$. You may use the soundness and completeness of ND$_1$.
 
-(Soundness): We want to show that if there is an H-proof $\pi$ such that $\Gamma\vdash^\pi\phi$ for $\phi\in\mathsf{Sent}$ and $\Gamma\subseteq\mathsf{Sent}$, then for any $\mathcal{L}_1$-structure $\mathsf{A}$: if $\mathsf{A}\vDash\Gamma$, then $\mathsf{A}\vDash\phi$.
+(Soundness): We want to show that if there is an H-proof $\pi$ such that $\Gamma\vdash^\pi\phi$ for $\phi\in\mathsf{Sent}$ and $\Gamma\subseteq\mathsf{Sent}$, then for any $\mathcal{L}_1$-structure $\mathcal{A}$: if $\mathcal{A}\vDash\Gamma$, then $\mathcal{A}\vDash\phi$.
 
-We proceed by strong induction on length of proofs. If $\pi$ has length 1, then it consists of a single application of either (Assumption) or (Taut). In the first case, we have $\phi\in\Gamma$, and so by definition $\mathsf{A}\vDash\phi$ whenever $\mathsf{A}\vDash\Gamma$. In the second case, we have $\vDash\phi$, and so (a fortiori) $\mathsf{A}\vDash\phi$ whenever $\mathsf{A}\vDash\Gamma$.
+We proceed by strong induction on length of proofs. If $\pi$ has length 1, then it consists of a single application of either (Assumption) or (Taut). In the first case, we have $\phi\in\Gamma$, and so by definition $\mathcal{A}\vDash\phi$ whenever $\mathcal{A}\vDash\Gamma$. In the second case, we have $\vDash\phi$, and so (a fortiori) $\mathcal{A}\vDash\phi$ whenever $\mathcal{A}\vDash\Gamma$.
 
 Now assume (IH) that all H-proofs of less than length $k$ are sound. Then a length-$k$ proof is sound, as for $k>1$ the proof must consist of a terminal application of ($\to$Elim), which is a rule of ND$_1$ (which we know is sound). So by strong induction of length of proofs, H is sound.
 
@@ -56,7 +56,7 @@ Now assume (IH) that all H-proofs of less than length $k$ are sound. Then a leng
 
 Base case: if $n=0$, then $\vDash\phi$, and so there is an H-proof of $\phi$ consisting of a single application of (Taut).
 
-Induction: now assume (IH) that for any ND$_1$-proof of $\psi$ with $k$ assumptions, then there is an H-proof of $\psi$. Suppose there is a ND$_1$-proof $\pi$ of $\phi$ with $k+1$ assumptions. Applying ($\to$Intro), we can discharge $a_{k+1}$ to get a ND$_1$-proof $\rho$ from $\mathsf{As}(\pi)\setminus\{a_{k+1}\}$ to $(a_{k+1}\to\phi)$. So by (IH) there is an H-proof $\sigma$ from $\mathsf{As}(\pi)\setminus\{a_{k+1}\}$ to $(a_{k+1}\to\phi)$. Now, we may apply (Assumption) and ($\to$Elim) to get an H-proof of $\phi$ from $\mathsf{As}(\pi)$: \[(a_{k+1})\ (\sigma[\mathsf{As}(\pi)\setminus\{a_{k+1}\}]\cdots(a_{k+1}\to\phi))\ |\ \phi\]
+Induction: now assume (IH) that for any ND$_1$-proof of $\psi$ with $k$ assumptions, then there is an H-proof of $\psi$. Suppose there is a ND$_1$-proof $\pi$ of $\phi$ with $k+1$ assumptions. Applying ($\to$Intro), we can discharge $a_{k+1}$ to get a ND$_1$-proof $\rho$ from $\mathsf{As}(\pi)\setminus\{a_{k+1}\}$ to $(a_{k+1}\to\phi)$. So by (IH) there is an H-proof $\sigma$ from $\mathsf{As}(\pi)\setminus\{a_{k+1}\}$ to $(a_{k+1}\to\phi)$. Now, we may apply (Assumption) and ($\to$Elim) to get an H-proof of $\phi$ from $\mathsf{As}(\pi)$: $$(a_{k+1})\ (\sigma[\mathsf{As}(\pi)\setminus\{a_{k+1}\}]\cdots(a_{k+1}\to\phi))\ |\ \phi$$
 
 ### Question 2.7
 > Suppose that, in system H, ($\to$Elim) were replaced with the following version of modus tollens:
@@ -72,7 +72,7 @@ H* is not complete, because (MT) only proves sentences of the form $\lnot\psi$. 
 
 Informally: we treat $\exists!\textbf{v}\phi$ as abbreviating $\exists \textbf{u}\forall \textbf{w}(\phi[\textbf{w}/\textbf{v}]\leftrightarrow \textbf{w}=\textbf{u})$, where $\textbf{u}$ and $\textbf{w}$ are variables with no instances in $\phi$.
 
-$|\exists! \textbf{v}\phi|_\mathsf{A}^\alpha=1$ just in case there's exactly one $\beta\overset{\textbf{v}}\sim\alpha$ such that $|\phi|^\beta_\mathsf{A}=1$.
+$|\exists! \textbf{v}\phi|_\mathcal{A}^\alpha=1$ just in case there's exactly one $\beta\overset{\textbf{v}}\sim\alpha$ such that $|\phi|^\beta_\mathcal{A}=1$.
 
 ($\exists!$Intro): Where $\rho$ is a proof of $\exists \textbf{u}\forall \textbf{w}(\phi[\textbf{w}/\textbf{v}]\leftrightarrow \textbf{w}=\textbf{u})$, with neither $\textbf{u}$ nor $\textbf{w}$ appearing in $\phi$, the labelled tree $\pi$ with the following structure constitutes a proof of $\exists!\textbf{v}\phi$: $\rho\cdots\exists \textbf{u}\forall \textbf{w}(\phi[\textbf{w}/\textbf{v}]\leftrightarrow \textbf{w}=\textbf{u})\ |\ \exists!\textbf{v}\phi$.
 
