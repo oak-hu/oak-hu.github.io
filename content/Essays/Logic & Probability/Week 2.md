@@ -3,6 +3,10 @@ title: "W2: Completeness"
 date: January 2025
 ---
 
+Remark on Question 2.5: 'H' is after Hilbert. There's a trade-off between how many axioms and rules your system has (that is, how many nullary vs. non-nullary rules you have); H-style systems are those which push the trade-off much more towards axioms. Our system here is sort of the limit case, where all tautologies are axioms. This is decidable, but it's equivalent to the satisfiability problem (just taking negations), so it's not exactly practical.
+
+Remark on Question 2.6: Some professional logicians have gotten this wrong in conversation, apparently! It's a very cute question.
+
 ## The Completeness Theorem for First-Order Logic
 
 ### Question 2.2
