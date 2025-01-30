@@ -7,7 +7,7 @@ date: January 2025
 
 ### Question 2.2
 
-> Show that any complete consistent set of $\mathsf{L}_1$-sentences is a theory.
+> Show that any complete consistent set of $\mathcal{L}_1$-sentences is a theory.
 
 Consider the following definitions, for $\Gamma\subseteq\mathsf{Sent}_1$ and $\phi\in\mathsf{Sent}_1$.
 
@@ -21,7 +21,7 @@ With Completeness$_1$, the claim doesn't follow. (Informally: consider a theory 
 Assume that $\Gamma$ is complete$_2$ and consistent. Then, for any $\phi$ such that $\Gamma\vdash\phi$, either (i) $\phi\in\Gamma$ or (ii) $\lnot\phi\in\Gamma$. If (ii) $\lnot\phi\in\Gamma$, then $\Gamma\vdash\lnot\phi$, so $\Gamma$ is negation-inconsistent and so not consistent. So (i) $\phi\in\Gamma$. So complete$_2$ consistency implies theoryhood.
 
 ### Question 2.3
-> Show that any maximal consistent set of $\mathsf{L}_1$-sentences is a complete theory.
+> Show that any maximal consistent set of $\mathcal{L}_1$-sentences is a complete theory.
 
 Recall that $\Gamma$ is maximal consistent just in case $\Gamma$ is consistent, and for any $\phi\notin\Gamma$, $\Gamma\cup\{\phi\}$ is inconsistent. That is, if $\Gamma\cup\{\phi\}$ is consistent, then $\phi\in\Gamma$.
 
@@ -35,18 +35,18 @@ Recall that $\Gamma$ is maximal consistent just in case $\Gamma$ is consistent, 
 For ($\forall$Elim), the proof $\pi$ has the structure $\pi_1\cdots\forall\textbf{v}\phi\ |\ \phi[\textbf{c}/\textbf{v}]$, with $\mathsf{As}(\pi)=\mathsf{As}(\pi_1)$. We have $\mathsf{As}(\pi)\vdash^\pi_n\phi[\textbf{c}/\textbf{v}]$. We fix an arbitrary $\mathsf{A}$ and assume $\mathsf{A}\vDash\chi$ for every $\chi\in\mathsf{As}(\pi)$; we need to show $\mathsf{A}\vDash\phi[\textbf{c}/\textbf{v}]$. We have $\mathsf{As}(\pi_1)\vdash^{\pi_1}_{<n}\forall\textbf{v}\phi$, so by the IH $\mathsf{As}(\pi_1)\vDash\forall\textbf{v}\phi$. Since $\mathsf{As}(\pi)=\mathsf{As}(\pi_1)$, $\mathsf{A}\vDash\forall\textbf{v}\phi$. That is, for any variable assignment $\alpha$, $\min\{|\phi|_\mathsf{A}^{\alpha[a/\textbf{v}]}:a\in D_\mathsf{A}\}=1$, so in particular $|\phi[\textbf{c}/\textbf{v}]|^\alpha_\mathsf{A}=|\phi|^{\alpha[\textbf{c}/\textbf{v}]}_\mathsf{A}=1$. So, $\mathsf{A}\vDash\phi[\textbf{c}/\textbf{v}].$
 
 ### Question 2.5
-> Let H be the deduction system for $\mathsf{L}_1$ with the following rules:
+> Let H be the deduction system for $\mathcal{L}_1$ with the following rules:
 >
 > - (Assumption)
 > - ($\to$ Elim)
 >
 > and the novel rule
 > 
-> - (Taut): where $\phi$ is an $\mathsf{L}_1$-tautology, a labelled tree consisting of a single node, labelled with the sentence $\phi$, constitutes a proof $\pi$ of $\phi$ of the form $$\phi$$ with $\mathsf{As}(\pi)=\varnothing$.
+> - (Taut): where $\phi$ is an $\mathcal{L}_1$-tautology, a labelled tree consisting of a single node, labelled with the sentence $\phi$, constitutes a proof $\pi$ of $\phi$ of the form $$\phi$$ with $\mathsf{As}(\pi)=\varnothing$.
 >
-> Show that H is sound and complete for the semantics of $\mathsf{L}_1$. You may use the soundness and completeness of ND$_1$.
+> Show that H is sound and complete for the semantics of $\mathcal{L}_1$. You may use the soundness and completeness of ND$_1$.
 
-(Soundness): We want to show that if there is an H-proof $\pi$ such that $\Gamma\vdash^\pi\phi$ for $\phi\in\mathsf{Sent}$ and $\Gamma\subseteq\mathsf{Sent}$, then for any $\mathsf{L}_1$-structure $\mathsf{A}$: if $\mathsf{A}\vDash\Gamma$, then $\mathsf{A}\vDash\phi$.
+(Soundness): We want to show that if there is an H-proof $\pi$ such that $\Gamma\vdash^\pi\phi$ for $\phi\in\mathsf{Sent}$ and $\Gamma\subseteq\mathsf{Sent}$, then for any $\mathcal{L}_1$-structure $\mathsf{A}$: if $\mathsf{A}\vDash\Gamma$, then $\mathsf{A}\vDash\phi$.
 
 We proceed by strong induction on length of proofs. If $\pi$ has length 1, then it consists of a single application of either (Assumption) or (Taut). In the first case, we have $\phi\in\Gamma$, and so by definition $\mathsf{A}\vDash\phi$ whenever $\mathsf{A}\vDash\Gamma$. In the second case, we have $\vDash\phi$, and so (a fortiori) $\mathsf{A}\vDash\phi$ whenever $\mathsf{A}\vDash\Gamma$.
 
@@ -63,18 +63,18 @@ Induction: now assume (IH) that for any ND$_1$-proof of $\psi$ with $k$ assumpti
 >
 > - (MT) Where $\pi_1$ is a proof of $\lnot\phi$ and $\pi_2$ is a proof of $\psi\to\phi$, the labelled tree $\pi$ with the following structure constitutes a proof of $\lnot\psi$: $$(\pi_1\cdots\lnot\phi)(\pi_2\cdots\psi\to\phi)\ |\ \lnot\psi$$ and $\mathsf{As}(\pi)=\mathsf{As}(\pi_1)\cup\mathsf{As}(\pi_2)$.
 >
-> Call this system H*. Is H* complete for the semantics of $\mathsf{L}_1$? If so, provide a proof. If not, explain why and suggest a new rule (other than ($\to$Elim)) that could be added to H* to restore completeness.
+> Call this system H*. Is H* complete for the semantics of $\mathcal{L}_1$? If so, provide a proof. If not, explain why and suggest a new rule (other than ($\to$Elim)) that could be added to H* to restore completeness.
 
 H* is not complete, because (MT) only proves sentences of the form $\lnot\psi$. So, for instance, it can't prove that $\lnot\lnot P\vDash P$. So, adding double-negation elimination or ($\lnot$Elim) would restore completeness.
 
 ### Question 2.8
-> Let $\mathsf{L}_!$ be $\mathsf{L}_=$ enriched with a new quantifier $\exists!$, whose syntax is $\exists!\textbf{v}\phi$ and whose intended interpretation is 'there exists exactly one ...'. Provide precise semantic clauses for $\exists!$ and find introduction and elimination rules that could be added to ND$_=$ to generate a system ND$_!$ (with deducibility relation $\vdash_!$) for $\mathsf{L}_!$. Show that ND$_!$ is conservative over ND$_=$ in the following sense: where $\phi\in\mathsf{Sent}$ and $\Gamma\subseteq\mathsf{Sent}$, $\Gamma\vdash_!\phi$ only if $\Gamma\vdash\phi$ (according to the standard ND$_=$-derivability relation $\vdash$).
+> Let $\mathcal{L}_!$ be $\mathcal{L}_=$ enriched with a new quantifier $\exists!$, whose syntax is $\exists!\textbf{v}\phi$ and whose intended interpretation is 'there exists exactly one ...'. Provide precise semantic clauses for $\exists!$ and find introduction and elimination rules that could be added to ND$_=$ to generate a system ND$_!$ (with deducibility relation $\vdash_!$) for $\mathcal{L}_!$. Show that ND$_!$ is conservative over ND$_=$ in the following sense: where $\phi\in\mathsf{Sent}$ and $\Gamma\subseteq\mathsf{Sent}$, $\Gamma\vdash_!\phi$ only if $\Gamma\vdash\phi$ (according to the standard ND$_=$-derivability relation $\vdash$).
 
 Informally: we treat $\exists!\textbf{v}\phi$ as abbreviating $\exists \textbf{u}\forall \textbf{w}(\phi[\textbf{w}/\textbf{v}]\leftrightarrow \textbf{w}=\textbf{u})$, where $\textbf{u}$ and $\textbf{w}$ are variables with no instances in $\phi$.
 
 $|\exists! \textbf{v}\phi|_\mathsf{A}^\alpha=1$ just in case there's exactly one $\beta\overset{\textbf{v}}\sim\alpha$ such that $|\phi|^\beta_\mathsf{A}=1$.
 
-($\exists!$Intro): Where $\rho$ is a proof of $\exists \textbf{u}\forall \textbf{w}(\phi[\textbf{w}/\textbf{v}]\leftrightarrow \textbf{w}=\textbf{u})$, with neither $\textbf{u}$ nor $\textbf{u}$ appearing in $\phi$, the labelled tree $\pi$ with the following structure constitutes a proof of $\exists!\textbf{v}\phi$: $\rho\cdots\exists \textbf{u}\forall \textbf{w}(\phi[\textbf{w}/\textbf{v}]\leftrightarrow \textbf{w}=\textbf{u})\ |\ \exists!\textbf{v}\phi$.
+($\exists!$Intro): Where $\rho$ is a proof of $\exists \textbf{u}\forall \textbf{w}(\phi[\textbf{w}/\textbf{v}]\leftrightarrow \textbf{w}=\textbf{u})$, with neither $\textbf{u}$ nor $\textbf{w}$ appearing in $\phi$, the labelled tree $\pi$ with the following structure constitutes a proof of $\exists!\textbf{v}\phi$: $\rho\cdots\exists \textbf{u}\forall \textbf{w}(\phi[\textbf{w}/\textbf{v}]\leftrightarrow \textbf{w}=\textbf{u})\ |\ \exists!\textbf{v}\phi$.
 
 ($\exists!$Elim): Where $\rho$ is a proof of $\exists!\textbf{v}\phi$, with neither $\textbf{u}$ nor $\textbf{w}$ appearing in $\phi$, the labelled tree $\pi$ with the following structure constitutes a proof of $\exists \textbf{u}\forall \textbf{w}(\phi[\textbf{w}/\textbf{v}]\leftrightarrow \textbf{w}=\textbf{u})$: $\rho\cdots\exists!\textbf{v}\phi\ |\ \exists \textbf{u}\forall \textbf{w}(\phi[\textbf{w}/\textbf{v}]\leftrightarrow \textbf{w}=\textbf{u})$.
 
