@@ -1,19 +1,19 @@
 
 *Draconic 1 / Stars X / Twilight 5, with DEX as the highest stat!?*
 
-Here's my favorite character build that I've played in D&D 5e (weekly through the second half of 2022). I might write later about DMing. I thought a lot of the build decisions were clever, and I'm really proud of the result. The progression is really, really smooth, and everything fits together both thematically and mechanically. In particular, the progression is really smooth, with super fun new toys at every level. 
+Here's my favorite character build that I've played in D&D 5e (weekly through the second half of 2022). I might write later about DMing. I thought a lot of the build decisions were clever, and I'm really proud of the result. The progression is really, really smooth, with fun new toys at every level, and everything fits together both thematically and mechanically.
 
 The module was Ghosts of Saltmarsh, so the vibe was essentially 'pirates'. I wanted to go Stars Druid (my favorite subclass), for the navigating-by-stars vibe; their best feature is the Dragon constellation, and draconic theming is also nice here because dragons, like pirates, covet treasure. Other party members were a Great-Old-One Warlock, a Knowledge Cleric, a Swashbuckler Rogue.
 
 ## Level 0
 
-> **Race:**
+> **Race**
 > 
 > Tiefling (Variant: Winged)
 
 Flight is really, really good (and no feat races or backgrounds). Flavored to be dragonborn-adjacent.
 
-> **Stats:**
+> **Stats**
 > 
 > Strength: 8
 > 
@@ -43,7 +43,7 @@ With point-buy, I'd go 8/14/13+1/8/15+2/13, taking Divine Soul and wearing half-
 > 
 > Level 1: _Shield_, _Silvery Barbs_
 
-Sorcerer dip for CON save proficiency, along with *Shield* and *Silvery Barbs*. You get four free cantrips; don't pick attacking ones (you're much better off attacking with weapons, given the 18 DEX and 13 CHA), and the utility is quite nice (this is a role-playing game, after all, not just a battle simulator). Draconic is a surprising pick; why not Clockwork or Aberrant? Well, first of all, it's thematic; don't be a dirty powergamer. But, actually, it's the optimal choice: 13+DEX yields 17 AC here at first level (23 with *Shield*). The extra point of HP is also nice (actually, it guaranteed that I'd survive a *Magic Missile* at second level, letting me choose not to *Shield* and attack instead, winning the fight against a wizard guy).
+Sorcerer dip for CON save proficiency, along with *Shield* and *Silvery Barbs*. You get four free cantrips; don't pick attacking ones (you're much better off attacking with weapons, given the 18 DEX and 13 CHA), and the utility is quite nice (this is a role-playing game, after all, not just a battle simulator). Draconic is a surprising pick; why not Clockwork or Aberrant? Well, first of all, it's thematic; don't be a dirty powergamer. But, actually, it's the optimal choice: 13+DEX yields 17 AC here at first level (23 with *Shield*). The extra point of HP is also nice (actually, it guaranteed that I'd survive a *Magic Missile* at 2nd level, letting me choose not to *Shield* and attack instead, winning the fight against a wizard guy).
 
 Right now, it's optimal for you, an unarmored sorcerer, to go into melee to sponge for the actual martials (you're tankier than they are, with 17 AC and the two premier defensive reactions; martials lol). With daggers, you have +6 to-hit for 1d4+4 piercing (action) and +6 for 1d4 piercing (bonus action, two weapon fighting); that's pretty respectable, if not better than some of your martial friends (martials lol).
 
@@ -87,7 +87,7 @@ We now have some more offensive tools: _Guiding Bolt_ into Archer is a fine burs
 >
 > Level 2: **_Pass without Trace_**, **_Spike Growth_**
 
-We get second-level spells! In particular, _Pass without Trace_ essentially guarantees surprise by granting +10 stealth, which is effectively a free round of combat before enemies can react. _Spike Growth_ is fantastic (maybe my favorite spell): enemies take 2d4 piercing for every 5 feet they move (or get moved) through its massive 20-foot-radius area. Notable, _Thorn Whip_ allows us to drag enemies through the _Spike Growth_, yielding an extra 4d4 piercing on a hit. This also works well with the party warlock's *Repelling Blast*.
+We get 2nd-level spells! In particular, _Pass without Trace_ essentially guarantees surprise by granting +10 stealth, which is effectively a free round of combat before enemies can react. _Spike Growth_ is fantastic (maybe my favorite spell): enemies take 2d4 piercing for every 5 feet they move (or get moved) through its massive 20-foot-radius area. Notable, _Thorn Whip_ allows us to drag enemies through the _Spike Growth_, yielding an extra 4d4 piercing on a hit. This also works well with the party warlock's *Repelling Blast*.
 
 Instead of concentrating on _Guidance_ outside of combat by default, we now concentrate on _Pass without Trace_. This is big! We also have _Spike Growth_, which outputs an insane amount of control and damage (well, maybe Dead is just the best condition you can impose, so it's all just control). From now on, the Dragon Starry Form is much more valuable than the Archer whenever we've cast a big spell: it guarantees at least a 10 + CON + PB (currently 14) on concentration checks, so we're in pretty much no danger of dropping concentration (especially since we're so hard to hit).
 
@@ -103,7 +103,7 @@ Instead of concentrating on _Guidance_ outside of combat by default, we now conc
 >
 > Level 2: **_Misty Step_**, _Pass without Trace_, _Spike Growth_,
 
-We get a few things this level, most importantly a Feat. We pick Fey Touched, which raises our Wisdom to 17, gives us a free daily _Misty Step_ and _Gift of Alacrity_ (which we can also cast with slots). The last one is what we were really after: it gives us an extra 1d8 to initiative. Note that _Lucky_ would be more thematic for Stars (consider the sixth level feature); it's probably a side-grade. Our PB (and so our to-hit on everything, and our free _Guiding Bolt_ supply) goes up from 2 to 3. Our _Thorn Whip_ damage also goes from 1d6 to 2d6. We also get a third-level slot, but our good spells don't do anything extra when upcast. We also get access to Wildshape creatures up to Challenge Rating 1/2 (notably the Warhorse) or with swim speeds (notably the Giant Poisonous Snake, who we'll see more of next level...). At this point in the campaign, we've gotten enough gold to get some very nice items (Sentinal Shield for advantage on initiative, Wand of Fireballs for, well, _Fireballs_).
+We get a few things this level, most importantly a Feat. We pick Fey Touched, which raises our Wisdom to 17, gives us a free daily _Misty Step_ and _Gift of Alacrity_ (which we can also cast with slots). The last one is what we were really after: it gives us an extra 1d8 to initiative. Note that _Lucky_ would be more thematic for Stars (consider the 6th-level feature); it's probably a side-grade. Our PB (and so our to-hit on everything, and our free _Guiding Bolt_ supply) goes up from 2 to 3. Our _Thorn Whip_ damage also goes from 1d6 to 2d6. We also get a 3rd-level slot, but our good spells don't do anything extra when upcast. We also get access to Wildshape creatures up to Challenge Rating 1/2 (notably the Warhorse) or with swim speeds (notably the Giant Poisonous Snake, who we'll see more of next level...). At this point in the campaign, we've gotten enough gold to get some very nice items (Sentinal Shield for advantage on initiative, Wand of Fireballs for, well, _Fireballs_).
 
 If you're keeping track at home, our initiative if we cast _Guidance_ (we can't always afford _Pass without Trace_) is now 2d20kh1 + 4 + 1d8 + 1d4, yielding at least 20 more than 80% of the time. Go first. Lay down control. Hit things harder than the martials (lol), with _Fireball_ if needed. Heal when necessary. 
 
@@ -185,24 +185,24 @@ By this point, you know how to pilot the build.
 
 **Draconic 1 / Stars X / Twilight 5**
 
-From here on, the campaign's pretty much over. The main draw of this build is the incredible progression during all the levels of typical play. However, for completion's sake, two more levels of Twilight Cleric yield a feat (pick Telekinetic or Lucky or something) and then third-level cleric spells, notably _Spirit Guardians_, which also upcasts fantastically (and might be somewhat more reliable, once we start running into more enemies at this tier who are resistant or immune to our snakes). From then on, push more Stars Druid levels to get:
+From here on, the campaign's pretty much over. The main draw of this build is the incredible progression during all the levels of typical play. However, for completion's sake, two more levels of Twilight Cleric yield a feat (pick Telekinetic or Lucky or something) and then 3rd-level cleric spells, notably _Spirit Guardians_, which also upcasts fantastically (and might be somewhat more reliable, once we start running into more enemies at this tier who are resistant or immune to our snakes). From then on, push more Stars Druid levels to get:
 
-> Level 12: Cosmic Omen
+> **Level 12:** Cosmic Omen
 > 
-> Level 13: 4th-level spells (_Polymorph_, _Wall of Fire_, ...), 7th-level slots
+> **Level 13:** 4th-level spells (_Polymorph_, _Wall of Fire_, ...), 7th-level slots
 >
-> Level 14: Feat (the other one of Lucky or Telekinetic)
+> **Level 14:** Feat (the other one of Lucky or Telekinetic)
 > 
-> Level 15: 5th-level spells (_Wall of Stone_, _Planar Binding_, ...), 8th-level slots
+> **Level 15:** 5th-level spells (_Wall of Stone_, _Planar Binding_, ...), 8th-level slots
 > 
-> Level 16: Twinkling Constellations
+> **Level 16:** Twinkling Constellations
 >
-> Level 17: 6th-level spells (_Conjure Fey_, _Hero's Feast_, ...), 9th level slots
+> **Level 17:** 6th-level spells (_Conjure Fey_, _Hero's Feast_, ...), 9th-level slots
 >
-> Level 18: Feat
+> **Level 18:** Feat
 >
-> Level 19: 7th-level spells (_Mirage Arcane_, _Plane Shift_, ...)
+> **Level 19:** 7th-level spells (_Mirage Arcane_, _Plane Shift_, ...)
 >
-> Level 20: Full of Stars
+> **Level 20:** Full of Stars
 
-So, we hit level 20 with a capstone from our main subclass. Unfortunately, we do miss out on 8th and 9th level spells. But 32 snakes will make you feel better.
+So, we hit level 20 with a capstone from our main subclass. Unfortunately, we do miss out on 8th- and 9th-level spells. But 32 snakes will make you feel better.
