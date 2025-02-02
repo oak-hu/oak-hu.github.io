@@ -43,7 +43,7 @@ With point-buy, I'd go 8/14/13+1/8/15+2/13, taking Divine Soul and wearing half-
 > 
 > Level 1: _Shield_, _Silvery Barbs_
 
-Sorcerer dip for CON save proficiency, along with *Shield* and *Silvery Barbs*. You get four free cantrips; don't pick attacking ones (you're much better off attacking with weapons, given the 18 DEX and 13 CHA), and the utility is quite nice (this is a role-playing game, after all, not just a battle simulator). Draconic is a surprising pick; why not Clockwork or Aberrant? Well, first of all, it's thematic; don't be a dirty powergamer. But, actually, it's the optimal choice: 13+DEX yields 17 AC here at first level (23 with *Shield*). The extra point of HP is also nice (actually, it guaranteed that I'd survive a *Magic Missile* at 2nd level, letting me choose not to *Shield* and attack instead, winning the fight against a wizard guy).
+Sorcerer dip for CON save proficiency, along with *Shield* and *Silvery Barbs*. You get four free cantrips; don't pick attacking ones (you're much better off attacking with weapons, given the 18 DEX and 13 CHA), and the utility is quite nice (this is a role-playing game, after all, not just a battle simulator). Draconic is a surprising pick; why not Divine Soul, Clockwork Soul, or Aberrant Mind? Well, first of all, it's thematic; don't be a dirty powergamer. But, actually, it's the optimal choice: 13+DEX yields 17 AC here at first level (23 with *Shield*). The extra point of HP is also nice (actually, it guaranteed that I'd survive a *Magic Missile* at 2nd level, letting me choose not to *Shield*, which I remember won us the fight against a wizard guy, I think because it saved a slot for _Thunderwave_, as with his own _Shield_ his AC was too high for us to hit reliably? Taking _Thunderwave_ is fun but generally suboptimal, so I don't recommend it below.)
 
 Right now, it's optimal for you, an unarmored sorcerer, to go into melee to sponge for the actual martials (you're tankier than they are, with 17 AC and the two premier defensive reactions; martials lol). With daggers, you have +6 to-hit for 1d4+4 piercing (action) and +6 for 1d4 piercing (bonus action, two weapon fighting); that's pretty respectable, if not better than some of your martial friends (martials lol).
 
@@ -55,9 +55,9 @@ Right now, it's optimal for you, an unarmored sorcerer, to go into melee to spon
 > 
 > Cantrips: **_Guidance_**, _Mage Hand_, _Minor Illusion_, _Prestidigitation_, _Shape Water_, **_Thorn Whip_**
 > 
-> Level 1: **_Entangle_**, **_Fog Cloud_**, **_Goodberry_**, **_Healing Word_**, _Shield_, _Silvery Barbs_
+> Level 1: **_Entangle_**, **_Goodberry_**, **_Healing Word_**, _Shield_, _Silvery Barbs_, **_Thunderwave_**
 
-Our first level in druid! _Guidance_ is incredibly useful for ability checks (including initiative!); we'll get it duplicated next level, but can switch it out with Cantrip Versatility in a bit. Having _Guidance_ at level 2 is worth more than having _Magic Stone_ at levels 2-4, because +5 to-hit for 1d6+3 bludgeoning is worse than what we're doing with daggers. But _Thorn Whip_ is nice, because we can fly: that's +5 to-hit for 1d6 piercing, and (assuming we're above the target) an extra 1d6 bludgeoning as they fall prone (which is the main thing we're after). Also, you could in principle pull someone off a ship, which is quite funny. _Goodberry_ and _Healing Word_ are auto-picks; they're nice for out-of-combat healing and in-combat reviving, respectively. _Entangle_ and _Fog Cloud_ are nice control spells; it's too early for _Absorb Elements_ to be relevant, but we'll grab it later.
+Our first level in druid! _Guidance_ is incredibly useful for ability checks (including initiative!); we'll get it duplicated next level, but can switch it out with Cantrip Versatility in a bit. Having _Guidance_ at level 2 is worth more than having _Magic Stone_ at levels 2-4, because +5 to-hit for 1d6+3 bludgeoning is worse than what we're doing with daggers. But _Thorn Whip_ is nice, because we can fly: that's +5 to-hit for 1d6 piercing, and (assuming we're above the target) an extra 1d6 bludgeoning as they fall prone (which is the main thing we're after). Also, you could in principle pull someone off a ship, which is quite funny. _Goodberry_ and _Healing Word_ are auto-picks; they're nice for out-of-combat healing and in-combat reviving, respectively. _Entangle_ is a nice control spell, and _Thunderwave_ is fun. It's too early for _Absorb Elements_ to be relevant, but we'll grab it later.
 
 You're a caster now! Pilot like Level 1 by default, but break out the control spells or healing when necessary. Use _Guidance_ liberally, and make _Goodberries_ for the next day with unused spell slots.
 
@@ -69,7 +69,7 @@ You're a caster now! Pilot like Level 1 by default, but break out the control sp
 > 
 > Cantrips: _Guidance_, _Mage Hand_, _Minor Illusion_, _Prestidigitation_, _Shape Water_, _Thorn Whip_
 > 
-> Level 1: **_Longstrider_**, _Entangle_, _Fog Cloud_, _Goodberry_, **_Guiding Bolt_**, _Healing Word_, _Shield_, _Silvery Barbs_
+> Level 1: _Entangle_, **_Fog Cloud_**, _Goodberry_, **_Guiding Bolt_**, _Healing Word_, _Shield_, _Silvery Barbs_, _Thunderwave_
 
 We get our subclass and Wildshape! The Cow is the most useful form; with charge, you've got +6 to hit for 1d6+4 piercing, with an extra 2d6 piercing if you charge. Notably, it also has +4 STR, which allowed us to retrieve an extremely lucrative heavy treasure chest from a sinking ship, which translated to some overpowered magical items. Spending Wildshape for an owl familiar is also a very nice default usage. Circle of Stars gives us _Guidance_ (which we already have), along with Proficiency Bonus (currently 2) free uses of _Guiding Bolt_ per day (and we can also cast it with slots). We can also use Wildshape to activate a starry form; currently, Archer's bonus action attack is the most useful, since we're not concentrating on anything important yet.
 
@@ -83,11 +83,11 @@ We now have some more offensive tools: _Guiding Bolt_ into Archer is a fine burs
 > 
 > Cantrips: _Guidance_, _Mage Hand_, _Minor Illusion_, _Prestidigitation_, _Shape Water_, _Thorn Whip_
 > 
-> Level 1: ~~_Longstrider_~~, _Entangle_, _Fog Cloud_, _Goodberry_, _Guiding Bolt_, _Healing Word_, _Shield_, _Silvery Barbs_
+> Level 1: ~~_Entangle_~~, _Fog Cloud_, _Goodberry_, _Guiding Bolt_, _Healing Word_, _Shield_, _Silvery Barbs_, _Thunderwave_
 >
 > Level 2: **_Pass without Trace_**, **_Spike Growth_**
 
-We get 2nd-level spells! In particular, _Pass without Trace_ essentially guarantees surprise by granting +10 stealth, which is effectively a free round of combat before enemies can react. _Spike Growth_ is fantastic (maybe my favorite spell): enemies take 2d4 piercing for every 5 feet they move (or get moved) through its massive 20-foot-radius area. Notable, _Thorn Whip_ allows us to drag enemies through the _Spike Growth_, yielding an extra 4d4 piercing on a hit. This also works well with the party warlock's *Repelling Blast*.
+We get 2nd-level spells! In particular, _Pass without Trace_ essentially guarantees surprise by granting +10 stealth, which is effectively a free round of combat before enemies can react. _Spike Growth_ is fantastic (maybe my favorite spell): enemies take 2d4 piercing for every 5 feet they move (or get moved) through its massive 20-foot-radius area. Notable, _Thorn Whip_ allows us to drag enemies through the _Spike Growth_, yielding an extra 4d4 piercing on a hit. This also works well with the party warlock's *Repelling Blast*, and our own *Thunderwave*.
 
 Instead of concentrating on _Guidance_ outside of combat by default, we now concentrate on _Pass without Trace_. This is big! We also have _Spike Growth_, which outputs an insane amount of control and damage (well, maybe Dead is just the best condition you can impose, so it's all just control). From now on, the Dragon Starry Form is much more valuable than the Archer whenever we've cast a big spell: it guarantees at least a 10 + CON + PB (currently 14) on concentration checks, so we're in pretty much no danger of dropping concentration (especially since we're so hard to hit).
 
@@ -99,11 +99,11 @@ Instead of concentrating on _Guidance_ outside of combat by default, we now conc
 > 
 > Cantrips: _Guidance_, _Mage Hand_, _Minor Illusion_, **_Magic Stone_**, _Prestidigitation_, _Shape Water_, _Thorn Whip_
 > 
-> Level 1: **_Absorb Elements_**, _Entangle_, _Fog Cloud_, _Goodberry_, **_Gift of Alacrity_**, _Guiding Bolt_, _Healing Word_, _Shield_, _Silvery Barbs_
+> Level 1: **_Absorb Elements_**, _Fog Cloud_, _Goodberry_, **_Gift of Alacrity_**, _Guiding Bolt_, _Healing Word_, _Shield_, _Silvery Barbs_, _Thunderwave_
 >
 > Level 2: **_Misty Step_**, _Pass without Trace_, _Spike Growth_,
 
-We get a few things this level, most importantly a Feat. We pick Fey Touched, which raises our Wisdom to 17, gives us a free daily _Misty Step_ and _Gift of Alacrity_ (which we can also cast with slots). The last one is what we were really after: it gives us an extra 1d8 to initiative. Note that _Lucky_ would be more thematic for Stars (consider the 6th-level feature); it's probably a side-grade. Our PB (and so our to-hit on everything, and our free _Guiding Bolt_ supply) goes up from 2 to 3. Our _Thorn Whip_ damage also goes from 1d6 to 2d6. We also get a 3rd-level slot, but our good spells don't do anything extra when upcast. We also get access to Wildshape creatures up to Challenge Rating 1/2 (notably the Warhorse) or with swim speeds (notably the Giant Poisonous Snake, who we'll see more of next level...). At this point in the campaign, we've gotten enough gold to get some very nice items (Sentinal Shield for advantage on initiative, Wand of Fireballs for, well, _Fireballs_).
+We get a few things this level, most importantly a Feat. We pick Fey Touched, which raises our Wisdom to 17, gives us a free daily _Misty Step_ and _Gift of Alacrity_ (which we can also cast with slots). The last one is what we were really after: it gives us an extra 1d8 to initiative. Note that _Lucky_ would be more thematic for Stars (consider the 6th-level feature); it's probably a side-grade. Our PB (and so our to-hit on everything, and our free _Guiding Bolt_ supply) goes up from 2 to 3. Our _Thorn Whip_ damage also goes from 1d6 to 2d6. We also get a 3rd-level slot; _Pass without Trace_ and _Spike Growth_ are worth a 3rd-level slot, but we could also upcast _Thunderwave_ through a spike growth for 28 average damage on a failed save (9 on a success). We also get access to Wildshape creatures up to Challenge Rating 1/2 (notably the Warhorse) or with swim speeds (notably the Giant Poisonous Snake, who we'll see more of next level...). At this point in the campaign, we've gotten enough gold to get some very nice items (Sentinal Shield for advantage on initiative, Wand of Fireballs for, well, _Fireballs_).
 
 If you're keeping track at home, our initiative if we cast _Guidance_ (we can't always afford _Pass without Trace_) is now 2d20kh1 + 4 + 1d8 + 1d4, yielding at least 20 more than 80% of the time. Go first. Lay down control. Hit things harder than the martials (lol), with _Fireball_ if needed. Heal when necessary. 
 
@@ -115,13 +115,13 @@ If you're keeping track at home, our initiative if we cast _Guidance_ (we can't 
 > 
 > Cantrips: _Guidance_, _Mage Hand_, _Minor Illusion_, _Magic Stone_, _Prestidigitation_, _Shape Water_, _Thorn Whip_
 > 
-> Level 1: _Absorb Elements_, ~~_Entangle_~~, _Fog Cloud_, _Goodberry_, _Gift of Alacrity_, _Guiding Bolt_, _Healing Word_, _Shield_, _Silvery Barbs_
+> Level 1: _Absorb Elements_, _Fog Cloud_, _Goodberry_, _Gift of Alacrity_, _Guiding Bolt_, _Healing Word_, _Shield_, _Silvery Barbs_, ~~_Thunderwave_~~
 >
 > Level 2: _Misty Step_, _Pass without Trace_, _Spike Growth_
 >
 > Level 3: **_Conjure Animals_**, **_Sleet Storm_**
 
-Whereas last level we got a bunch of small things (well, and the Wand of Fireballs), this level we get a single fantastic feature: _Conjure Animals_, the keystone of this build. We also pick up _Sleet Storm_ for extra control, which is also thematic. (No favorable reading for _Plant Growth_.) We also pick up a Wand of Web, for some extra control (we have a ton of resources now). We unprepare _Entangle_, as our low-level slots are more valuable for spending on _Shield_, _Silvery Barbs_, and _Healing Word_.
+Whereas last level we got a bunch of small things (well, and the Wand of Fireballs), this level we get a single fantastic feature: _Conjure Animals_, the keystone of this build. We also pick up _Sleet Storm_ for extra control, which is also thematic. (No favorable reading for _Plant Growth_.) We also pick up a Wand of Web, for some extra control (we have a ton of resources now). We unprepare _Thunderwave_, as its damage is now relatively low, and our low-level slots are more valuable for spending on _Shield_, _Silvery Barbs_, and _Healing Word_.
 
 With _Conjure Animals_, we can summon eight Giant Poisonous Snakes. These things are monsters: 18 DEX (so +4 initiative, 14 AC, and +6 to-hit), a ten-foot reach and Blindsight range, and on a hit they do 1d4+4 piercing along with 3d6 poison (CON save DC 11 for half). That is, against a monster with AC 15 and a +4 CON save, we should expect to do 65 damage. That's like hitting three enemies with _Fireball_, but it's single-target, and we can do it again on the next turn (depending on how many snakes survive until then). It's certainly much more than your martial friends are doing. _Conjure Animals_ also doubles as a great control spell (_Wall of Flesh_?), since you control eight squares with your snakes. Of course, opportunity attacks are again a massive boost to damage output.
 
