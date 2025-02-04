@@ -66,3 +66,25 @@ Greaves on Thomson:
 (Interesting to note that 'person' in various language sometimes seems to have a moral sense and a non-moral sense, by contrast with 'human'.)
 
 For the relativized notion to do any work (it's good to water the plants if you want them to live), you need to discharge the antecedent (i want them to live; so, it's good to water the plants). But we can just understand non-relative good on the model of 'it's good to X' with no (or a trivial) antecedent.
+
+## Week 3: Aggregation
+
+Objections to utilitarianism:
+> **Container:** It sounds like the utilitarian only cares about this abstract "total utility" score, and so only cares about people as 'containers' of welfare.
+> **Double-Counting:** We double-count "reasons", when we consider both the first-order natural facts about goodness-for-people _and_ the [distinct] second-order evaluative facts about goodness (which obtain in virtue of the first-order natural facts obtaining).
+> **Redundancy:** If you don't double-count, then there's no reason to talk about goodness. 
+
+Notice that the weighing hueristic for reasons is flawed (Williamson's numbers example).
+
+A general response:
+> Overall betterness arises when we consider trade-offs. 'From an impartial point of view, considerations of individuals' welfare, taken together and appropriately weighed against one another when they conflict, favor x over y.'
+
+Finite fixed-population utilitarianism might generalize, on necessitism, to give utilitarian (in particular, totalist) verdicts in variable-population cases. But we could also just modify the axioms (it's not _immediately_ obvious that merely-possible people have welfare level zero, though I think this is quite plausible). But in infinite-welfare (divergent total welfare) cases, we have some impossibilitity theorems (e.g., Amanda Askell). Unsure how infinite-subjects-but-convergent-welfare-sum goes!
+
+The weighted-coin people in the rock case seem like the sort of people who would flip a weighted coin to predict the outcome of a weighted coin. (Nevermind, actually, really good point from Tomi: give everyone an equal chance of being the first person to be saved; then it just so happens that the five are lucky enough to be saved along with any of the others from the five.)
+
+Tomi's framing of the container objection is quite good: there is no point of view of the universe which really matters, you can't go beyond what matters for individuals.
+
+(Hilary raised her hand for thinking Partiality is more plausible than Save More Rather Than Less; this was really surprising to me!)
+
+[...]
