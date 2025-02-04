@@ -4,7 +4,7 @@ date: January 2025
 
 Notes from a graduate class with Ian Rumfitt on how we know what things mean.
 
-## Week 1
+## Week 1: The thesis
 
 ### 1. The thesis
 Wittgenstein: *4.024 Einen Satz verstehen, heißt, wissen was der Fall ist, wenn er wahr ist* ('To understand a declarative sentence means to know what is the case if it is true').
@@ -61,7 +61,7 @@ I thought the proposal was to assimilate all of these apparently non-declarative
 
 (We ran out of time before finishing the handout.)
 
-## Week 2
+## Week 2: The Thesis (cont'd)
 
 ### 1. Declaratives
 
@@ -96,4 +96,26 @@ I thought the proposal was to assimilate all of these apparently non-declarative
 - - Either packing now is the thing to do, or by now it's too late to catch the train anyway; but it's not too late to catch the train, so packing now is the thing to do.
   - Failing to rule 'packing now is the thing to do' (keeping it as a live option) is not going to entail deciding 'packing now is the thing to do' outright. (And he thinks the first premise is just ruling out rejecting both disjuncts, the second is rejecting the second.)
   - (But if disagreement is super weak, then the negation story doesn't work out: to negate something, I should have to think of it)
+
+## Week 3: Context Dependence
+
+### 1. Context-sensitive sentences
+
+Apparently, some sentences are true regardless of context: 'Two is a prime number', 'Nothing can travel faster than light', perhaps 'Torture is wrong'. But it just seems wrong that the English sentences always express their usual surface readings (which are necessarily true).
+
+### 2. Higginbotham
+
+Rumfitt (with Higgenbotham) wants to call utterances true or false, abbreviating that the speaker, in producing it, thereby speaks truely [falsely].
+
+> _What Fred told Mary_ has no spatiotemporal location; but _the rumour which swept through the common rooms of Oxford last week_ does; and both can be true.
+
+Actually, couldn't both be the same, say, that Alice loves Beth? And that _seems_ to have spatiotemporal location. But plausibly all the ascription of spatiotemporal location is mistaken, here. Or we could say that the rumour is just what Fred told Mary, or that what Fred told Mary was just the remour, or that what Fred told Mary later swept through the common rooms of Oxford.)
+
+> With puns, you leave it open whether they mean P or Q
+
+I think there's usually a surface reading!
+
+> 'In uttering "This is red", an English speaker does not say that the unique object referred to by the component demonstrative pronoun is red'.
+
+I mean, they certainly don't say "the unique [...]", but it seems obvious that they _do_ say that the unique [...]! I might contradict them by saying 'the unique object [...] is _not_ red.' (Maybe my judgments have been ruined by coarse-grained views of propositions.)
 
