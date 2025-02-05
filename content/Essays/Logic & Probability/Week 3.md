@@ -9,7 +9,7 @@ These answers are quite terse, which I find aesthetically appealing.
 
 ### Question 3.1
 
-> Construct an $\mathcal{L}_=$-sentence $\phi$ such that, if $\mathcal{A}\vDash\phi$ and $\mathcal{A}$ is finite, then the cardinality of $\mathcal{A}$ is even.}
+> Construct an $\mathcal{L}_=$-sentence $\phi$ such that, if $\mathcal{A}\vDash\phi$ and $\mathcal{A}$ is finite, then the cardinality of $\mathcal{A}$ is even.
 
 Let $\phi$ be $\exists x\exists y\forall z(y=z\leftrightarrow\lnot x=z)$, so $\mathcal{A}\vDash\phi$ just in case $\mathcal{A}$ has cardinality 2.
 
@@ -29,7 +29,7 @@ Every finite subset of $\Gamma\cup S$ is satisfiable by assumption, so by compac
 
 ### Question 3.5
 
-> Show that, in any nonstandard model $\mathcal{A}$ of $\mathsf{TA}$ with standard part $\mathcal{B}$, there can be no $\mathcal{L}_A$-formula $\phi(x)$ such that, for one specific $d\in D_\mathcal{A}\setminus D_\mathcal{B}$, $\mathcal{A}\vDash\phi(x)[\![\alpha]\!]$ iff $\alpha(x)=d$.}
+> Show that, in any nonstandard model $\mathcal{A}$ of $\mathsf{TA}$ with standard part $\mathcal{B}$, there can be no $\mathcal{L}_A$-formula $\phi(x)$ such that, for one specific $d\in D_\mathcal{A}\setminus D_\mathcal{B}$, $\mathcal{A}\vDash\phi(x)[\![\alpha]\!]$ iff $\alpha(x)=d$.
 
 Let $\psi$ be $\exists y\forall x(x=y \leftrightarrow \phi(x))$. We have $\mathcal{A}\vDash\psi$, so $\mathsf{TA}\vdash\psi$, so $\mathcal{B}\vDash\psi$, so there's a unique $e$ such that $\mathcal{B}\vDash\phi(x)[\![\alpha]\!]$ iff $\alpha(x)=e$; but then $\mathcal{A}\vDash\phi(x)[\![\alpha]\!]$ when $\alpha(x)=e\in\mathcal{B}$, contradicting $d\in D_\mathcal{A}\setminus D_\mathcal{B}$.
 
