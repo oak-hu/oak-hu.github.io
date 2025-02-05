@@ -1,5 +1,5 @@
 ---
-title: "W2: Skolem's Paradox"
+title: "W3: Skolem's Paradox"
 date: February 2025
 ---
 
