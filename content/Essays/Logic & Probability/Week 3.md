@@ -1,7 +1,9 @@
 ---
-title: W2: Skolem's Paradox
+title: "W2: Skolem's Paradox"
 date: February 2025
 ---
+
+These answers are quite terse, which I find aesthetically appealing.
 
 ## Compactness, the Löwenheim–Skolem Theorems, and Skolem’s ‘Paradox’
 
