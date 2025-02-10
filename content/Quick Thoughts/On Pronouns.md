@@ -18,7 +18,7 @@ Now, Artemis believes in herself, so (i) is satisfied. So, if our sentence is fa
 
 So, gendered pronouns can (at least in some cases) refer to someone who does not have the corresponding sex.
 
-Nevertheless, in the overwhelming majority of cases, pronoun gender tracks sex. I claim that this function is important. Sex is socially important information, not least because males perpetuate the vast majority of violence, and sexual violence in particular. And it is _sex_, rather than gender identity, which matters here.
+Nevertheless, in the overwhelming majority of cases, pronoun gender tracks sex. I claim that this function is important. Sex is socially important information, not least because males perpetuate the vast majority of violence — and sexual violence in particular. Importantly, it is _sex_, rather than gender identity, which matters here.
 
 <img style="display: block; margin: 0 auto; max-width: 50%;"
      src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4dbd336-4cd6-4130-8396-39c4c0fc37a8_1074x658.png"/>
