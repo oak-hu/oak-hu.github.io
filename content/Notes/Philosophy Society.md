@@ -106,3 +106,151 @@ bias towards f2 (orthodox may be f1): suppose x, y depend on each other, and det
 
 'You cannot throw injective functions at your mother, you have to throw dishes' (on why the set of three people didn't lift the table)
 
+## Week 3: Is there more than physics?
+**Sean Carroll (JHU)**
+
+Exist questions about how the universe works which are best addressed thinking like a philosopher
+
+Can have an accurate causal model of the world by abstracting to higher-level emergent things. But is there anything more than fundamental physics, where the top-level stuff is just approximations and commentary?
+
+Epistemically: Clearly higher levels can be understood (stronger: are best understood) without thinking about lower levels.
+
+Ontically: Do higher-level patterns qualify as "real"? (Yeah.)
+
+'Super-ontological': "Does understanding higher levels require entirely new, independent entitites?" No.
+
+- How it would be possible for there to be ontologically real entities not ultimately described by fundamental physics; and
+- Why there probably are no such entities
+
+> **Standard dichotomy**
+> 
+> Weak emergence: the theory is exact, but there are higher-level patterns that emerge upon coarse-graining
+>
+> Strong emergence: higher-level behavior is not compatible with lower-level rules. (Seems only possible if the lower-level theory is just wrong in some way.)
+
+Emergence without judgments: 'new', 'surprising', 'novel' — not clear. Just talk about the dynamics: show what is involved in invoking new macro-entities. ('what emergence can possibly mean'
+
+'I think they don't want weak emergence to count because it's easy to understand.'
+
+A many-to-one map from lower level to higher level; commutes with evolution (can evolve via macro and then map to micro, or vice versa).
+
+- particles to fluids
+- center-of-mass motion
+- quantum to classical
+
+
+But these are delicate: you must compress the right information. Positions, momenta of 10^50 particles = excellent predictions; CoM, position, and momentum = excellent prediction (threw away almost all the data); but forgetting the momentum of even one particle = no prediction at all (consideR: in principle, could have just a Ton of momentum in the other direction).
+
+Dennett "Real Patterns" (If I have this colection of moving particles, but I discover that there's a particular way of throwing away almost all the data and still making good predictions, that's an objective fact about the world!!!!! it's not just convenience.)
+
+Ross & Ladyman "Structural REalism" : (
+
+
+Strong Emergence: Higher-level phenomena are not deducible even in principle from lower-level dynamics (Chalmers).
+
+They want credit both for being contrarian, but don't take their own ideas seriously. Remember: whatever consciousness is, electrons have something to do with it, and we have rules for how they behave. Do you think electrons behave differently inside the human brain, versus in the LHC???? 
+
+
+A way for strong emergence to make sense:
+
+Three possible inluences. 
+
+Its own state
+
+Local interactions with neighbors
+
+(Done, if locality is true)
+
+Non-local influences depending on overall context.
+
+
+(change in subsystem) = (self-driven change) + (interactions with neighbors) + (filter function) x (novel influences)
+
+Just a few particles = filter function almost zero; many particles in brain = filter function on.
+
+
+The laws of physics underlying everyday life are (we have good reason to believe) completely known. 
+
+How can we be so sure? The basic structure of QFT.
+
+QFT is the unique low-energy theory compatible with : relativity, QM, locality.
+
+We understand the dynamics of the known particles & forces (effective field theory)
+
+No unknown particles / forces relevant to everyday life (crossing symmetry) — no consciousness.
+
+Fermions (mass), Bosons (energy), Higgs boson , ..... the core theory.
+
+Everyday life: low energy and weak gravity. Well within the the 10^11 eV tested limit.
+
+
+Oh, yeah: matter is stuff made of fermions.
+
+Explanatory dependence.
+
+macro level: higher level emergent phenomena of everyday life | Astro, cosmology
+
+QFT level: Known particles, forces, GR | Dark matter/energy, new particles/forces, hidden sectors
+
+unknown levels: Deeper reality
+
+
+Arros from each level to the below; except no arrows from life to dark matter/energy/new ...; or to deeper reality.
+
+
+screened off by QFT.
+
+
+QFT is the unique way to satisfy these foundational ideas:
+
+1. Quantum mechanics
+2. Special relativity
+3. Local particle-like behavior at large distances (1% diameter of a proton)
+
+Short distances (lmight be strings, spin networks, discrete spacetime, qubits, whatever.
+
+
+An EFT is a field theory that only includes low-energy particles below a cutoff. (cf CoM dynamics).
+
+At low energies, an EFT can be a self-contianed theory. at higher energies, new phenomena can kick in.
+
+e.g. fermi model of weak interactions => standard model 
+
+
+THIS is why the emergent phenomena can't depend on deeper reality; the core theory is an effective field theory; all the unknown stuff is already quantifiable.
+
+you can hide things if they;re really short-range or really weakly interacting. But so we know how they're hidden.
+
+
+If a new particle can interact with ordinary particles:
+
+Then that particle can be created in high-energy collisions.
+
+Because ('crossing symmetry') diagrams can be rotated.
+
+They measure the in/out energy. If there's no missing energy, there's no room for them to be. (We look for that!).
+
+Either: too heavy to make (so not in this room), or too weakly interacitng (so not affecting your brain).
+
+
+Also experimental limits on new forces.
+
+
+THIS is why new unknown particles / forces aren't relevant.
+
+
+"They have written a lot of words. They have not told me exactly how they expect stuff to mess wtih ..'
+
+Certainly there is a role for strong emergence between two 'higher' levels. (cells -> organism; people -> nations)
+
+
+
+EFT, and within regime.
+
+
+
+how much weight on the EFT stuff? like, couldn't make this argument 150 years ago?
+
+
+
+filter function is just for convenience.
