@@ -119,3 +119,79 @@ I think there's usually a surface reading!
 
 I mean, they certainly don't say "the unique [...]", but it seems obvious that they _do_ say that the unique [...]! I might contradict them by saying 'the unique object [...] is _not_ red.' (Maybe my judgments have been ruined by coarse-grained views of propositions.)
 
+## Week 4: Davidson & Lewis
+
+### 1. Indirect Questions
+
+Claim that 'tell' (and 'ask') are veridical / factive with respect to interrogative but not declarative complements. But consider:
+
+1. Did Ann tell anyone that she's dropping out to take a job in finance?
+2. Did Ann say to anyone that she's dropping out to take a job in finance?
+3. The meteorologists tell us where it's going to rain, but are often wrong.
+4. \# The meteorologists know where it's going to rain, but are often wrong.
+
+(1) but not (2) seems to license the inference that Ann's dropping out to take a job in finance; meanwhile, (3) seems fine, while (4) sounds horrible.
+
+Anyway, we can contrast interrogative and relative pronouns:
+
+5. Mary knew what Fred had in his bag.
+6. Mary hid what Fred had in his bag.
+7. Hilbert already knew what Weyl was going to present to the seminar.
+
+This difference is grammatically marked in formal German: _Wer hart arbeitet, verdient eine Belohnung_ vs. _Lacon fragte, wer der Maulwurf sei_.
+
+Consider the following argument:
+
+> What I immediately see depends upon the light conditions, but no material thing depends upon the light conditions. So, what I immediately see is not a material thing.
+
+The first premise sounds plausible because we naturally hear it with interrogative 'what' (perhaps because it's obviously false with relative 'what'). But the conclusion is heard with relative 'what'.
+
+### 2. Davidson
+
+Claim: One know what a sentence means just in case one knows what is the case iff the sentence is true.
+
+With the biconditional read materially, this is clearly insufficient. Read strictly, this seems quite bad. But I'm sympathetic to intensionalism. The basic case: intensional semantics is the gold-standard research program, and so shouldn't be abandoned; if you allow impossible worlds into your model, your semantics for logical terms basically aren't compositional, and your model lacks too much structure to be very useful.
+
+Rumfitt wants to revive a rule-following approach to semantics.
+
+### 3. Lewis
+
+> (8a) A man came to the door yesterday
+>
+> (8b) A certain man came to the door yesterday
+
+These have the same truth-conditions, but they embed differently:
+
+> (9a) Mary heard that a man came to the door yesterday.
+>
+> (9b) Mary heard that a certain man came to the door yesterday.
+>
+> (10a) Mary was surprised that a man came to the door yesterday.
+>
+> (10b) Mary was surprised that a certain man came to the door yesterday.
+>
+> (11a) If a man came to the door yesterday, the butler told him to go away.
+>
+> (11b) If a certain man came to the door yesterday, the butler told him to go away.
+
+Rumfitt writes that this is a problem for modeling semantics with function composition, or even for the supervenience of meaning on truth-conditions. But that's not right (and I was able to convince him and the class): a natural hypothesis is that 'a certain X' emphasizes the indefinite, making us more readily hear the reading in which it scopes over the whole sentence. Of course functions deliver different results if applied in different orders — doubling and adding five is not generally the same as adding five and doubling.
+
+A more interesting case concerns stress patterns:
+
+> (12a) Jane gave ME the tickets.
+>
+> (12b) Jane gave me the TICKETS.
+>
+> (13a) Mary was surprised that Jane gave ME the tickets.
+>
+> (13b) Mary was surprised that Jane gave me the TICKETS.
+>
+> (14a) Mary did not know that Jane gave ME the tickets.
+>
+> (14b) Mary did not know that Jane gave me the TICKETS.
+>
+> (15a) Jane gave ME the tickets by mistake.
+>
+> (15b) Jane gave me the TICKETS by mistake.
+
+Again, Rumfitt asserts that such "cases should lead us to reject the functional model of compositionality". But again, I think this is too hasty (and the class seemed to pretty widely agree). There's a plausible Gricean story, which goes something like: the choice to say it in this way (rather than in that way, which would've been more natural) tells me more information. This sort of 'manner implicature' depends on an alternative being salient; the inference in (13b) is blocked if the speaker is (say) French and so emphasizes the last word of every sentence. (Class was mostly English and German, no there were no French people to object. Why are there so many Germans in philosophy of language? And, like, so many Italians in metaphysics?)
