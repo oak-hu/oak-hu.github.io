@@ -123,14 +123,14 @@ I mean, they certainly don't say "the unique [...]", but it seems obvious that t
 
 ### 1. Indirect Questions
 
-Claim that 'tell' (and 'ask') are veridical / factive with respect to interrogative but not declarative complements. But consider:
+Rumfitt claims, with many, that 'tell' (and 'ask') are veridical / factive with respect to interrogative but not declarative complements. But consider:
 
 1. Did Ann tell anyone that she's dropping out to take a job in finance?
 2. Did Ann say to anyone that she's dropping out to take a job in finance?
 3. The meteorologists tell us where it's going to rain, but are often wrong.
 4. \# The meteorologists know where it's going to rain, but are often wrong.
 
-(1) but not (2) seems to license the inference that Ann's dropping out to take a job in finance; meanwhile, (3) seems fine, while (4) sounds horrible.
+(1) but not (2) seems to license the inference that Ann's dropping out to take a job in finance; meanwhile, (3) seems fine, while (4) sounds horrible. It's also nice to have a uniform (or reductive) semantics for both types of complements.
 
 Anyway, we can contrast interrogative and relative pronouns:
 
@@ -138,7 +138,7 @@ Anyway, we can contrast interrogative and relative pronouns:
 6. Mary hid what Fred had in his bag.
 7. Hilbert already knew what Weyl was going to present to the seminar.
 
-This difference is grammatically marked in formal German: _Wer hart arbeitet, verdient eine Belohnung_ vs. _Lacon fragte, wer der Maulwurf sei_.
+This difference is grammatically marked in formal German: _Wer hart arbeitet, verdient eine Belohnung_ vs. _Lacon fragte, wer der Maulwurf sei_. 
 
 Consider the following argument:
 
