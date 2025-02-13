@@ -15,7 +15,7 @@ Let $\phi$ be $\exists x\exists y\forall z(y=z\leftrightarrow\lnot x=z)$, so $\m
 
 ### Question 3.2
 
-> In Exercise 1.2 we considered an $\mathcal{L}_=$-sentence that is true in only infinite structures. Show that there can be no $\mathcal{L}_=$-sentence that is true in \textit{all and only} infinite structures.
+> In Exercise 1.2 we considered an $\mathcal{L}_=$-sentence that is true in only infinite structures. Show that there can be no $\mathcal{L}_=$-sentence that is true in _all and only_ infinite structures.
 
 Suppose there is such a sentence $\phi$; then all and only finite structures are models of $\{\lnot\phi\}$, and so in particular $\{\lnot\phi\}$ has arbitrarily large finite models but no infinite model, which contradicts the following result.
 
