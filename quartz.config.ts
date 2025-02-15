@@ -35,7 +35,7 @@ const config: QuartzConfig = {
           dark: "#a5663e", //headings
           secondary: "#02ab72", //page titles
           tertiary: "#f4d7ba", //hovered
-          highlight: "rgba(200, 160, 200, 0.15)",
+          highlight: "rgba(200, 125, 135, 0.15)",
           textHighlight: "#b3aa0288",
         },
         darkMode: {
