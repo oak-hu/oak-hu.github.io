@@ -22,8 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Merriweather",
-        body: "Merriweather Sans Light",
+        header: "Spectral SC",
+        body: "Palatino",
         code: "IBM Plex Mono",
       },
       colors: {
