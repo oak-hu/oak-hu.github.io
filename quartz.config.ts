@@ -23,19 +23,19 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Merriweather",
-        body: "Merriweather Sans",
+        body: "Merriweather Sans Light",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#eaeaea",
-          secondary: "#02ab72",
-          tertiary: "#01603b",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#022520", //background
+          lightgray: "#393939", // search bar, dividers
+          gray: "#02ab72", //dates
+          darkgray: "#d4b79a", //text
+          dark: "#a5663e", //headings
+          secondary: "#02ab72", //page titles
+          tertiary: "#f4d7ba", //hovered
+          highlight: "rgba(50, 100, 250, 0.15)",
           textHighlight: "#b3aa0288",
         },
         darkMode: {
