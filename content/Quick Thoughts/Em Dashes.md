@@ -7,7 +7,7 @@ Em-dashes are great—but sometimes they're difficult to type, especially with a
 
 Also, the CapsLock key occupies a really nice, central spot on the keyboard—and you don't actually use it that often. (Similarly with LeftShift for me personally).
 
-Solution? Map CapsLock to an em dash; RightShift + CapsLock to an en dash; LeftShift to ≈; and RightShift+LeftShift to ≠.
+Solution? Map (RightShift +) CapsLock and LeftShift to these symbols!
 
 There exist easy alt codes (option codes? idk) for some of these symbols on Mac—but you could also use [ahk-but-for-mac] to customize your Mac keyboard.
 
