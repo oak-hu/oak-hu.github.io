@@ -9,8 +9,6 @@ Also, the CapsLock key occupies a really nice, central spot on the keyboard—an
 
 Solution? Map (RightShift +) CapsLock and LeftShift to these symbols!
 
-There exist easy alt codes (option codes? idk) for some of these symbols on Mac—but you could also use [ahk-but-for-mac] to customize your Mac keyboard.
-
 ```
 #Requires AutoHotkey v2.0
 
@@ -32,3 +30,7 @@ LShift:: {
     SendText("≠")
 }
 ```
+
+There exist easy alt codes (option codes? idk) for some of these symbols on Mac—but you could also use [ahk-but-for-mac] to customize your Mac keyboard.
+
+I also hear that many people exclusively use LeftShift, rather than exclusively using RightShift—I don't know why I'm different, here. But it should be obvious how to make the relevant changes above. Enjoy!
