@@ -3,8 +3,7 @@ title: "W4: Williamson II"
 date: November 2024
 ---
 
-## Williamson II
-**Does knowledge, and only knowledge, constitute evidence?**
+## Does knowledge, and only knowledge, constitute evidence?
 
 ### 1. Introduction
 
