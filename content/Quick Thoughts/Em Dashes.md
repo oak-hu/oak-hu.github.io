@@ -3,11 +3,11 @@ title: "Em Dashes"
 date: February 2025
 ---
 
-Em-dashes are great—but sometimes they're difficult to type, especially with a Windows keyboard (in particular if you don't have a number pad). En-dashes, ≠, and ≈ are even worse.
+Em-dashes are great—but sometimes they're difficult to type, especially with a Windows keyboard (in particular if you don't have a number pad). En-dashes are even harder, but they're also useful (for number ranges, say, or even using spaced en dashes in place of em dashes).
 
-Also, the CapsLock key occupies a really nice, central spot on the keyboard—and you don't actually use it that often. (Similarly with LeftShift for me personally).
+Also, the CapsLock key occupies a really nice, central spot on the keyboard—and you don't actually use it that often.
 
-Solution? Map (RightShift +) CapsLock and LeftShift to these symbols!
+Solution? Map CapsLock to an en dash, and Shift + CapsLock to an em dash!
 
 ```
 #Requires AutoHotkey v2.0
@@ -15,22 +15,12 @@ Solution? Map (RightShift +) CapsLock and LeftShift to these symbols!
 SetCapsLockState "AlwaysOff"
 
 CapsLock:: {
-    SendText("—")
-}
-
-+CapsLock:: {
     SendText("–")
 }
 
-LShift:: {
-    SendText("≈")
-}
-
-+LShift:: {
-    SendText("≠")
++CapsLock:: {
+    SendText("—")
 }
 ```
 
 There exist easy alt codes (option codes? idk) for some of these symbols on Mac—but you could also use [ahk-but-for-mac] to customize your Mac keyboard.
-
-I also hear that many people exclusively use LeftShift, rather than exclusively using RightShift—I don't know why I'm different, here. But it should be obvious how to make the relevant changes above. Enjoy!
