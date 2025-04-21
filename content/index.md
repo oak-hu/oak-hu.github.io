@@ -25,9 +25,9 @@ Some current projects:
 * Can we account for imperatives using only a standard framework of truth-conditional semantics + pragmatics (+ heuristics)?
 
 Some beautiful places:
-* Longwood Gardens (Chester County, Pennsylvania)
-* Lighthaven (Berkeley, California)
-* Common Ground Café (Oxford, England)
+* Longwood Gardens—Chester County, Pennsylvania
+* Lighthaven—Berkeley, California
+* Tunxi Old Street (Evening, Riverside)—Huangshan, China
 
 This site is under (sporadic) construction!
 
