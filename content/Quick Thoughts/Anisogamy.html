@@ -72,14 +72,15 @@
     </style>
 </head>
 <body>
-    <h1>Evolution of Anisogamy - High Resolution Sigmoid Model</h1>
+    <h1>Evolution of Anisogamy</h1>
+    <h2>Based on Maire et al. 2001</h2>
     
     <div class="controls">
         <div class="control-group">
-            <label>Resolution:</label>
+            <label>Accuracy:</label>
             <input type="range" id="resolution" min="100" max="1000" step="100" value="100">
             <span class="value-display" id="resolutionValue">100</span>
-            <div class="warning" id="resolutionWarning" style="display:none;">High resolution may impact performance</div>
+            <div class="warning" id="resolutionWarning" style="display:none;">High accuracy may impact performance</div>
         </div>
         <div class="control-group">
             <label>Population Size:</label>
@@ -119,7 +120,7 @@
     <canvas id="histogram" width="800" height="400"></canvas>
 
     <script>
-        const MIN_SIZE = 0.02;
+        const MIN_SIZE = 0.01;
         const MAX_SIZE = 1.25;
         const HISTOGRAM_BINS = 100;
         
@@ -200,7 +201,7 @@
                     const size1 = MIN_SIZE + i * stepSize;
                     const size2 = MIN_SIZE + j * stepSize;
                     const zygoteSize = size1 + size2;
-                    const survival = Math.min(1, Math.max(0, 0.95 - Math.exp(-zygoteSize * zygoteSize)));
+                    const survival = Math.min(1, Math.max(0, 1 - 1.05 * Math.exp(-zygoteSize * zygoteSize)));;
                     survivalTable[i * sizeSteps + j] = survival;
                 }
             }
@@ -485,4 +486,5 @@
         updateDisplay();
     </script>
 </body>
+
 </html>
