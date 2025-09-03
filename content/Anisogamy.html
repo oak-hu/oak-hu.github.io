@@ -62,10 +62,17 @@
             margin-bottom: 20px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
-        canvas {
+        .canvas-container {
             background: #d4b79a;
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            padding: 0;
+            overflow: hidden;
+        }
+        canvas {
+            display: block;
+            width: 100%;
+            height: auto;
         }
         .warning {
             color: #022520;
@@ -119,7 +126,9 @@
         <strong>FPS:</strong> <span id="fps">-</span>
     </div>
     
-    <canvas id="histogram" width="900" height="400"></canvas>
+    <div class="canvas-container">
+        <canvas id="histogram"></canvas>
+    </div>
 
     <script>
         const MIN_SIZE = 0.001;
@@ -152,6 +161,22 @@
         const startingSizeSlider = document.getElementById('startingSize');
         const mutationProbSlider = document.getElementById('mutationProb');
         const mutationSizeSlider = document.getElementById('mutationSize');
+        
+        // Resize canvas to fit container
+        function resizeCanvas() {
+            const container = canvas.parentElement;
+            const containerWidth = container.clientWidth;
+            const aspectRatio = 400 / 900; // Original height / width ratio
+            const canvasHeight = Math.max(300, containerWidth * aspectRatio);
+            
+            canvas.width = containerWidth;
+            canvas.height = canvasHeight;
+            
+            // Redraw if we have population data
+            if (population.length > 0) {
+                drawHistogram();
+            }
+        }
         
         // Update displayed values
         resolutionSlider.oninput = () => {
@@ -341,6 +366,17 @@
         function drawHistogram() {
             ctx.clearRect(0, 0, canvas.width, canvas.height);
             
+            // Responsive margins and dimensions
+            const margin = {
+                left: Math.max(50, canvas.width * 0.08),
+                right: Math.max(20, canvas.width * 0.02),
+                top: Math.max(30, canvas.height * 0.08),
+                bottom: Math.max(60, canvas.height * 0.15)
+            };
+            
+            const chartWidth = canvas.width - margin.left - margin.right;
+            const chartHeight = canvas.height - margin.top - margin.bottom;
+            
             // Create bins
             const bins = new Array(HISTOGRAM_BINS).fill(0);
             const binWidth = (MAX_SIZE / 2 - MIN_SIZE) / HISTOGRAM_BINS;
@@ -356,34 +392,34 @@
             ctx.strokeStyle = '#022520';
             ctx.lineWidth = 2;
             ctx.beginPath();
-            ctx.moveTo(50, 350);
-            ctx.lineTo(850, 350);
-            ctx.moveTo(50, 50);
-            ctx.lineTo(50, 350);
+            ctx.moveTo(margin.left, margin.top + chartHeight);
+            ctx.lineTo(margin.left + chartWidth, margin.top + chartHeight);
+            ctx.moveTo(margin.left, margin.top);
+            ctx.lineTo(margin.left, margin.top + chartHeight);
             ctx.stroke();
             
             // Draw bars
-            const barWidth = 800 / HISTOGRAM_BINS;
+            const barWidth = chartWidth / HISTOGRAM_BINS;
             const maxCount = populationSize;
             
             ctx.fillStyle = '#018574';
             bins.forEach((count, i) => {
-                const barHeight = (count / maxCount) * 300;
-                const x = 50 + i * barWidth;
-                const y = 350 - barHeight;
+                const barHeight = (count / maxCount) * chartHeight;
+                const x = margin.left + i * barWidth;
+                const y = margin.top + chartHeight - barHeight;
                 ctx.fillRect(x, y, barWidth + 1, barHeight);
             });
             
             // Labels
             ctx.fillStyle = '#022520';
-            ctx.font = '12px Garamond';
+            ctx.font = `${Math.max(10, canvas.width * 0.014)}px Garamond`;
             ctx.textAlign = 'center';
             
             // X-axis labels
             for (let i = 0; i <= 6; i++) {
                 const value = MIN_SIZE + (MAX_SIZE / 2 - MIN_SIZE) * i / 6;
-                const x = 50 + 800 * i / 6;
-                ctx.fillText(value.toFixed(2), x, 370);
+                const x = margin.left + chartWidth * i / 6;
+                ctx.fillText(value.toFixed(2), x, margin.top + chartHeight + 20);
             }
             
             // Y-axis labels (dynamic based on population size)
@@ -391,17 +427,17 @@
             const yStep = Math.ceil(populationSize / 5);
             for (let i = 0; i <= 5; i++) {
                 const value = i * yStep;
-                const y = 350 - (i * 300 / 5);
-                ctx.fillText(value, 40, y + 5);
+                const y = margin.top + chartHeight - (i * chartHeight / 5);
+                ctx.fillText(value, margin.left - 10, y + 5);
             }
             
             // Axis titles
-            ctx.font = '14px Garamond';
+            ctx.font = `${Math.max(12, canvas.width * 0.016)}px Garamond`;
             ctx.textAlign = 'center';
-            ctx.fillText('Gamete Size', 450, 395);
+            ctx.fillText('Gamete Size', margin.left + chartWidth / 2, canvas.height - 10);
             
             ctx.save();
-            ctx.translate(15, 200);
+            ctx.translate(15, margin.top + chartHeight / 2);
             ctx.rotate(-Math.PI / 2);
             ctx.fillText('Count', 0, 0);
             ctx.restore();
@@ -480,9 +516,15 @@
             }
         };
         
+        // Handle window resize
+        window.addEventListener('resize', () => {
+            resizeCanvas();
+        });
+        
         // Initialize
         initializeLookupTable();
         initializePopulation();
+        resizeCanvas(); // Set initial canvas size
         updateDisplay();
     </script>
 </body>
