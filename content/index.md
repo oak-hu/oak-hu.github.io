@@ -11,11 +11,16 @@ description: Welcome! My name is Oak. I do math and philosophy—the two armchai
 
 Welcome!
 
-My name is Oak.[^1] I do math and philosophy—the two armchair disciplines—at Magdalen College, Oxford. My main interests are in the subfields of philosophy where you see λ-terms: the formal semantics of natural language, as well as higher-order logic and its applications to metaphysics. These also happen to be the two areas where current LLMs are actually useful, for generating linguistic data and for cleaning up proofs, respectively.
+My name is Oak.[^1] I do math and philosophy—the two armchair disciplines—at Magdalen College, Oxford. I last left and will next leave Oxford respectively, for:
 
-This site hosts copies of my philosophy essays (for [[/Essays/Moral-Philosophy/Overview|undergraduate]] [[/Essays/Knowledge--and--Reality/Overview|classes]]) and notes (for [[/Notes/Knowledge-of-Meaning|graduate]] [[/Notes/Non-Consequentialism|seminars]]). However, you'll probably be much more interested in the work on my [[https://offhandquibbles.substack.com|Substack]]. 
+* Hostačov, Czechia (ESPR Reunion, 1–3 November)
+* New York City, USA (8th Higher-Order Metaphysics Workshop, 14–17 November)
 
-Some beautiful non-Oxford places (with fantastic greenery, lighting, & food):
+My main interests are in the subfields of philosophy where you see λ-terms: the formal semantics of natural language, as well as higher-order logic and its applications to metaphysics. These also happen to be the two areas where current LLMs are actually useful, for generating linguistic data and for cleaning up proofs, respectively.
+
+This site halfheartedly hosts copies of my philosophy essays (for [[/Essays/Moral-Philosophy/Overview|undergraduate]] [[/Essays/Knowledge--and--Reality/Overview|classes]]) and notes (for [[/Notes/Knowledge-of-Meaning|graduate]] [[/Notes/Non-Consequentialism|seminars]]), but mostly not for other humans to read. You'll be much more interested in the work on my [[https://offhandquibbles.substack.com|Substack]].
+
+My favorite non-Oxford places (with fantastic greenery, lighting, & food):
 * [[https://longwoodgardens.org/gardens/conservatory-district|Longwood Gardens]] (Chester County, Pennsylvania)
 * [[http://english.anhuinews.com/newscenter/e/202305/t20230515_6858632.html|Tunxi Old Street & Waterfront]] (Huangshan, China)
 * [[https://www.lighthaven.space/|Lighthaven]] (Berkeley, California)
