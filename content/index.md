@@ -11,7 +11,7 @@ description: Welcome! My name is Oak. I do math and philosophy—the two armchai
 
 Welcome!
 
-My name is Oak.[^1] I do math and philosophy—the two armchair disciplines—at Magdalen College, Oxford. My main interests are in the subfields of philosophy where you see λ-terms: the formal semantics of natural language, as well as higher-order logic and its applications to metaphysics.
+My name is Oak.[^1] I do math and philosophy—the two armchair disciplines—at Magdalen College, Oxford. My main interests are in the subfields of philosophy where you see λ-terms: the formal semantics of natural language, as well as higher-order logic and its applications to metaphysics. These also happen to be the two areas where current LLMs are actually useful, for generating linguistic data and for cleaning up proofs, respectively.
 
 This site hosts copies of my philosophy essays (for [[/Essays/Moral-Philosophy/Overview|undergraduate]] [[/Essays/Knowledge--and--Reality/Overview|classes]]) and notes (for [[/Notes/Knowledge-of-Meaning|graduate]] [[/Notes/Non-Consequentialism|seminars]]). However, you'll probably be much more interested in the work on my [[https://offhandquibbles.substack.com|Substack]]. 
 
