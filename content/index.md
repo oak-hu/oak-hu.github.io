@@ -11,7 +11,7 @@ description: Welcome! My name is Oak. I do math and philosophy—the two armchai
 
 Welcome!
 
-My name is Oak.[^1] I do math and philosophy—the two armchair disciplines—at Magdalen College, Oxford. I last left and will next leave Oxford respectively, for:
+My name is Oak.[^1] I do math and philosophy—the two armchair disciplines—at Magdalen College, Oxford. I last left and will next leave Oxford for:
 
 * Hostačov, Czechia (ESPR Reunion, 1–3 November)
 * New York City, USA (8th Higher-Order Metaphysics Workshop, 14–17 November)
