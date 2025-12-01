@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    {% seo %}
+    
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Langar&family=Ma+Shan+Zheng&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/svg+xml" href="{{ '/assets/icon.svg' | relative_url }}">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3L42PTTP8D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3L42PTTP8D');
+</script>
+</head>
+
+<body>
+    <header class="site-nav">
+        <div class="nav-links">
+            {% for item in site.navigation %}
+                {% assign p_url = page.url | absolute_url %}
+                {% assign i_url = item.url | absolute_url %}
+                {% assign p_url_slashed = p_url | append: '/' %}
+                {% assign i_url_slashed = i_url | append: '/' %}
+                
+                <a href="{{ item.url | relative_url }}" 
+                   class="nav-item {% if p_url == i_url or p_url == i_url_slashed or p_url_slashed == i_url %}active{% endif %}">
+                   {{ item.title }}
+                </a>
+            {% endfor %}
+        </div>
+
+        <div class="progress-container">
+            <div class="progress-bar" id="scroll-progress"></div>
+        </div>
+    </header>
+    <main class="glass-card content">
+        {{ content }}
+    </main>
+
+    <script src="{{ "/assets/js/scripts.js" | relative_url }}"></script>
+</body>
+</html>
