@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "fregean-senses"
+title: "Fregean Senses"
 date: 2025-11-14
 tag: "Philosophy of Language (Week 1)"
 ---
@@ -30,16 +30,17 @@ A second canonical (see, for instance, Kripke 1980) argument for Frege’s theor
 
 Here is another argument for Frege’s theory of sense (due to Heim 1998). Consider the following sentence.
 
-1. He hates him.
+(1) He hates him.
 
 Both ‘he’ and ‘him’ as used in (1) refer to individuals. What restrictions are there on what these terms can refer to? For a start, any male human (along with some non-human animals) could be the referent of either ‘he’ or ‘him’, and nothing else can. For instance, the ‘he’ might refer to John, and the ‘him’ might refer to John.
 
 However, strikingly, it typically cannot be that both ‘he’ and ‘him’ in (1) refer to John simultaneously! Notice that it is exceedingly difficult to interpret (1) as meaning that John hates himself. However, with the right context, we can overcome this difficulty. For instance, consider (2).
 
-2. Nobody likes John. His family hates him, his coworkers hate him, and—come to think of it—_he_ hates him, too!
+(2) Nobody likes John. His family hates him, his coworkers hate him, and—come to think of it—_he_ hates him, too!
 
 Now, (2) is interpretable with ‘he’ and ‘him’ both referring to John. Similarly, consider (3).
-I think that the anonymous caller was actually the candidate herself—she praised her like nobody else would!
+
+(3) I think that the anonymous caller was actually the candidate herself—she praised her like nobody else would!
 
 What is different about (2) and (3) from ordinary utterances of sentences like (1)? One striking feature is that the uses of ‘he’ and ‘him’ (in (3), ‘she’ and ‘her’) seem to present the referent under two different senses. In (2), ‘he’ has a sense like ‘yet another person who hates John’, while ‘him’ has a sense like ‘this person who everyone hates’. Meanwhile, in (3), ‘she’ has a sense like ‘that anonymous caller’ (on which, indeed, ‘she’ is anaphoric), while ‘her’ has a sense like ‘the candidate herself’ (similarly). 
 
@@ -47,11 +48,11 @@ The pattern seems to be that the subject and object in a sentence like (1) canno
 
 Importantly, without appealing to the ideology of Fregean senses, it is hard to make such a generalisation. For instance, it cannot be in (3) that the speaker is merely accommodating the audience’s ignorance as to the identity of the subject and object, and for that reason alone saying ‘her’ rather than ‘herself’. For one thing, in (2), such identity is common knowledge, and indeed is only easily interpretable absent other context if one knows that ‘he’ and ‘him’ are both supposed to refer to John. For another, substituting ‘herself’ for ‘her’ in (3) changes the effect drastically.
 
-4. ? I think that the anonymous caller was actually the candidate herself—she praised herself like nobody else would!
+(4) ? I think that the anonymous caller was actually the candidate herself—she praised herself like nobody else would!
 
 Similarly, it cannot be that what is going in (3) is merely an effect of anaphora on definite descriptions (for instance, one might hypothesise that the anaphor “imports” the entire definite description, and not just its referent). Consider (5), as uttered while pointing first at John and then at his face in a group picture.
 
-5. Of course, _he_ thinks that the most important member of the band is _him_.
+(5) Of course, _he_ thinks that the most important member of the band is _him_.
    
 Here, both ‘he’ and ‘him’ are pronominals, as in the default interpretation of (1); so complicating the theory of anaphora to deal with (3) is insufficient.
 
@@ -67,9 +68,11 @@ One initial disadvantage of Frege’s theory of sense is that it posits a new bi
 
 One extant tool we have for replacing senses is _interpreted sentences_ (more generally, _interpreted terms_). For the most part, what was attractive about senses was that they enabled us to draw distinctions between terms with the same referent. But we can simply use the terms themselves to do that! Interpreted sentences also let us draw similarities between terms that, under Frege’s view, share a sense. For instance, one might hold that the English (6) and the German (7) have something important in common, which is different from (8), which has the same referent (either the true, or perhaps the necessary proposition). An easy explanation for this is that they share a sense.
 
-6. Gold is an element.
-7. Gold ist ein Element.
-8. Water is H~2~O.
+(6) Gold is an element.
+
+(7) Gold ist ein Element.
+
+(8) Water is H~2~O.
 
 However, we can simply note that although (6) and (7) are not identical, they involve coreferential subterms in the same structure; this is something that also sets them apart from (8).
 
