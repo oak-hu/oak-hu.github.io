@@ -7,7 +7,7 @@ tag: "Philosophy of Language (Week 1)"
 
 # Fregean Senses
 
-_The following is tutorial essays for Philosophy of Logic and Language with James Kirkpatrick. In effect, it is a short agenda for an hour-long discussion on a guiding question, which for this week was ‘What are the arguments for/against Frege’s theory of sense for proper names?’. A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com/)._
+_The following is a tutorial essay for Philosophy of Logic and Language with James Kirkpatrick. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘What are the arguments for/against Frege’s theory of sense for proper names?’. A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com/)._
 
 ## I. Frege's Theory of Sense
 
