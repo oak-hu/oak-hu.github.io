@@ -72,7 +72,7 @@ One extant tool we have for replacing senses is _interpreted sentences_ (more ge
 
 (7) Gold ist ein Element.
 
-(8) Water is H~2~O.
+(8) Water is H<sub>2</sub>O.
 
 However, we can simply note that although (6) and (7) are not identical, they involve coreferential subterms in the same structure; this is something that also sets them apart from (8).
 
