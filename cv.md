@@ -20,22 +20,22 @@ permalink: /cv
             
 <ul style="margin-top: 0.5vw; padding-left: 1vw; list-style-type: disc;">
 	<li style="margin-bottom: 0.5vw;">
-                    <strong>Strawson Prize</strong> (£200) for best Magdalen undergraduate philosophy essay
+                    <strong>Strawson Prize</strong> (£200) for best philosophy essay among Magdalen undergrads
     </li>
 	<li style="margin-bottom: 0.5vw;">
-                    <strong>Graduate seminars</strong> in rational choice, language, metaphysics, epistemology, etc.<label for="sn-4" class="margin-toggle sidenote-number"></label>
+                    <strong>Graduate seminars</strong> in rational choice, language, metaphysics, epistemology, ethics<label for="sn-4" class="margin-toggle sidenote-number"></label>
         <input type="checkbox" id="sn-4" class="margin-toggle"/>
         <span class="sidenote">Decision theory, social choice theory; formal semantics, knowledge of meaning; formal epistemology, topics in epistemology; metaphysics, modal metaphysics; digital minds, non-consequentialism
 </span>
                 </li>
                 <li style="margin-bottom: 0.5vw;">
-                    <strong>Magdalen demyship</strong> (£200) for distinction on preliminary exams in math and philosophy<label for="sn-2" class="margin-toggle sidenote-number"></label>
+                    <strong>Magdalen demyship</strong> (£200) for distinction in mathematics and philosophy prelims<label for="sn-2" class="margin-toggle sidenote-number"></label>
         <input type="checkbox" id="sn-2" class="margin-toggle"/>
         <span class="sidenote">With scores of 75+ in real analysis, general philosophy & Frege, and philosophical topics in logic and probability
 </span>
                 </li>
                 <li style="margin-bottom: 0.5vw;">
-                    <strong>Distinction</strong> on preliminary exams in philosophy, politics, and economics<label for="sn-3" class="margin-toggle sidenote-number"></label>
+                    <strong>Distinction</strong> in philosophy, politics, and economics prelims<label for="sn-3" class="margin-toggle sidenote-number"></label>
         <input type="checkbox" id="sn-3" class="margin-toggle"/>
         <span class="sidenote">I did a year of PPE before transferring to math/phil, like someone in the year above me (she's now doing AI safety research) and another in the year below me (she's <em>also</em> now doing AI safety research, and actually dropped philosophy). Decades earlier, a co-author on one of my favourite papers made this switch, too.
 </span>
