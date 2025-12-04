@@ -20,7 +20,7 @@ permalink: /cv
             
 <ul style="margin-top: 0.5vw; padding-left: 1vw; list-style-type: disc;">
 	<li style="margin-bottom: 0.5vw;">
-                    <strong>Strawson Prize</strong> for best essay by a Magdalen undergraduate on any subject in philosophy.
+                    <strong>Strawson Prize</strong> (£200) for best Magdalen undergraduate philosophy essay
     </li>
 	<li style="margin-bottom: 0.5vw;">
                     <strong>Graduate seminars</strong> in rational choice, language, metaphysics, epistemology, etc.<label for="sn-4" class="margin-toggle sidenote-number"></label>
@@ -29,7 +29,7 @@ permalink: /cv
 </span>
                 </li>
                 <li style="margin-bottom: 0.5vw;">
-                    <strong>Magdalen demyship</strong> for distinction on preliminary exams in math and philosophy<label for="sn-2" class="margin-toggle sidenote-number"></label>
+                    <strong>Magdalen demyship</strong> (£200) for distinction on preliminary exams in math and philosophy<label for="sn-2" class="margin-toggle sidenote-number"></label>
         <input type="checkbox" id="sn-2" class="margin-toggle"/>
         <span class="sidenote">With scores of 75+ in real analysis, general philosophy & Frege, and philosophical topics in logic and probability
 </span>
@@ -64,7 +64,7 @@ permalink: /cv
                     Coursework (philosophy) and supervised independent reading (statistics) at UPenn
                 </li>
                 <li style="margin-bottom: 0.5vw;">
-                    First place in FBLA Economics Nationals
+                    First place ($500) in FBLA Economics Nationals
                 </li>
             </ul>
         </div>
