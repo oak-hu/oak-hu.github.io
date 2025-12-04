@@ -19,7 +19,10 @@ permalink: /cv
             </div>
             
 <ul style="margin-top: 0.5vw; padding-left: 1vw; list-style-type: disc;">
-		<li style="margin-bottom: 0.5vw;">
+	<li style="margin-bottom: 0.5vw;">
+                    <strong>Sir Peter Strawson Prize</strong> for best essay by a Magdalen undergraduate on any subject in philosophy.
+    </li>
+	<li style="margin-bottom: 0.5vw;">
                     <strong>Graduate seminars</strong> in rational choice, language, metaphysics, epistemology, etc.<label for="sn-4" class="margin-toggle sidenote-number"></label>
         <input type="checkbox" id="sn-4" class="margin-toggle"/>
         <span class="sidenote">Decision theory, social choice theory; formal semantics, knowledge of meaning; formal epistemology, topics in epistemology; metaphysics, modal metaphysics; digital minds, non-consequentialism
