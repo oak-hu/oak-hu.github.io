@@ -20,7 +20,7 @@ permalink: /cv
             
 <ul style="margin-top: 0.5vw; padding-left: 1vw; list-style-type: disc;">
 	<li style="margin-bottom: 0.5vw;">
-                    <strong>Sir Peter Strawson Prize</strong> for best essay by a Magdalen undergraduate on any subject in philosophy.
+                    <strong>Strawson Prize</strong> for best essay by a Magdalen undergraduate on any subject in philosophy.
     </li>
 	<li style="margin-bottom: 0.5vw;">
                     <strong>Graduate seminars</strong> in rational choice, language, metaphysics, epistemology, etc.<label for="sn-4" class="margin-toggle sidenote-number"></label>
