@@ -12,7 +12,7 @@
     --hover-color: #af694a;
     
     /* Glassmorphism */
-    --glass-bg: rgba(0, 26, 32, 0.67);
+    --glass-bg: rgba(0, 24, 32, 0.67);
     --glass-border: rgba(255, 255, 255, 0.1);
     --glass-blur: 25px;
     --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
@@ -274,7 +274,7 @@ label.sidenote-number {
     .sidenote { display: none; } 
     .sidenote-number::before { font-family: var(--font-display); color: var(--link-color); cursor: pointer; }
     .sidenote-number::after { content: "⇲"; color: var(--hover-color); display: inline-block; font-size: 0.8em; margin-left: 2px; vertical-align: super; }
-    .margin-toggle:checked + .sidenote { display: block; position: relative; float: none; left: auto; width: 100%; margin: 1.5rem 0; padding: 1rem; animation: noteFadeIn 0.25s ease forwards; opacity: 0; }
+    .margin-toggle:checked + .sidenote { display: block; position: relative; float: none; left: auto; width: 100%; margin: 1.5rem 0; padding: 1rem; animation: noteFadeIn 0.25s ease forwards; opacity: 0; background: rgba(0, 12, 16, 0.5);}
 }
 
 /* Blockquotes styled as expanded inline sidenotes */
@@ -287,7 +287,7 @@ blockquote {
     padding: 1rem;
     
     /* Visuals: Match .sidenote */
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 12, 16, 0.5);
     border-radius: 8px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
     
