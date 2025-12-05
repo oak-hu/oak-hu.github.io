@@ -21,6 +21,8 @@
     --font-main: 'Palatino Linotype', 'Palatino', 'Georgia', serif;
     --font-display: 'Langar', 'Courier New', monospace;
     --font-cjk: 'Ma Shan Zheng', 'Palatino Linotype', serif;
+    --font-min: 0.9rem;
+    --font-min: 0.9rem;
 
     /* Grid */
     --unit: calc(100vw / 21);
@@ -161,8 +163,8 @@ a:hover { color: var(--hover-color); }
 
 /* Content Styling */
 .content {
-    line-height: 1.8;
-    font-size: clamp(0.9rem, 1.2vw, 1.3rem);
+    line-height: 1.75;
+    font-size: clamp(1.0rem, 1.25vw, 1.25rem);
 }
 .content h1 {
     font-family: var(--font-display);
@@ -173,7 +175,7 @@ a:hover { color: var(--hover-color); }
 }
 .content h2 {
     font-family: var(--font-display);
-    font-size: clamp(1.2rem, 2vw, 2rem);
+    font-size: clamp(1.25rem, 2vw, 2rem);
     color: var(--link-color);
     margin-top: 2rem;
     margin-bottom: 1rem;
@@ -196,7 +198,7 @@ cjk { font-family: var(--font-cjk); }
     margin-bottom: 0.2rem;
 }
 .writing-date {
-    font-size: 0.85rem; 
+    font-size: clamp(0.85rem, 1vw, 1.25rem);
     color: var(--text-secondary); 
     opacity: 0.8;
     display: inline-block; 
@@ -206,7 +208,7 @@ cjk { font-family: var(--font-cjk); }
 .writing-tag {
     display: inline-block;
     font-family: var(--font-display);
-    font-size: 0.75rem;
+    font-size: clamp(0.85rem, 1vw, 1.25rem);
     color: var(--link-color);
     border: 1px solid var(--glass-border);
     padding: 1px 6px;
@@ -216,7 +218,7 @@ cjk { font-family: var(--font-cjk); }
     transition: opacity 0.2s;
 }
 
-.writing-title { font-size: 1.4rem; color: var(--link-color); }
+.writing-title { font-size: clamp(1.25rem, 1.5vw, 2rem); color: var(--link-color); }
 
 /* Sidenotes */
 
@@ -242,8 +244,8 @@ label.sidenote-number {
     position: absolute;
     width: var(--sidenote-width);
     left: var(--sidenote-offset);
-    font-size: 0.9rem;
-    line-height: 1.4;
+    font-size: clamp(0.9rem, 1.20vw, 1.25rem);
+    line-height: 1.5;
     text-align: left;
     background: rgba(0, 0, 0, 0.8);
     padding: 1rem;
@@ -273,4 +275,31 @@ label.sidenote-number {
     .sidenote-number::before { font-family: var(--font-display); color: var(--link-color); cursor: pointer; }
     .sidenote-number::after { content: "⇲"; color: var(--hover-color); display: inline-block; font-size: 0.8em; margin-left: 2px; vertical-align: super; }
     .margin-toggle:checked + .sidenote { display: block; position: relative; float: none; left: auto; width: 100%; margin: 1.5rem 0; padding: 1rem; animation: noteFadeIn 0.25s ease forwards; opacity: 0; }
+}
+
+/* Blockquotes styled as expanded inline sidenotes */
+blockquote {
+    /* Layout: Inline flow */
+    display: block;
+    position: relative;
+    width: 100%;
+    margin: 1.5rem 0;
+    padding: 1rem;
+    
+    /* Visuals: Match .sidenote */
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    
+    /* Typography: Fluid font size */
+    font-size: clamp(0.9rem, 1.20vw, 1.25rem);
+    line-height: 1.5;
+    color: var(--text-primary);
+    
+    /* Reset default browser styles */
+    border-left: none;
+}
+
+blockquote p:last-child {
+    margin-bottom: 0;
 }
