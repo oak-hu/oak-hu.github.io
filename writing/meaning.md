@@ -17,9 +17,9 @@ The category of propositions naturally generalises the category of facts: while 
 
 The propositions form a Boolean algebra, which (by Stone’s representation theorem) may always be represented as a family *t* of subsets of some set *w* which obeys the following rules:
 
-1.  The empty set is a member of the family.
-2.  The complement (relative to *w*) of any family member is a family member.
-3.  The intersection of any two family members is a family member.
+> 1.  The empty set is a member of the family.
+> 2.  The complement (relative to *w*) of any family member is a family member.
+> 3.  The intersection of any two family members is a family member.
 
 By writing ‘*a*: *x* → *y*’, we note as an aside that *a* is a function that maps each member of *x* to a member of *y*—set theoretically, that *a* is an element of the Cartesian product of *x* and *y*. Now, our usual propositional connectives can now be identified with set theoretic functions. For instance, ¬: *t* → *t* is relative complement, and ∧: *t* → (*t* → *t*) is intersection; the other operators can be built from these in the usual way. To mention a few, the proposition ⊥: *t* is *p* ∧ ¬*p* for any proposition *p* (say, the empty set), which is (also) the empty set; thus ⊤: *t*, which is ¬⊥, is the whole set *w*. Further, the operator ∨: *t* → (*t* → *t*) (λ*xy*. ¬(¬*x* ∧ ¬*y*))—that is, *p* ∨ *q* is ¬(¬*p* ∧ ¬*q*) for any propositions *p* and *q*—happens to be set theoretic union.
 
