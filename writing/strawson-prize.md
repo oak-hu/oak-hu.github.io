@@ -118,3 +118,25 @@ But then, given (11') as well, it is easy to see that the following are equivale
 > * ⊥
 
 That is, every impossibility is a necessary truth. Clearly, this trivialises the logic. Now, friends of intensionalism and necessitism—like Bacon and Dorr (2024) and Williamson (2014)—may be content to stop here: after all, we have just learned that direct causation is inconsistent given what we know about propositional identity and existence.
+
+As we saw in (16), the direct causation schema (11') need not be restricted such that the direct cause must be an individual (of type e); indeed, direct causes may be _propositions_ (of type _t_), like the proposition that some man is dead.{% include sidenote.html content = "Perhaps this is the wrong way to think about _that_-clauses in English; but, given the resources of higher order logic, and the orthodoxy of the thought that propositions or events are causes, it is independently worth exploring. Of course, that inconsistency results at _any_ type is also a negative sign." %} Let’s focus on this special case. Of course, this means that the logic with which we characterised the direct causation schema (11') had better be able to quantify into sentence position (intuitively, to quantify over propositions). Once we’re in a higher-order language, we can dispense with the schematic presentation as well, and put the direct causation schema as a single sentence which quantifies explicitly into sentence position and operator position (specifically, monadic operators of type ⟨_t_, _t_⟩, like ‘¬’). Finally, we may as well rewrite ‘⇔’ explicitly as necessary equivalence. Note that ‘▷’, as it appears below, is of type ⟨_t_,⟨_t_, _t_⟩⟩, like the operator ‘∧’. Making these changes, we have the following propositional direct causation formula (PDC).{% include sidenote.html content = "For an introduction to higher order languages of this sort as applied to metaphysics, see the exposition in, e.g., Williamson (2014) or Bacon and Dorr (2024)." %}
+
+> (PDC) ∀_φ_∀_p_□((_p_ ▷ ∃_q φq_) ↔ _φp_)
+
+In English, read: ‘_p_ directly causes there to be a _φ_ just in case _p_ is a _φ_’.
+
+Note also that this formula follows from the generalisation across all types (which, to be a sentence rather than a schema, requires quantifying over types; see generally Wilhelm 2025).
+
+> (DC) **∀**_σ_ ∀<sub>_⟨σ, t⟩_</sub>_φ_ ∀<sub>_σ_</sub>_x_ □((_x_ ▷<sub>⟨_x_, _t_⟩</sub> ∃<sub>_σ_</sub>_q φq_) ↔ _φp_)
+
+This is the natural way to (implicitly) define direct causation by anything of
+any type. But, given intensionalism and necessitism, (DC) is false. Indeed,
+since our above argument generalised to any type for which there are—loosely
+speaking—at least two things of that type, (DC) is false for every such type.
+For instance, at type _t_, we have ⊤ (the necessary truth) and ⊥ (the impossibility). We can formulate our discovery as follows.
+
+> (NDC) **∀**_σ_ (∃<sub_σ</sub>_x_ ∃<sub>_σ_</sub>_y_ (_x_ ≠ _y_) → ¬∃<sub>⟨_σ_,⟨_t_, _t_⟩⟩</sub>∆ ∀<sub>⟨_σ_, _t_⟩</sub>_φ_ ∀<sub>_σ_</sub>_x_ □((_x∆_∃<sub>_σ_</sub>_q φq_) ↔ _φp_))
+
+This is a theorem of any logic expressive enough to quantify over types and strong enough to prove intensionalism for propositions and necessitism at all types. The schematic version of (NDC) is provable, of course, without quantifying over types. Either (NDC) or a schematic version thereof applies to individuals (including events) and to propositions, and in particular shows that there cannot be direct causation by individuals (including events) or propositions. Indeed, there cannot be direct causation by any type of which there is more than one instance.
+
+...
