@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Fregean Senses"
-date: 2025-11-14
+date: 2025-10-14
 tag: "Philosophy of Language (Week 1)"
 ---
 
