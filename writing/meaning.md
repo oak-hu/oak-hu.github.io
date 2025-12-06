@@ -20,7 +20,7 @@ The propositions form a Boolean algebra, which (by Stone’s representation theo
 1.  The empty set is a member of the family.
 2.  The complement (relative to *w*) of any family member is a family member.
 3.  The intersection of any two family members is a family member.
-
+<br><br>
 
 By writing ‘*a*: *x* → *y*’, we note as an aside that *a* is a function that maps each member of *x* to a member of *y*—set theoretically, that *a* is an element of the Cartesian product of *x* and *y*. Now, our usual propositional connectives can now be identified with set theoretic functions. For instance, ¬: *t* → *t* is relative complement, and ∧: *t* → (*t* → *t*) is intersection; the other operators can be built from these in the usual way. To mention a few, the proposition ⊥: *t* is *p* ∧ ¬*p* for any proposition *p* (say, the empty set), which is (also) the empty set; thus ⊤: *t*, which is ¬⊥, is the whole set *w*. Further, the operator ∨: *t* → (*t* → *t*) (λ*xy*. ¬(¬*x* ∧ ¬*y*))—that is, *p* ∨ *q* is ¬(¬*p* ∧ ¬*q*) for any propositions *p* and *q*—happens to be set theoretic union.
 
@@ -41,14 +41,14 @@ There is a reading of ‘and’ where it behaves like ‘∧’ as defined above
 * Snow is white, but yikes!
 * Snow is white, but are ghosts real?
 * Snow is white, but go away!
-
+<br><br>
 
 In particular, ‘but’ seems to take two propositions as input and yield a third. But it can take expressive, interrogative, and imperative sentences as input. Nevertheless, the use of these terms seems to involve more than the declarative content. One hypothesis for interrogatives and imperatives is that these moods conventionalise what can in principle be calculated “from scratch” pragmatically. For example, it seems tenable to hold that the following are equivalent:
 
 * Ghosts are real or ghosts are not real.
 * Are ghosts real or are ghosts not real?
 * Are ghosts real?
-
+<br><br>
 
 Suppose someone utters ‘ghosts are real or not real’. If they were being cooperative, we should by default expect that they would utter either ‘ghosts are real’ or ‘ghosts are not real’, depending on which they knew to be true. So, by uttering ‘ghosts are real or not real’, the speaker reveals that they do not know which is true. Similarly, it seems tenable to hold that ‘Is the ghost in the attic or is the ghost in the basement?’ is a surface variant of ‘The ghost in the attic or the ghost is in the basement’. Now, the conventional interrogative form might serve to short-circuit this calculation, by indicating in a more obvious way the result of the calculation (namely, that the speaker does not know which). Similarly, ‘Where is it?’ might be interpreted as ‘It is where(ever it is)’; this might express a very specific proposition, which is maximally specific about the object’s location (but is still expressed in a manner which implies a desire for knowledge under a better guise), or it might express the generalisation that it is somewhere just in case it is there. In any case, the content that questions seem to presuppose can be taken as its semantic content; if we do not buy that false presuppositions make for meaninglessness, then we should leave the distinction between presupposed and asserted content to the theory of speech acts.
 
@@ -57,7 +57,7 @@ A similar story goes for imperatives. It seems tenable to hold that the followin
 * You will go away.
 * You will go away!
 * Go away!
-
+<br><br>
 
 Notably, there is precedent for the subject being elided: a similar thing seems to be going on with ‘I want to go’: it is naturally interpreted as ‘I want me to go’ (read like ‘I want him/her/them/it/you to go’). In any case, suppose that someone utters ‘You will go away’. They will speak truly just in case you go away; and they will speak knowledgeably typically only if they have some authority or control over you. Thus, in order for you to cooperatively make true their utterance, you must go. The conventional imperative form might serve to short-circuit this calculation, by indicating in a more obvious way the result of the calculation (namely, that conversational cooperation requires that you go).
 
@@ -70,7 +70,7 @@ However, if ‘yikes’ is of type *t*, it is unlike usual sentences of type *t*
 * ‘Ouch’ has the same content as ‘that’s painful’
 * ‘Oops’ has the same content as ‘that’s a minor mishap’
 * ‘Goodbye’ has the same content as ‘Our interaction is ending’
-
+<br><br>
 
 We can similarly suggest that ‘Yikes’ has the same content as ‘That’s scary’ and that ‘Hello’ has the same content as ‘Our interaction is starting’. These pairings predict false usages of the expressives: one can follow ‘Ouch!’ with ‘Actually, that’s wrong, it didn’t hurt at all’. Similarly, replying ‘I know’ to ‘Ouch!’ seems to mean ‘I know that that is painful’.
 
@@ -81,7 +81,7 @@ However, it’s not clear that such expressives are completely simple, having ty
 * It’s more than an oops!
 * We had a quick hello.
 * The goodbye took forever.
-
+<br><br>
 
 But such expressions allow uses with unpronounced subjects, in the same way that someone might reply ‘Painful!’ or ‘Scary!’ upon being provided with the description of some medical procedure. Similarly, someone may say ‘Greetings!’ or ‘Good morning!’ instead of ‘Hello!’. And in other languages, the equivalent of ‘Hello’ is straightforwardly meaningful (for instance, the Chinese translates literally to ‘You good’). So, it may be better to hold that, for instance, that ‘ouch’ means the same as ‘painful’, that ‘yikes’ means the same as ‘scary’, and that ‘hello’ means the same as ‘greeting(s)’.
 
