@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Definite Descriptions"
-date: 2025-10-24
+date: 2025-11-21
 tag: "Philosophy of Language (Week 2)"
 ---
 
