@@ -205,7 +205,7 @@ We conclude, then, that the schema (6), as intuitive as it first appears, cannot
 
 Fabienne Martin (2018) gives the following condition for _X_ to directly cause _Y_. Here, _X_, _Y_, and _W_<sub>_X_</sub> are understood as events (which, heuristically, we may understand as intrinsic properties of spacetime regions). _W_<sub>_X_</sub> is the world history up to the beginning of the event _X_.
 
-> (23) ℙ(_Y_ | _X_ ∧ _W_<sub>_X_</sub>) = 1
+> (23) ℙ(_Y_ \| _X_ ∧ _W_<sub>_X_</sub>) = 1
 
 Martin calls this condition ‘_ab initio_ causal sufficiency’. But there are some general metaphysical worries about this condition. Firstly, and most straightforwardly: full probability is technically a weaker notion than sufficiency. For instance, the probability of getting at least one head in infinitely many tosses of a fair coin is exactly 1; nevertheless, strictly speaking, tossing it infinitely many times is not sufficient for getting at least one head because it is possible that every coin lands tails. Making this amendment, we have the following, where (heuristically speaking) the accessible worlds in (24) are precisely the outcomes in the domain of the probability measure in (23).
 
