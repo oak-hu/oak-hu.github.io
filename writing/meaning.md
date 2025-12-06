@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Meaning"
-date: 2025-11-10
+date: 2025-11-11
 tag: "Philosophy of Language (Week 4)"
 ---
 
