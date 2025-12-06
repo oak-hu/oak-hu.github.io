@@ -90,7 +90,7 @@ poison directly caused him to be killed (⇔ The poison killed him)
 
 These nice features of the paraphrase schema (11) are not naturally available to Byrne’s schema (8); we suggest that the only reason to buy Byrne’s schema (8) is as a corollary or special case of the paraphrase schema.
 
-The paraphrase schema (11) is reminiscent of the _witness_ schema (18) from mathematical logic. For comparison, (11) is reproduced, this time with ‘▷’ in place of ‘**makes** (it such that)’, and ‘b’ assimilated into the operator—formally, we have _φ_ = λ_y_.(_yϕb_).
+The paraphrase schema (11) is reminiscent of the _witness_ schema (18) from mathematical logic. For comparison, (11) is reproduced, this time with ‘▷’ in place of ‘**makes** (it such that)’, and ‘b’ assimilated into the operator—formally, we have _φ_ = λ _y_.(_yϕb_).
 
 > (11') _a_ ▷ ∃_x_._φ_(_x_) ⇔ _φ_(_a_)
 
@@ -110,12 +110,12 @@ Pick any _a_. By necessitism, it is a necessary truth that there is something wh
 
 But then, given (11') as well, it is easy to see that the following are equivalent.
 
-> * ⊤
-> * a = a
-> * a ▷ ∃x(x ≠ a)
-> * a ▷ ∃x(x ≠ a)
-> * a ≠ a
-> * ⊥
+ * ⊤
+ * a = a
+ * a ▷ ∃x(x ≠ a)
+ * a ▷ ∃x(x ≠ a)
+ * a ≠ a
+ * ⊥
 
 That is, every impossibility is a necessary truth. Clearly, this trivialises the logic. Now, friends of intensionalism and necessitism—like Bacon and Dorr (2024) and Williamson (2014)—may be content to stop here: after all, we have just learned that direct causation is inconsistent given what we know about propositional identity and existence.
 
@@ -143,7 +143,7 @@ This is a theorem of any logic expressive enough to quantify over types and stro
 
 The preceding discussion assumed necessitism and intensionalism, two somewhat controversial theses. But, in the propositional case, we can do better. On the negation of intensionalism, it is easy to fall into the trap of the Russell-Myhill paradox: one must ensure it cannot be that, given any propositions, there is a proposition that uniquely corresponds to them. For instance, Fritz (2021) shows that (natural interpretations of) the metaphysical relation of strict immediate partial ground which are inconsistent with intensionalism are also outright inconsistent, because they can be used to construct an injective map from pluralities of propositions to single propositions.
 
-We can show the same of any relation (PDC). Here is the proof. Pick any two pluralities of propositions—call them ‘_pp_’ and ‘_qq_’—and consider the properties of being among the _pp_ and of being among the _qq_.{% include sidenote.html content = "One can, of course, think in terms of sets or classes instead." %} Formally, we substitute λ_x_.(_x_ ≺ _pp_) and λ_x_.(_x_ ≺ _qq_) for _φ_ in (PDC), yielding the following (we now use the variables _x_ and _y_ to avoid confusion).
+We can show the same of any relation (PDC). Here is the proof. Pick any two pluralities of propositions—call them ‘_pp_’ and ‘_qq_’—and consider the properties of being among the _pp_ and of being among the _qq_.{% include sidenote.html content = "One can, of course, think in terms of sets or classes instead." %} Formally, we substitute λ _x_.(_x_ ≺ _pp_) and λ _x_.(_x_ ≺ _qq_) for _φ_ in (PDC), yielding the following (we now use the variables _x_ and _y_ to avoid confusion).
 
 > (19) ∀_x_ □ ((_x_ ▷ ∃_y_(_y_ ≺ _pp_)) ↔ (_x_ ≺ _pp_))
 
@@ -151,10 +151,10 @@ We can show the same of any relation (PDC). Here is the proof. Pick any two plur
 
 Now, suppose that ‘∃_y_(_y_ ≺ _pp_)’ and ‘∃_y_(_y_ ≺ _qq_)’ express one and the same proposition, and so can be substituted for one another _salva veritate_. Then, by (19), by assumption, and by (20) respectively, the following are (necessarily) equivalent, for any _x_.
 
-> * _x_ ≺ _pp_
-> * _x_ ▷ ∃_y_(_y_ ≺ _pp_)
-> * _x_ ▷ ∃_y_(_y_ ≺ _qq_)
-> * _x_ ≺ _qq_
+ * _x_ ≺ _pp_
+ * _x_ ▷ ∃_y_(_y_ ≺ _pp_)
+ * _x_ ▷ ∃_y_(_y_ ≺ _qq_)
+ * _x_ ≺ _qq_
 
 So, the pluralities _pp_ and _qq_ are (necessarily) coextensive, and so identical.{% include sidenote.html content = "We need not assume that there are no merely possible propositions: pluralities are modally rigid." %} Thus, the mapping _f_: _pp_ ↦ ∃_y_(_y_ ≺ _pp_) is injective: if _f_(_qq_)—that is, ∃_y_(_y_ ≺ _qq_)—and _f_(_pp_)—that is, ∃_y_(_y_ ≺ _pp_)—are the same proposition, then (by the above) _pp_ and _qq_ are the same plurality of propositions.
 
@@ -178,10 +178,10 @@ Before preceding, bear in mind that under the plausible assumption that necessar
 
 However, by (6), we have just such a requirement. Consider ‘the _pp_ manifest’ and ‘the _qq_ manifest’. If the propositions expressed by these two fragments are the same, then _a_ **makes** one just in case it **makes** the other. So, by (6), the following are equivalent:
 
-> * _a_ manifests the _pp_
-> * _a_ **makes** the _pp_ manifest
-> * _a_ **makes** the _qq_ manifest
-> * _a_ manifests the _qq_
+ * _a_ manifests the _pp_
+ * _a_ **makes** the _pp_ manifest
+ * _a_ **makes** the _qq_ manifest
+ * _a_ manifests the _qq_
 
 As this holds (necessarily) for any proposition _a_, the _pp_ must be the _qq_. But then the map from any plurality _pp_ to the proposition that the _pp_ manifest is injective, and we have a contradiction as before. So, there cannot be a relation **makes** which holds between propositions and satisfies even Byrne’s schema (6). An identical argument can be made for events. (Indeed, if there is an event of some plurality of events having at least one instance, the formal version of the argument goes through as well, by letting the existential claim in the formula express such an event.{% include sidenote.html content = "For instance, Paul Elbourne (p.c.) has mentioned using individuals and events as the ‘base type’ entities for this project of eliminating syntactic categories and replacing them by semantic types." %})
 
@@ -195,9 +195,9 @@ One could instead make the more surgical move of blocking just the usage of ‘m
 
 This investigation can also be conducted formally. The relation of direct causation is so strong as to be inconsistent. Are there any natural weakenings? There is one obvious candidate: _x_ directly causes it to be such that _p_ just in case, for some _q_, _x_ is _q_ and _p_ is identical to the fact that something is _q_. In effect, we make _φx_ a sufficient but no longer necessary condition for _x_ to directly cause ∃_xφx_. This actually yields an explicit characterisation of direct causation by any type.
 
-> (DC') ∀_σ_ (▷<sub>⟨_σ_,⟨_t_,_t_⟩⟩</sub> = λ_x_<sub>_σ_</sub>.λ_p_<sub>_t_</sub>.∃<sub>⟨_σ_,_t_⟩</sub>_φ_(_φx_ ∧ (_p_ = ∃<sub>_σ_</sub>_y_ _φy_)))
+> (DC') ∀_σ_ (▷<sub>⟨_σ_,⟨_t_,_t_⟩⟩</sub> = λ _x_<sub> _σ_ </sub>.λ _p_<sub>_t_</sub>.∃<sub>⟨_σ_,_t_⟩</sub>_φ_(_φx_ ∧ (_p_ = ∃<sub>_σ_</sub>_y_ _φy_)))
 
-It is worth emphasising that, in a natural sense, (DC') is the least drastic weakening of (DC). Unfortunately, upon inspection, (DC') is so weak as to be useless. In particular, consider _φ_ = λ_x_._p_ (that is, _φ_ is a property that everything of the relevant type has if _p_ is true, and otherwise nothing has). Assuming that _p_ is true, then, we have that _φx_ and that _p_ = ∃_yφx_. So, every truth is directly caused by everything of every type! (Meanwhile, if _p_ is false, we do clearly have that nothing of any type directly causes it: if _p_ is false, then nothing has _φ_, and so in particular _x_ is not.)
+It is worth emphasising that, in a natural sense, (DC') is the least drastic weakening of (DC). Unfortunately, upon inspection, (DC') is so weak as to be useless. In particular, consider _φ_ = λ _x_._p_ (that is, _φ_ is a property that everything of the relevant type has if _p_ is true, and otherwise nothing has). Assuming that _p_ is true, then, we have that _φx_ and that _p_ = ∃_yφx_. So, every truth is directly caused by everything of every type! (Meanwhile, if _p_ is false, we do clearly have that nothing of any type directly causes it: if _p_ is false, then nothing has _φ_, and so in particular _x_ is not.)
 
 We conclude, then, that the schema (6), as intuitive as it first appears, cannot be salvaged. Let us try an alternative way to characterise direct causation, and then see how close it is as a metaphysical counterpart to the metalinguistic relation of witnessing.
 
@@ -273,10 +273,10 @@ Now, it looks like direct causal claims of the form (32) are precisely _online_ 
 
 We gain further reassurance about (32) as an account of direct causation when we reconsider the analogy with witnessing: natural paraphrases of ‘witnesses’ include ‘suffices for’ and ‘ensures that’, which can naturally be understood along the lines of (32). For instance, the following all seem equivalent.
 
-> * The sunlight melted the snow.
-> * The sunlight sufficed for the snow to melt.
-> * The sunlight ensured that the snow would melt.
-> * In all contextually relevant worlds where there was sunlight, as there is, the snow melted.
+ * The sunlight melted the snow.
+ * The sunlight sufficed for the snow to melt.
+ * The sunlight ensured that the snow would melt.
+ * In all contextually relevant worlds where there was sunlight, as there is, the snow melted.
 
 Of course, the sunlight is not a proposition; we can create a proxy proposition for it _ad hoc_, though. A candidate that works well for definite descriptions ‘the _F_’ is ‘there is an _F_’. However, for rigid names, the analogue is trivial, assuming necessitism for individuals.
 
@@ -324,7 +324,7 @@ But we’ve noticed that it was artificially restricted to operators that exhibi
 
 This schema looked initially very promising, promising to do for the metaphysics of causation what characterisations of knowledge as the broadest factive stative attitude did for epistemology, of metaphysical possibility as the broadest objective possibility did for modal metaphysics, and of absolutely universal quantification as the broadest restricted universal did for the logic of universal quantification. However, we proved that, in any suitably expressive and strong logic, there is no relation of direct causation for any type with more than one instance:
 
-> (NDC) **∀**_σ_ (∃<sub>_σ_</sub>_x_ ∃<sub>_σ_</sub>_y_ (_x_ ≠ _y_) → ¬∃<sub>⟨_σ_,⟨_t_, _t_⟩⟩</sub>∆ ∀<sub>⟨_σ_, _t_⟩</sub>_φ_ ∀<sub>_σ_</sub>_x_ □((_x∆_∃<sub>_σ_</sub>_q φq_) ↔ _φp_))
+> (NDC) **∀**_σ_ (∃ <sub>_σ_</sub> _x_ ∃<sub>_σ_</sub>_y_ (_x_ ≠ _y_) → ¬∃<sub>⟨_σ_,⟨_t_, _t_⟩⟩</sub>∆ ∀<sub>⟨_σ_, _t_⟩</sub>_φ_ ∀<sub>_σ_</sub>_x_ □((_x∆_∃<sub>_σ_</sub>_q φq_) ↔ _φp_))
 
 Even without such logical strength, we were able to prove that there is no relation of direct causation by propositions, due to the Russell-Myhill paradox: interpreting (11) with ‘_a_’ as a proposition leads to contradiction. We also noted that this result generalised to events, and that the argument could be given in English against Byrne’s restricted formulation. We saw that weakening the characterisation of direct causation looked obviously gerrymandered while still being susceptible to (NDC); and, indeed, a formal weakening trivialised the relation of direct causation so that all facts are directly caused by anything of any type.
 
