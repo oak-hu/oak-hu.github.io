@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Content and Character"
-date: 2025-11-28
+date: 2025-11-04
 tag: "Philosophy of Language (Week 3)"
 ---
 
