@@ -135,7 +135,7 @@ since our above argument generalised to any type for which there are—loosely
 speaking—at least two things of that type, (DC) is false for every such type.
 For instance, at type _t_, we have ⊤ (the necessary truth) and ⊥ (the impossibility). We can formulate our discovery as follows.
 
-> (NDC) **∀**_σ_ (∃<sub_σ</sub>_x_ ∃<sub>_σ_</sub>_y_ (_x_ ≠ _y_) → ¬∃<sub>⟨_σ_,⟨_t_, _t_⟩⟩</sub>∆ ∀<sub>⟨_σ_, _t_⟩</sub>_φ_ ∀<sub>_σ_</sub>_x_ □((_x∆_∃<sub>_σ_</sub>_q φq_) ↔ _φp_))
+> (NDC) **∀**_σ_ (∃<sub>_σ_</sub>_x_ ∃<sub>_σ_</sub>_y_ (_x_ ≠ _y_) → ¬∃<sub>⟨_σ_,⟨_t_, _t_⟩⟩</sub>∆ ∀<sub>⟨_σ_, _t_⟩</sub>_φ_ ∀<sub>_σ_</sub>_x_ □((_x∆_∃<sub>_σ_</sub>_q φq_) ↔ _φp_))
 
 This is a theorem of any logic expressive enough to quantify over types and strong enough to prove intensionalism for propositions and necessitism at all types. The schematic version of (NDC) is provable, of course, without quantifying over types. Either (NDC) or a schematic version thereof applies to individuals (including events) and to propositions, and in particular shows that there cannot be direct causation by individuals (including events) or propositions. Indeed, there cannot be direct causation by any type of which there is more than one instance.
 
