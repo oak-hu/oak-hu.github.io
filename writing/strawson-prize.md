@@ -135,7 +135,7 @@ since our above argument generalised to any type for which there are—loosely
 speaking—at least two things of that type, (DC) is false for every such type.
 For instance, at type _t_, we have ⊤ (the necessary truth) and ⊥ (the impossibility). We can formulate our discovery as follows.
 
-> (NDC) **∀**_σ_ (∃<sub>_σ_</sub>_x_ ∃<sub>_σ_</sub>_y_ (_x_ ≠ _y_) → ¬∃<sub>⟨_σ_,⟨_t_, _t_⟩⟩</sub>∆ ∀<sub>⟨_σ_, _t_⟩</sub>_φ_ ∀<sub>_σ_</sub>_x_ □((_x∆_∃<sub>_σ_</sub>_q φq_) ↔ _φp_))
+> (NDC) **∀**_σ_ (∃<sub>_σ_</sub>_x_ ∃<sub>_σ_</sub>_y_ (_x_ ≠ _y_) → ¬∃<sub>⟨_σ_,⟨_t_, _t_⟩⟩</sub> ∆ ∀<sub>⟨_σ_, _t_⟩</sub>_φ_ ∀<sub>_σ_</sub>_x_ □((_x∆_∃<sub>_σ_</sub>_q φq_) ↔ _φp_))
 
 This is a theorem of any logic expressive enough to quantify over types and strong enough to prove intensionalism for propositions and necessitism at all types. The schematic version of (NDC) is provable, of course, without quantifying over types. Either (NDC) or a schematic version thereof applies to individuals (including events) and to propositions, and in particular shows that there cannot be direct causation by individuals (including events) or propositions. Indeed, there cannot be direct causation by any type of which there is more than one instance.
 
@@ -195,7 +195,7 @@ One could instead make the more surgical move of blocking just the usage of ‘m
 
 This investigation can also be conducted formally. The relation of direct causation is so strong as to be inconsistent. Are there any natural weakenings? There is one obvious candidate: _x_ directly causes it to be such that _p_ just in case, for some _q_, _x_ is _q_ and _p_ is identical to the fact that something is _q_. In effect, we make _φx_ a sufficient but no longer necessary condition for _x_ to directly cause ∃_xφx_. This actually yields an explicit characterisation of direct causation by any type.
 
-> (DC') ∀_σ_ (▷<sub>⟨_σ_,⟨_t_,_t_⟩⟩</sub> = λ _x_<sub> _σ_ </sub>.λ _p_<sub>_t_</sub>.∃<sub>⟨_σ_,_t_⟩</sub>_φ_(_φx_ ∧ (_p_ = ∃<sub>_σ_</sub>_y_ _φy_)))
+> (DC') **∀**_σ_ (▷<sub>⟨_σ_,⟨_t_,_t_⟩⟩</sub> = λ _x_<sub>_σ_</sub> . λ _p_<sub>_t_</sub> . ∃<sub>⟨_σ_,_t_⟩</sub>_φ_(_φx_ ∧ (_p_ = ∃<sub>_σ_</sub>_y_ _φy_)))
 
 It is worth emphasising that, in a natural sense, (DC') is the least drastic weakening of (DC). Unfortunately, upon inspection, (DC') is so weak as to be useless. In particular, consider _φ_ = λ _x_._p_ (that is, _φ_ is a property that everything of the relevant type has if _p_ is true, and otherwise nothing has). Assuming that _p_ is true, then, we have that _φx_ and that _p_ = ∃_yφx_. So, every truth is directly caused by everything of every type! (Meanwhile, if _p_ is false, we do clearly have that nothing of any type directly causes it: if _p_ is false, then nothing has _φ_, and so in particular _x_ is not.)
 
@@ -324,7 +324,7 @@ But we’ve noticed that it was artificially restricted to operators that exhibi
 
 This schema looked initially very promising, promising to do for the metaphysics of causation what characterisations of knowledge as the broadest factive stative attitude did for epistemology, of metaphysical possibility as the broadest objective possibility did for modal metaphysics, and of absolutely universal quantification as the broadest restricted universal did for the logic of universal quantification. However, we proved that, in any suitably expressive and strong logic, there is no relation of direct causation for any type with more than one instance:
 
-> (NDC) **∀**_σ_ (∃ <sub>_σ_</sub> _x_ ∃<sub>_σ_</sub>_y_ (_x_ ≠ _y_) → ¬∃<sub>⟨_σ_,⟨_t_, _t_⟩⟩</sub>∆ ∀<sub>⟨_σ_, _t_⟩</sub>_φ_ ∀<sub>_σ_</sub>_x_ □((_x∆_∃<sub>_σ_</sub>_q φq_) ↔ _φp_))
+> (NDC) **∀**_σ_ (∃<sub>_σ_</sub>_x_ ∃<sub>_σ_</sub>_y_ (_x_ ≠ _y_) → ¬∃<sub>⟨_σ_,⟨_t_, _t_⟩⟩</sub> ∆ ∀<sub>⟨_σ_, _t_⟩</sub>_φ_ ∀<sub>_σ_</sub>_x_ □((_x∆_∃<sub>_σ_</sub>_q φq_) ↔ _φp_))
 
 Even without such logical strength, we were able to prove that there is no relation of direct causation by propositions, due to the Russell-Myhill paradox: interpreting (11) with ‘_a_’ as a proposition leads to contradiction. We also noted that this result generalised to events, and that the argument could be given in English against Byrne’s restricted formulation. We saw that weakening the characterisation of direct causation looked obviously gerrymandered while still being susceptible to (NDC); and, indeed, a formal weakening trivialised the relation of direct causation so that all facts are directly caused by anything of any type.
 
