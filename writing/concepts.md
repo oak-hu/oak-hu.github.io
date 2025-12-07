@@ -7,7 +7,7 @@ tag: "Frege (Week 2)"
 
 # Concepts
 
-> The following is a tutorial essay for the Frege paper. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘Outline Frege's distinction between concepts and objects. How can Frege maintain both that numbers are objects and that "the content of a statement of number is an assertion about a concept"?’. A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com).
+> The following is a tutorial essay for Frege's _Grundlagen_ with Fabian Pregel. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘Outline Frege's distinction between concepts and objects. How can Frege maintain both that numbers are objects and that “the content of a statement of number is an assertion about a concept”?’. A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com). 
 
 
 ## I. Introduction
