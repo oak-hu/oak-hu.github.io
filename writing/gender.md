@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "GEnder"
+title: "Gender"
 date: 2024-12-05
 tag: "Knowledge and Reality (Week 8)"
 ---
