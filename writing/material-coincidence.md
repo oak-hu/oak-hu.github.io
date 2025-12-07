@@ -15,7 +15,7 @@ First, I spell out a bit what material coincidence is. I take it that *x* and *y
 
 I take matter to be space-filling: some matter *x* composes some matter *y* just in case the space occupied by *x* is a subset of the space occupied by *y* (compare Thomson 1998). This squares well with the judgment that, say, clay is material, but gravitational or magnetic fields are not: presumably, a gravitational field can spatially coincide with a magnetic field, with neither composing the other; so, by the space-filling principle, the fields are not both material. By this principle, we also have that material coincidence entails spatial coincidence. Fine (2003) disagrees; his (purported) example of material coincidence without spatial coincidence is the relationship between a loaf of bread and the bread that composes it. The idea seems to be that the loaf occupies its air pockets, although the bread that composes it doesn’t. But for one, the air pockets are not empty space: if the loaf occupies those pockets, then it seems like the air composes the loaf. But if the bread materially coincides with the loaf, then the air must compose the bread as well, and so the bread must occupy those air pockets after all. But set this aside, and suppose that the pockets are in fact materially empty. Then, since the loaf occupies materially empty space, it seems like we must count the loaf as not (purely) material. This is an odd result. However, Fine is right that, conversely, we can have spatial coincidence without material coincidence: the force fields mentioned earlier are one example. So, to show that two things do not materially coincide, it suffices to show that they do not spatially coincide. But to show that two things do materially coincide, it does not suffice to show that they spatially coincide, unless we know that they are material.
 
-## Immaterial things
+## I. Immaterial things
 
 On the above definition, material coincidence obtains between two objects just in case it obtains between their material parts. If two things lack material parts, then (vacuously) they materially coincide: any matter that composes one composes the other, because no matter composes either. This might be slightly unnatural, but it seems right: if we ask how often films sonically coincide, it’s odd but not wrong to point to silent films, especially if there are an awful lot of silent films. Here, I argue that there are an awful lot of immaterial things.
 
@@ -29,7 +29,7 @@ As another example: a constant-domain semantics for modal logic might be part of
 
 So, material coincidence obtains among immaterial objects; these range from physical things (like gravitational fields), to abstract things (like numbers), to once-material things (like destroyed objects), to possibly-material things (like possible people). Material coincidence is at least this widespread.{% include sidenote.html content = "Of course, much of the coincidence debate involves coincident objects apparently having different persistence conditions; if one accepts permanentism, one might take the apparent persistence conditions of material objects to be something like the conditions under which something is material; but see Korman 2015 for a negative view of this diagnosis." %}
 
-## Plenitude
+## II. Plenitude
 
 In some sense, though, the foregoing does not show that material coincidence is very widespread at all; it’s consistent with no two distinct material objects ever being materially coincident. In this section, I argue for modal plenitude: every function from worlds to regions of their matter-filled spacetimes picks out a material object. The argument proceeds in two stages. First, I argue that we should accept some material coincidence. Second, I argue that, given that we should accept some material coincidence, we should accept modal plenitude.
 
@@ -53,7 +53,7 @@ To recap: we have a few considerations suggesting that distinct material objects
 
 So, we embrace a wild plenitude of objects; for any filled region of spacetime, there are unimaginably many objects which happen to be actually spatially coincident at that region, because there are unimaginably many modal occupancy profiles which map the actual world to that filled region of spacetime.
 
-## Mild monism
+## III. Mild monism
 
 We should treat mild monism as the default view: to accommodate distinct necessarily coincident objects, one must give up the nice simplicity that we achieved above. Actual and possible material composition seem to be able to explain a lot; allowing these to vary freely should already let us explain a lot about, say, essential and accidental properties. Adding in further distinctions ‘by hand’ also undermines our ability to say just how many materially coincident material objects there are; a nice feature of our theory is that it gave us such an answer. Our theory also gives a nice analogy between extensional equivalence and material coincidence, while respecting the judgment that, at some level, objects are material insofar as all that matters is what matter (possibly) composes it. So, we should be wary of adding in extra distinctions between necessarily materially coincident objects, if we can at all avoid it.
 
