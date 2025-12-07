@@ -7,7 +7,9 @@ tag: "Knowledge and Reality (Week 6)"
 
 # Material Coincidence
 
-> The following is a tutorial essay for Knowledge and Reality with Daniel Kodsi. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘How widespread is material coincidence?’. A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com/). 
+> The following is a tutorial essay for Knowledge and Reality with Daniel Kodsi. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘How widespread is material coincidence?’. A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com/).
+>
+>  I really should have found _Bounds of Possibility_; it would have been super helpful for this essay, and is great in general.
 
 §I argues that immaterial things are both materially coincident and fairly widespread. §II argues that every modal occupation profile (Hawthorne 2006) corresponds to at least one material thing.{% include sidenote.html content = "Bennett (2004) discusses complete modal profiles, which (as far as I can tell) are equivalent to Hawthorne’s, although Bennett characterizes them in terms of essential properties rather than in terms of worlds; this turns out to make it difficult to ensure we don’t generate inconsistent profiles." %} §III argues that every such profile corresponds to at most one material thing. Thus, I defend the view that Fine (2003) calls (strict) mild monism. On this view, for every actual nonempty matter-filled spacetime region, there is one distinct material object coincident there for each distinct modal occupation profile (that is, for each distinct way to map every non-actual world to a distinct one of its matter-filled spacetime regions).
 
