@@ -7,7 +7,7 @@ tag: "Knowledge and Reality (Week 3)"
 
 # Internalism
 
-> The following is a tutorial essay for Knowledge and Reality with Daniel Kodsi. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘Can cognition be factorized into internal and external components?’ A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com/).
+> The following is a tutorial essay for Knowledge and Reality with Daniel Kodsi. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘Can cognition be factorized into internal and external components?’. A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com/).
 >
 > The key discovery takeaway here: true belief is prime, so what exactly is the primeness of knowledge supposed to demonstrate?
 
