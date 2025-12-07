@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Knowledge and Evidence"
-date: 2024-10-07
+title: "Evidence"
+date: 2024-11-07
 tag: "Knowledge and Reality (Week 4)"
 ---
 
-# Does knowledge, and only knowledge, constitute evidence?
+# Evidence
 
 > The following is a tutorial essay for Knowledge and Reality with Daniel Kodsi. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘Does knowledge, and only knowledge, constitute evidence?’. An edited version of the material is on my [Substack](https://offhandquibbles.substack.com/p/evidence-is-knowledge).
 
