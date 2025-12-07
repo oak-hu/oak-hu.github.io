@@ -7,7 +7,7 @@ tag: "Strawson Prize Essay"
 
 # Directly Causing Inconsistency
 
-> The following was written for, and ended up winning, the Strawson Prize (2025).
+> The following was written for, and ended up winning, the 2025 Strawson Prize (£200).
 
 _Singular direct causation features prominently in our ethical (Byrne forthcoming), legal (Byrne 2023), and metalinguistic reasoning (Martin 2018, a.o.). I argue that it is to be understood as a metaphysical analogue of the metalinguistic relation of witnessing from mathematical logic: whereas the latter relates to an existentially quantified sentence, the former relates to a proposition. I prove that direct causation is inconsistent with the view that necessary equivalence suffices for propositional identity, and direct causation by propositions or events is inconsistent outright. Such results are fundamental limitations on any Strawsonian (1951) project of descriptive metaphysics. I then take up a revisionary metaphysical project, showing how Martin’s (2018) account of direct causation can be improved to yield sufficiency in context (compare Kodsi and Kaiserman, manuscript). This is an attractive replacement for direct causation, as well as for causation more generally._
 
