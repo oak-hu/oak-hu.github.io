@@ -87,13 +87,13 @@ To my ear, A’s response—which involves a clarification as to what ‘know’
 
 > **In Some Sense**
 > 
-> 1. Everyone’s coming to the party! Well, not (absolutely) everyone, but still _everyone_.
-> 2. 
-> 3. My cup is empty. Well, not (completely) empty, but it is _empty_.
-> 4. 
-> 5. He knows she’ll be here soon. Well, he doesn’t (entirely) know, but he does _know_.
-> 6. 
-> 7. We ate the snacks. \# [Well, we didn’t (totally) eat them, but we did eat them.]
+> (1) Everyone’s coming to the party! Well, not (absolutely) everyone, but still _everyone_.
+>
+> (2) My cup is empty. Well, not (completely) empty, but it is _empty_.
+>  
+> (3) He knows she’ll be here soon. Well, he doesn’t (entirely) know, but he does _know_.
+>  
+> (4) We ate the snacks. \# [Well, we didn’t (totally) eat them, but we did eat them.]
 
 Notice the marked difference between (3) and (4). Just as contextualism about ‘everyone’ and ‘empty’ vindicates (1) and (2), contextualism about ‘know’ vindicates (3). On the stressed usage of each term, a stricter standard is applied. (By contrast, (4) seems bad because there’s no way to get two readings of ‘eat’ such that one is true and the other is false.)
 
@@ -103,15 +103,15 @@ The most plausible route for sensitivism to take is to give an error theory: on 
 
 My judgements about (3) therefore support contextualism and undermine sensitive invariantism. Of course, if one’s judgements differ—perhaps (3) does sound as bad as (4)—then the support will go the other way.
 
-### Disagreement
-
-> 1. Is she tall? By my standards, yes; by your standards, no.
-> 
-> 2. Does she know how to sing? By my standards, yes; by your standards, no.
+> **Disagreement**
 >
-> 3. Does she know that there are 52 partitions? By my standards, yes; by your standards, no.
+> (1) Is she tall? By my standards, yes; by your standards, no.
+> 
+> (2) Does she know how to sing? By my standards, yes; by your standards, no.
+>
+> (3) Does she know that there are 52 partitions? By my standards, yes; by your standards, no.
 >    
-> 4. Did she come to the tutorial? \# [By my standards, yes; by your standards, no.]
+> (4) Did she come to the tutorial? \# [By my standards, yes; by your standards, no.]
 
 Again, notice the marked difference between (2) and (3) on the one hand, and (4) on the other. Just as contextualism about ‘tall’ vindicates (1), contextualism about ‘know’ vindicates (2) and (3). In each case, there is no real disagreement. (By contrast, (4) seems bad because the dispute must be more real.)
 
@@ -121,11 +121,11 @@ One interesting wrinkle is that (2) seems to involve some contextual factors abo
 
 > **Bound Readings**
 > 
-> 1. Among the adults in the family, only some are tall; but every child in the family is.
+> (1) Among the adults in the family, only some are tall; but every child in the family is.
 >
-> 2. Among the mathematicians, only some know that CH is independent of ZFC; but every philosophy student in the room does.
+> (2) Among the mathematicians, only some know that CH is independent of ZFC; but every philosophy student in the room does.
 >
-> 3. Among professional cyclists, only a few bike in Oxford; but every Magdalen student does.
+> (3) Among professional cyclists, only a few bike in Oxford; but every Magdalen student does.
 
 Notice that there are two readings for (1): on the first, the threshold for tallness is constant, implying that most of the adults are shorter than the children. On the second reading, the threshold for tallness is relative: the children are tall _for children_, but most adults are not tall _for adults_.
 
