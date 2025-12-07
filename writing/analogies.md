@@ -7,7 +7,7 @@ tag: "Knowledge and Reality (Week 1)"
 
 # Knowledge and Action
 
-> The following is a rewrite of a tutorial essay for Knowledge and Reality with Daniel Kodsi, who taught me that tutorial essays are a genre with particular conventions. This essay looks at the relationship between knowledge and action, in the context of Williamson's desire-as-belief view.
+> The following is a rewrite of a tutorial essay for Knowledge and Reality with Daniel Kodsi, who taught me that tutorial essays are a genre with particular conventions. This essay looks at the relationship between knowledge and action, in the context of Williamson's desire-as-belief view. A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com).
 
 Williamson (2000, 2017) articulates an analogy on which knowledge stands to belief as (intentional) action stands to intention. For instance, belief [intention] plays the local role of knowledge [action] as a premise [conclusion] of practical reasoning. I show that there is also an analogy on which knowledge stands to belief as action stands to success. For instance, to know [act], one’s belief [success] cannot be nearly false [unintended]. I argue that the two analogies are complementary theoretical tools, which fit nicely in the underlying framework of putting the good case first, and understanding other cases in relation to the good case.
 
