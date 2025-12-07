@@ -7,7 +7,7 @@ tag: "Philosophy of Language (Week 3)"
 
 # Content and Character
 
-> The following is a tutorial essay for Philosophy of Logic and Language with James Kirkpatrick. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘According to Kaplan, indexicals and demonstratives have both content and character. Explain this distinction and how it might help capture the meaning of these terms.’ A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com/).
+> The following is a tutorial essay for Philosophy of Logic and Language with James Kirkpatrick. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘According to Kaplan, indexicals and demonstratives have both content and character. Explain this distinction and how it might help capture the meaning of these terms.’
 
 ## I. Kaplan’s distinction between content and character
 
