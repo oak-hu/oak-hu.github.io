@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Implicit Content and Quantifier Domain Restriction"
+title: "Domain Restriction"
 date: 2025-11-18
 tag: "Philosophy of Language (Week 6)"
 ---
 
-# Implicit Content and Quantifier Domain Restriction
+# Domain Restriction
 
 > The following is a tutorial essay for Philosophy of Logic and Language with James Kirkpatrick. It addresses the prompt: ‘What does “Every bottle is in the fridge” mean? How does your answer explain how we commonly use that sentence?’ A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com).
 
@@ -130,6 +130,3 @@ Firstly, though, there is a situation in which the sentence (24) does sound much
 > (25) John (fed all Ann’s cats immediately, but) fed no cat of Mary’s before Mary’s cat was bathed.
 
 So, contra Elbourne, it is possible for whatever mechanism makes (23) acceptable to make (24) acceptable. However, it is still true that (24) is much harder to make acceptable than (23).
-
-* Elbourne, Paul (2008). The argument from binding. _Philosophical Perspectives_ 22 (1):89-110.
-* Williamson, Timothy (2020). _Suppose and Tell: The Semantics and Heuristics of Conditionals_. Oxford, England: Oxford University Press.
