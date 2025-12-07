@@ -19,7 +19,7 @@ I take for granted that an analysis of *y* terms of *x* must be (in some sense) 
 
 I take for granted that we can judge, at least somewhat reliably, whether one thing causes another, and whether many counterfactual conditionals are true or false. In particular, if some position conflicts with our judgments, we are owed (and will be satisfied with) an explanation for why those judgments are wrong. I’ll avoid taking a stance on whether causation can be analyzed, but I’ll defend the toy analysis of counterfactual conditionals given in (2).
 
-## Against causal analyses of counterfactuals
+## I. Against causal analyses of counterfactuals
 
 First, I defend the account (2) of counterfactual conditionals, following Williamson (2020). I take it that counterfactual conditionals are expressions of the general form ‘if it were that *X*, then it would be that *Y*’, such as:
 
@@ -55,7 +55,7 @@ What role could causation play in an account of counterfactual conditionals? Sin
 
 Now, it may be that whenever we pick out a set of worlds with ‘would’, we do pick out the closest worlds where the contextual restrictions hold, and closeness is spelled out in terms of causation. That is, when we imagine a set of hypothetical cases, we tend to, say, hold fixed as many causal connections as we can while fulfilling the restrictions of the hypothetical. This may well be the case, but this seems to be just a matter of our hypothetical thinking (and so our counterfactual reasoning) closely involving our causal knowledge. In particular, this does not amount to counterfactual conditionals being analyzable in terms of causation. There might be other reasons for such a close involvement. In particular, it’s plausible that we use causal reasoning to gain counterfactual knowledge: starting from a supposition, we develop the imaginary case further, applying what we know about causation, to arrive at some further state. We then learn that if the supposition obtained, then the further state would obtain. In particular, in every world consistent with our causal knowledge, if the supposition obtains, then the further state obtains. This sort of counterfactual knowledge is perhaps the most useful; but it is not the only kind. We can exclude from relevance worlds consistent with our causal knowledge (as seen above), or even ignore some of our causal knowledge to gain counterfactual knowledge of what would happen if various causal laws were broken. But in the former case, our causal knowledge still drives the development of suppositions; the latter case is less useful. So, causal knowledge is central to our counterfactual reasoning, even if counterfactual conditionals cannot be analyzed in terms of causation.
 
-## Against counterfactual analyses of causation
+## II. Against counterfactual analyses of causation
 
 On the above account of counterfactual conditionals, the worlds at which the conditional is evaluated may vary wildly with context. But causation does not seem to vary so widely. For instance, consider this toy analysis of causation:
 
