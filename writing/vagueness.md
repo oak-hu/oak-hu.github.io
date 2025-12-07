@@ -7,7 +7,7 @@ tag: "Philosophy of Language (Week 7)"
 
 # Vagueness
 
-> The following is a tutorial essay for Philosophy of Logic and Language with James Kirkpatrick. It addresses the prompt: ‘What is the Sorites Paradox? What is the best solution to it?’ A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com).
+> The following is a tutorial essay for Philosophy of Logic and Language with James Kirkpatrick. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘What is the Sorites Paradox? What is the best solution to it?’ A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com).
 
 The Sorites (‘heap’) paradox can be regimented as the following inconsistent set.
 
