@@ -61,7 +61,7 @@ Clearly, the reasoning is faulty. On interest contextualism, the knowledge ascri
 
 The salience views also run into trouble in failing to immediately rule out this alternate version of the Salience dialogue:
 
-> **Salience***
+> **Salience**
 >
 > A: I know that I’m in Oxford.
 >
