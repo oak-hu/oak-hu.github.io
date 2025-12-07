@@ -5,7 +5,7 @@ date: 2024-11-14
 tag: "Knowledge and Reality (Week 5)"
 ---
 
-# Can Causation be Analyzed in Terms of Counterfactual Conditionals, or Vice Versa?
+# Causation
 
 > The following is a tutorial essay for Knowledge and Reality with Daniel Kodsi. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘Can causation be analyzed in terms of counterfactual conditionals, or vice versa?’. A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com).
 
