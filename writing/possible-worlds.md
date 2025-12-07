@@ -9,7 +9,7 @@ tag: "Knowledge and Reality (Week 7)"
 
 > The following is a tutorial essay for Knowledge and Reality with Daniel Kodsi. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘Should we believe that there are possible worlds? If so, should we believe that there are Lewisian possible worlds?’. A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com).
 >
-> The first section of the original essay was quite bad, and is totally superceded by work in higher-order metaphysics, where the debate really should be taking place.
+> The first section of the original essay was quite bad, and is totally superceded by work in higher-order metaphysics, where the debate really should be taking place. I've replaced it with a relevant passage from Peter Fritz's book.
 
 [...]
 
@@ -17,7 +17,7 @@ I take a Lewisian possible world to be something that, for some possible state o
 
 ## I. We should believe that there are possible worlds
 
-To quote Peter Fritz's _The Foundations of Modality_ (2023), although the argument is well-known. Essentially, a possible world is a proposition that, for every proposition, strictly entails exactly one of either it or its negation.
+[As noted above, the original content of this section is completely superceded. Here's a representative quote Peter Fritz's _The Foundations of Modality_ (2023), although the argument is well-known. Essentially, a possible world is a proposition that, for every proposition, strictly entails exactly one of either it or its negation.]
 
 > Informally, the argument goes as follows. Consider first the truths (the propositions which are true), and then the proposition that they are all true. Every truth is true, so the claim that they (the truths) are all true is true as well. A universal claim strictly implies every one of its instances, so the claim that they (the truths) are all true strictly implies all of the truths, and so is maximal. Thus there is a true maximal proposition. This line of argument does not depend on any contingent assumptions, so the conclusion should hold necessarily. So, necessarily, there is a true maximal proposition, which is just what Atomicity claims.
 
