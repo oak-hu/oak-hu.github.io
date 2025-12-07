@@ -11,7 +11,7 @@ tag: "Knowledge and Reality (Week 4)"
 
 I argue that all and only knowledge constitutes evidence. I assume that we start with a good grasp on knowledge and evidence. We know roughly what knowledge requires, and where knowledge is required. Further, we can specify the core functions of evidence across various domains, from everyday discourse to scientific investigation. From this starting point, I argue that knowledge fulfills the theoretical functions of evidence, such that one’s total evidence comprises just what one knows. §I argues that all evidence is knowledge. §II argues that all knowledge is evidence. §III deals with some objections to the resulting picture that all and only knowledge constitutes evidence.
 
-## All evidence is knowledge
+## I. All evidence is knowledge
 
 The core role of evidence, especially in scientific practice, is to determine the relative plausibility of competing hypotheses, as modeled by conditionalization. Evidence—that is, what we properly condition on—must be known. In particular, one cannot properly condition on something unless one knows it, because (crucially) conditioning on *φ* fundamentally involves discarding every possibility inconsistent with *φ*. There is something wrong with discarding possibilities which, for all one knows, might be actual; hence, one may properly condition only on what one knows. That is, all evidence is knowledge.
 
@@ -42,7 +42,7 @@ So, the foregoing argument to the effect that all evidence is knowledge goes thr
 
 This way of specifying the core function of evidence automatically yields the result that all evidence is propositional. In particular, if something is not a proposition (in particular, an event), then it cannot be conditioned on, and so cannot be evidence in this sense. Of course, one may take less orthodox views of updating, such as ‘generalizing’ conditionalization to Jeffrey conditionalization; but this adds massive complication to the updating procedure, for no real gain in generality. In particular, we can always enrich the probability space to mimic the effect of Jeffrey conditioning using standard conditioning.{% include sidenote.html content = "See also Jaynes (2002)." %}
 
-## All knowledge is evidence
+## II. All knowledge is evidence
 
 Given the previous section, we have that evidence is a subset of knowledge. Considerations of theoretical economy point against taking evidence as a special, strict subset of knowledge: given the previous section, the equation of evidence with knowledge looks like the natural default hypothesis. Thus, even without much positive argument for the claim that all knowledge is evidence, we might tentatively adopt it if we accept that all evidence is knowledge.
 
@@ -60,7 +60,7 @@ The objector may reply with the stronger claim that what can constitute evidence
 
 One way of explaining this resemblance, and furthering the case for the equation of evidence and knowledge, is to take personal deliberation as something like an internalization of interpersonal deliberation. That is, individual and collective reasoning are structurally similar; but we tend to think about premises of collective reasoning under the guise of evidence, and premises of individual reasoning under the guise of knowledge. However, it’s plausible that evidence in collective reasoning constitutes (collective) knowledge, and that knowledge in individual reasoning constitutes (individual) evidence.
 
-## Objections
+## III. Objections
 
 I end by treating some objections to the thesis that all and only knowledge constitutes evidence.
 
