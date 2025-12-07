@@ -71,7 +71,7 @@ The argument is valid.{% include sidenote.html content="Suppose <em>sφp</em>. B
 
 Now, I depart from Kyle’s proof. One might worry about counterexamples to (Strict): perhaps I can know an approximate truth while knowing it to be strictly false,{% include sidenote.html content="As Kyle notes, Schaffer (2021) argues that this is a problem for Buckwalter & Turri (2020)." %} or perhaps I can guess contradictory outcomes in an arbitrage bet. Whereas Kyle counters such worries with supporting arguments for (Strict), I argue that such worries are irrelevant. One cannot escape the proof by rejecting only (Strict), because a weaker premise suffices for the proof:{% include sidenote.html content="It is weaker: taking ¬<em>p</em> ∧ <em>s</em><sub>1</sub><em>φp</em> ∧ ¬<em>s</em><sub>1</sub><em>φ</em>¬<em>p</em> and ∀<em>p</em>(<em>s</em><sub>2</sub><em>φp</em> → <em>p</em>) makes (Strict*) true but (Strict) false; meanwhile, (Strict) makes (Strict*)’s antecedent immediately entail its consequent. It suffices: assuming <em>sφp</em> and ¬<em>p</em>, we have <em>sφ?p</em> by (Link) and so <em>sφ</em>¬<em>p</em> by (V<sub>?</sub>); this entailment is the negation of (Strict*)’s consequent, so we have the negation of (Strict*)’s antecedent, which is (V)." %}
 
-> (Strict*) ◇∃*s*∃*p*(¬*p* ∧ *sφp*) → ◇∃*s*∃*p*(¬*p* ∧ *sφp* ∧ ¬*sφ*¬*p*)
+> (Strict\*) ◇∃*s*∃*p*(¬*p* ∧ *sφp*) → ◇∃*s*∃*p*(¬*p* ∧ *sφp* ∧ ¬*sφ*¬*p*)
 > 
 > ‘If there are false guesses, some of them do not involve a true guess.’
 
