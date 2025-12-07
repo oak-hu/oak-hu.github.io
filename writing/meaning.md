@@ -7,7 +7,7 @@ tag: "Philosophy of Language (Week 4)"
 
 # Meaning
 
-> The following is a tutorial essay for Philosophy of Logic and Language with James Kirkpatrick. It addresses the prompt: ‘It is no good expecting the meaning of “Hello” to be the same kind of thing as the meaning of “Snow is white”. So we should be pluralists about meaning. Is that right?’ A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com).
+> The following is a tutorial essay for Philosophy of Logic and Language with James Kirkpatrick. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘It is no good expecting the meaning of “Hello” to be the same kind of thing as the meaning of “Snow is white”. So we should be pluralists about meaning. Is that right?’ A free-standing and much more readable version of some of the material may eventually go up on my [Substack](https://offhandquibbles.substack.com).
 
 The meaning (in particular, the semantic content) of ‘Snow is white’ is a proposition. We should expect for general theoretical reasons—namely, the simplicity and strength of the associated framework—that the content of ‘Hello’ is likewise a proposition; the same goes for ‘Go away!’ and ‘Are ghosts real?’. It is premature to give up hope for a propositional account for the semantics of such expressives, imperatives, and interrogatives.
 
