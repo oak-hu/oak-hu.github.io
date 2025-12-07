@@ -19,7 +19,7 @@ Insensitive contextualism combines subject-insensitivism about knowledge with sp
 
 §I adds some more detail (i.e., caveats) to this quick introductory sketch, to make the difference between contextualism and sensitivism clearer. §II outlines some particular contextualist and sensitivist views. §III presents some examples of shifting patterns of knowledge ascriptions, comparing how contextualism and sensitivism treat them. I conclude that, at least with respect to shifting patterns of knowledge ascriptions, contextualism is better motivated than sensitivism (although it may have fatal flaws elsewhere).
 
-## The mechanics of knowledge ascriptions
+## I. The mechanics of knowledge ascriptions
 
 Above, I discussed knowledge ascriptions as if they were always utterances. I don’t mean to suggest that knowledge ascriptions cannot be in writing, or even in (possibly non-linguistic) thought. But I do require knowledge ascriptions to ascribe knowledge: i.e., to express that some subject knows some proposition.
 
@@ -35,7 +35,7 @@ Sometimes, the line blurs between what is and is not traditionally recognized. F
 
 One final note is the distinction between truth conditions and assertibility conditions. Invariantists may hold that the assertibility of knowledge ascriptions depends on the speaker. For instance, perhaps I ought not assert, ‘she knows that she’s in Oxford!’, if I myself don’t even believe that she’s in Oxford. If I nevertheless did produce such an assertion, we might still judge it true (on the grounds that she does know that she’s in Oxford). The particular claim of the contextualist is that such contextual features can make a knowledge ascription not only unassertible but outright false.{% include sidenote.html content = "There is the thought that invariantists can mimick contextualist successes by converting truth-conditions to assertibility-conditions. This might work for converting false utterances to unassertible ones; but I’ll exploit the fact that this doesn’t work for converting true utterances into assertible ones." %}
 
-## Salience versus interest
+## II. Salience versus interest
 
 One version of contextualism relies on _attention_: the subject’s belief must be true in any case noticed by the speaker. The analogous version of sensitivism requires that the subject’s belief be true in any case noticed by the subject. A slightly different form of contextualism relies on _salience_: the subject’s belief must be true in any case taken seriously by the speaker. The analogous version of sensitivism requires that the subject’s belief be true in any case taken seriously by the subject. Consider the following dialogue:
 
