@@ -47,7 +47,7 @@ Alternatively, one might hold that *guess* is ambiguous: (V) is true for a *stro
 
 Although their motivations vary, I assume for now that Kyle’s opponents hold that (V) has strict counterexamples, and either affirm or deny (Link).
 
-## I. THE PARALLEL PROOF
+## I. The parallel proof
 
 I reconstruct Kyle’s proof with a generic attitude *φ* in place of knowledge.{% include sidenote.html content="With Kyle’s labels, (V) is (KT), (Link) is (TW), (V<sub>?</sub>) is (WT), (Strict) is (Consistency), (Link<sup>↔</sup>) is (DEF1), (Link<sup>∀φ</sup>) is (Modified-That-to-Whether), (V<sub>?</sub><sup>∀Q</sup>) is (Reductive View), and (V<sub>?</sub><sup>↔</sup>) is (DEF2)." %} To read this as a proof about guessing, read ⌈*sφp*⌉ as ⌈*s* guesses that *p*⌉ and read ⌈*sφ?p*⌉ as ⌈*s* guesses whether or not *p*⌉.
 
@@ -130,7 +130,7 @@ The premise “is thus unassailable”.
 
 This completes the proof of (V), with supporting arguments for both contentious premises. To resist it, we must (as Kyle reasons) “reject a premise of the main argument, along with every supporting argument for that premise. This is an onerous path.”
 
-## II. RESISTING THE PARALLEL PROOF
+## II. Resisting the parallel proof
 
 I now show that the proof of (V) for guessing is uncompelling. In particular, if we accept the first premise (Link), then we can costlessly deny the second premise (V<sub>?</sub>) and vice versa.
 
@@ -160,7 +160,7 @@ So, (V<sub>?</sub>), (V<sub>?</sub><sup>↔</sup>), and (V<sub>?</sub><sup>∀Q<
 
 Since we deny (V), the proof of (V) presents us with a trilemma: we must deny (Link), (V<sub>?</sub>), or (Strict*). If all three options are costly, then the trilemma makes denying (V) that much harder. But the first two options are both costless, so the proof fails to do any dialectical work.
 
-## III. OBJECTIONS
+## III. Objections
 
 Kyle considers two objections against (Link) and three objections against (V<sub>?</sub>). The two against (Link) are dissimilar from the problems that I raise here, and I accept that they ultimately fail. However, the three against (V<sub>?</sub>) are similar to the problems that I raise here, so I must address Kyle’s responses.
 
@@ -186,7 +186,7 @@ Kyle is right that this objection gives the original proof’s proponent no reas
 
 The third objection makes a more sophisticated appeal to the connection between (V<sub>?</sub>) and (V). It argues that no relevant attitudes make (V<sub>?</sub>) true and (V) false.{% include sidenote.html content="See §6.4 of Theiler et al. 2018." %} In other words, (V<sub>?</sub>) and the principles supporting it are actually parasitic on (V): if one denies (V), one must deny those principles as well. This is a very natural line for (V) deniers to adopt.{% include sidenote.html content="Although it is closed to those committed to (V<sub>?</sub>), e.g., Dahlman (2017), and is more difficult for those who deny (Strict*) (see Theiler et al. 2018; note that Fact 6 can be strengthened using (Strict*)’s obvious analogue in place of (Strict)’s analogue, the choice property." %} Kyle’s response to this objection relies on (P3) from (Arg-2.3). But as shown (§II), anyone who does not accept (P3) vacuously must reject it, and does so with no difficulty.
 
-## IV. RESISTING THE ORIGINAL PROOF
+## IV. Resisting the original proof
 
 One might have noticed that §II and §III made no essential reference guessing: *know* can be easily substituted throughout. Thus, the replies can be directly read off in response to Kyle’s original proof about knowledge, with two exceptions.
 
@@ -200,7 +200,7 @@ I have also assumed that (V) deniers either affirm or deny (V<sub>?</sub>). If o
 
 However, I grant that the sequence imagined here is at least theoretically possible. But if that is enough for Kyle’s proof to be successful, then the proof about guessing is successful as well. The sequence is also possible for the proof about guessing, since both (Link) and (V<sub>?</sub>) for guessing can seem intuitively plausible (SI).{% include sidenote.html content="One diagnosis is that (Link) sounds plausible with weak <em>guess</em>, while (V<sub>?</sub>) sounds plausible with strong <em>guess</em>. A similar line is open for those who take <em>know</em> to be likewise ambiguous." %} Rather than “companions in guilt”, the proofs would be “companions in innocence”. Unfortunately, this imaginary success does not actually make the proof of (V) successful. The proof provides no compelling reason for its opponent to accept either (Link) or (V<sub>?</sub>).
 
-## V. CONCLUSION
+## V. Conclusion
 
 Suppose that a mathematician attempts to prove a widely-believed conjecture about ℝ<sup>2</sup>. Without realizing it, she essentially relies upon just a few properties of ℝ<sup>2</sup>, ones held in common with all ℝ<sup>n</sup>. The purported proof then generalizes easily; it is stronger than it first appears. Usually, this would be a welcome discovery. But if the conjecture is false for, say, ℝ<sup>4</sup>, then the original proof about ℝ<sup>2</sup> must have been flawed. The attempted proof should do nothing to convince those who doubt the widely-believed conjecture.
 
@@ -208,7 +208,7 @@ Kyle’s proof that knowledge entails truth essentially relies upon just a few p
 
 In this note, I have argued that guessing is such an attitude. The essential elements of Kyle’s proof can be fully adapted into a parallel proof about guessing (SI). But (V) is false for guessing. Further, our response (§II) to the parallel proof relied upon only properties shared by both guessing and knowledge (SIV). So, these responses are equally available to Kyle’s opponents. Although Kyle hopes that his proof “should hold sway with those who do not already accept [(V) for knowledge]”, it unfortunately fails to impose any meaningful cost on his opponents’ views. If (V) for knowledge is an open question, it is not resolved by Kyle’s proof.
 
-## REFERENCES
+## References
 
 * Bricker, A. M. (2018). *Visuomotor noise and the non-factive analysis of knowledge* [Doctoral dissertation, University of Edinburgh]. The University of Edinburgh.
 * Buckwalter, W., & Turri, J. (2020). Knowledge and truth: A skeptical challenge. *Pacific Philosophical Quarterly*, 101(1), 93-101.
