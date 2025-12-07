@@ -85,11 +85,12 @@ Naively applying (8) to (11a) yields (11b); naively applying (9) to (11a) yields
 
 Consider the following schematic diagram:
 
-> | _belief_ | —*practical reasoning*→  | _intention_ |
-> | ↑ | | \| |
-> | _knowledge_ | | _action_ |
-> | \| | | ↓ |
-> | _truth_ | | _success_ |
+
+> | <center>_belief_</center> | <center>—*practical reasoning*→</center>  | <center>_intention_</center> |
+> | <center>↑</center> | | <center>\|</center> |
+> | <center>_knowledge_</center> | | <center>_action_</center> |
+> | <center>\|</center> | | <center>↓</center> |
+> | <center>_truth_</center> | | <center>_success_</center> |
 
 The vertical positions represent something like the cognitive (top) and the extra-cognitive (bottom): it’s natural to say that beliefs and intentions are in one’s head, while truth and success are not.{% include sidenote.html content = "Some truths and successes may be in one’s head; some beliefs and intentions (for instance, collective ones) may not be in one’s head. Note, however, that knowledge seems to be a mental state, and actions seem to be non-mental states." %} Knowledge fits one’s mind to the world, while action fits the world to one’s mind, so it’s natural to say that these bridge the gap. The arrows represent something like direction of influence: it’s natural to say that, in knowledge, truths lead to beliefs; in competent practical reasoning, beliefs lead to intentions; and, in action, intentions lead to success.{% include sidenote.html content = "It’s tempting to call this causation, but sufficiency relations point (only) in the other direction! See Williamson (2017, 2022)." %}
 
