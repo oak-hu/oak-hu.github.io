@@ -263,3 +263,7 @@ So, we hit level 20 with a capstone from our main subclass. Unfortunately, we do
 
 
 ## Oxford
+
+9 December 2025
+
+Made steaks (‘beef-maxxing’, because British meat cattle probably have positive-welfare lives), Brussels sprouts (note the capital ‘B’ and the ‘s’ on the end), and mashed potato for lunch with Cadence; went on a quick run (5k along the river) while listening to James's draft and the Legg-Hutter universal intelligence paper, then made pear, ginger, and rosemary ice cream in the blender for dessert. Watched some YouTube and math lectures, and cleaned the room (cleared the floor and vacuumed). Ordered Magdalen Ball tickets and a nice frying pan that for some reason this one site sold for much cheaper than was available anywhere else (and, in particular, the 24cm one was cheaper than the 20cm one—maybe a typo?).
