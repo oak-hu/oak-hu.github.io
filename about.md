@@ -264,18 +264,22 @@ So, we hit level 20 with a capstone from our main subclass. Unfortunately, we do
 
 ## Oxford
 
-### 9 December 2025
+### 8 December 2025
 
 Made steaks (‘beef-maxxing’, because British meat cattle probably have positive-welfare lives), Brussels sprouts (note the capital ‘B’ and the ‘s’ on the end), and mashed potato for lunch with Cadence; went on a quick run (5k along the river: around Christ Church meadow and then down the towpath from Folly Bridge to Donnington Bridge) while listening to James's draft and the Legg-Hutter universal intelligence paper, then made pear, ginger, and rosemary ice cream in the blender for dessert. Watched some YouTube and math lectures, and cleaned the room (cleared the floor and vacuumed). Ordered Magdalen Ball tickets and a nice frying pan that for some reason this one site sold for much cheaper than was available anywhere else (and, in particular, the 24cm one was cheaper than the 20cm one—maybe a typo?).
 
-### 10 December 2025
+### 9 December 2025
 
 Explored the Angel & Greyhound meadow on today's run. They're cut off by a stream from the Bat Willow meadow and Addison's walk (both inside Magdalen). It would be very easy to climb up the lower Bat Willow meadow onto Magdalen Bridge—it's effectively a big ladder. Cadence and I had Amos over for dinner—vegan burgers / fries / salad, and some cupcakes that he made.
 
-### 11 December 2025
+### 10 December 2025
 
 Cadence and I split the 2-person steak platter at the Chester Arms (no bacon in the cabbage, which with salt was very good). The lamb kofta was amazing, the lentil soup was okay. Had a virgin mary, but they have tequila for their bloody marys (‘maries’?), which I'd like to try at some point. Also made the festive-looking nectarine and thyme ice cream again. Thyme is probably my favorite herb—it tastes really nice, is very fun to prepare, and I have some positive associations with it because I liked the thyme & rosemary chips from the Pret at 30th Street Station in Philly. I have no idea what's in the Cosmic Rainbow C4 energy drink, but it's delicious (though of course I only had a few small sips).
 
-### 12 December 2025
+### 11 December 2025
 
 Went up the hill in South Park to try and get a view of the city—you can indeed see the ‘dreaming spires’ from the top, especially if you climb a tree (particularly visible are Magdalen tower, Merton tower, the Radcliffe Camera, and the St. Mary's church spire). Made grape ice cream—very nice, the sweetness and tartness of the grape hits at the end while the richness of the Kelly's Cornish clotted cream hits at the beginning. I wonder how you can control the order in which flavours hit—making a simple salad dressing at the second Second Order in Ipswich, one problem was that the vinegar would hit first and then the olive oil would hit second, which was rather unpleasant. A chatbot suggested what ended up working to combine the two: just whisking vigorously with a fork! Got the Walker's roasted chicken and thyme chips (which are vegetarian!), which were delicious (adding to the savoury snack rotation, along with the sweet and salty popcorn and the cheese platters—thanks Maxime!).
+
+### 12 December 2025
+
+Went with Cadence to Chipping Norton, had a great steak sandwich at The Rustic Bean and then a burger at McDonald's back in Oxford—the current marketing theme is the Grinch, and the associated dill (‘Grinched McShaker’) fries are wonderful. Had a preliminary call about the cooperative intelligence project, pushing a bit on the proposed definition to get a feel for the underlying idea. An interesting case where some of the odd-seeming results from a naive formal implementation end up being reasonable—even obvious—upon more careful scrutiny.
