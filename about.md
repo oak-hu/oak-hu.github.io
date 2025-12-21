@@ -283,3 +283,7 @@ Went up the hill in South Park to try and get a view of the city—you can indee
 ### 12 December 2025
 
 Went with Cadence to Chipping Norton, had a great steak sandwich at The Rustic Bean and then a burger at McDonald's back in Oxford—the current marketing theme is the Grinch, and the associated dill (‘Grinched McShaker’) fries are wonderful. Had a preliminary call about the cooperative intelligence project, pushing a bit on the proposed definition to get a feel for the underlying idea. An interesting case where some of the odd-seeming results from a naive formal implementation end up being reasonable—even obvious—upon more careful scrutiny. Made pomegranate, honeycomb, and rainbow peppercorn ice cream. Slightly chunky, unfortunately...
+
+### 20 December 2025
+
+Scaled, deboned, and seared a trout fillet from the East Oxford farmer's market; dry-brined two chicken thighs, also from there. Both animals that plausibly had positive-welfare lives. The carbon steel is coming along nicely; eggs (the last two! the first eggs I've cooked for a long time) didn't stick at all. Made a mounted butter sauce, though my technique is slowly getting better, for the trout, which we had with vegetables (peas, kale, tenderstem broccoli) and mashed potatoes. Ran a just sub-25 5k (I think; I need something better with which to track my runs than life360) up through Christ Church and then back along the tow path.
