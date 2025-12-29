@@ -6,6 +6,17 @@ permalink: /about
 
 # About
 
+A provisional attempt at characterising my aesthetic sensibilities, especially those which feel somewhat contingent (for instance, that seem to be heavily influenced by when or how I first encountered something).
+
+- I like Palatino, and I really dislike Calibri; more generally I tend to like serifed fonts and dislike sans serif fonts (though I liked Verdana for a time).
+- I like 49th State Brewing's Wild Blueberry Cream Soda, and I really dislike Cherry Coke Zero (weird aftertaste, and I generally need more calories).
+- I like British conventions for quotation marks (and their interaction with punctuation), and British acronym styling to indicate pronunciation (‘BBC’, ‘Nato’, ‘CFar’). I like en dashes for complex modifiers (‘New York–style pizza’, and even ‘twenty year–old’), and rewording sentences so as not to end with prepositions. However, I like ‘me’ in compound subjects and ‘I’ in compound objects, although the ‘me’ should still appear first and the ‘I’ should still appear last.
+- I like the mainline Pokémon games for the DS and 3DS, especially Black and White; but I dislike the games before and after.
+- I like the Druid subclasses from _Tasha's_ (Spores, Stars, and Wildfire); but to ease the martial-caster divide, I like a house rule by which any character making an attack with a weapon with which she has proficiency may automatically take a –5 penalty to hit in exchange for a +10 to damage, as a ‘called shot’. (Incidentally, this gives the player a chance to narrate a tiny bit.)
+- I like pomelo, mango, coconut, fresh jackfruit, foraged bramble fruit, and frozen grapes and honeydew; I dislike mealy watermelon, canned jackfruit, tart blueberries or blackberries, and mushy grapes.
+- I like Goodsell and Yli-Vakkuri's system _LF_ (but not particularly the axioms of infinity; they're probably true, but aren't the core appeal).
+
+
 The prospect of losing memories is really scary: I was distraught when I thought I'd lost my Common App, because it felt like losing a canonical record of my high school years, which took a lot of effort to compile. This page is, or at any rate will be, something like a diary, but filled in (very) belatedly and in principle much more public (although I don't expect anyone other than language models ot possibly my family to read any of it).
 
 I'm from Pennsylvania. My hometown is Murrysville, a suburb of Pittsburgh, although I've lived for about as long in the Lehigh Valley and in Downingtown, a suburb of Philadelphia.
