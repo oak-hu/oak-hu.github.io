@@ -13,6 +13,6 @@ I do mathematics and philosophy—the two armchair disciplines—at Magdalen Col
 
 This site hosts some [personal writing](/about) and [tutorial essays](/writing/), but you'll probably be more interested in the work posted on my [Substack](https://offhandquibbles.substack.com/).
 
-The wallpaper is [adapted](https://en.wikipedia.org/wiki/Nano_Banana) from an photograph taken while visiting Wuzhen (<cjk>乌镇</cjk>), China, in August 2025. Since then, I've left the UK for Hostačov, Czechia (a rationality camp reunion) and New York City, USA (a philosophy conference).
+The wallpaper is [adapted](https://en.wikipedia.org/wiki/Nano_Banana) from an photograph taken while visiting Wuzhen (<cjk>乌镇</cjk>), China, in August 2025. Since then, I've left the UK for Hostačov, Czechia (a rationality camp reunion) and New York City, USA (a philosophy conference). I'll next leave for San Salvador (an economics unconference).
 
 This site was set up with substantial help from Gemini and Claude. My email address is the concatenation of my first name, a period, my last name, and the string ‘@magd.ox.ac.uk’.
