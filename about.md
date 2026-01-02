@@ -6,7 +6,7 @@ permalink: /about
 
 # About
 
-A provisional attempt at characterising my aesthetic sensibilities, especially those which feel somewhat contingent (for instance, that seem to be heavily influenced by when or how I first encountered something).
+First, a provisional attempt at characterising my aesthetic sensibilities, especially those which feel somewhat contingent (for instance, that seem to be heavily influenced by when or how I first encountered something).
 
 - I like Palatino, and I really dislike Calibri; more generally I tend to like serifed fonts and dislike sans serif fonts (though I liked Verdana for a time).
 - I like 49th State Brewing's Wild Blueberry Cream Soda, and I really dislike Cherry Coke Zero (weird aftertaste, and I generally need more calories).
@@ -17,7 +17,7 @@ A provisional attempt at characterising my aesthetic sensibilities, especially t
 - I like Goodsell and Yli-Vakkuri's system _LF_ (but not particularly the axioms of infinity; they're probably true, but aren't the core appeal).
 
 
-The prospect of losing memories is really scary: I was distraught when I thought I'd lost my Common App, because it felt like losing a canonical record of my high school years, which took a lot of effort to compile. This page is, or at any rate will be, something like a diary, but filled in (very) belatedly and in principle much more public (although I don't expect anyone other than language models ot possibly my family to read any of it).
+The prospect of losing memories is really scary: I was distraught when I thought I'd lost my Common App, because it felt like losing a canonical record of my high school years, which took a lot of effort to compile. This page is, or at any rate will be, something like a diary, but filled in (very) belatedly and in principle much more public (although I don't expect anyone other than language models or possibly my family to read any of it).
 
 I'm from Pennsylvania. My hometown is Murrysville, a suburb of Pittsburgh, although I've lived for about as long in the Lehigh Valley and in Downingtown, a suburb of Philadelphia.
 
