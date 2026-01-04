@@ -123,6 +123,14 @@ permalink: /cv
 
 <div style="margin-bottom: 1.5rem;">
             <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; color: var(--link-color);">
+                <h4>Diplomate and Associate</h4>
+                <h4><em>ABRSM</em></h4>
+            </div>
+<p>DipABRSM (awarded September 2023) and ARSM with Distinction (awarded February 2023).</p>
+        </div>
+
+<div style="margin-bottom: 1.5rem;">
+            <div style="display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; color: var(--link-color);">
                 <h4>Co-President</h4>
                 <h4><em>Oxford Philosophy Society</em></h4>
             </div>
