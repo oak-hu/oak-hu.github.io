@@ -126,7 +126,7 @@ permalink: /cv
                 <h4>Diplomate and Associate</h4>
                 <h4><em>ABRSM</em></h4>
             </div>
-<p>DipABRSM (09/2023) and ARSM with Distinction (02/2023).</p>
+<p>DipABRSM (02/2023) and ARSM with Distinction (09/2021).</p>
         </div>
 
 <div style="margin-bottom: 1.5rem;">
