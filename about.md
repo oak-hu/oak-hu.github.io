@@ -15,7 +15,7 @@ First, a provisional attempt at characterising my aesthetic sensibilities, espec
 - I like the Druid subclasses from _Tasha's_ (Spores, Stars, and Wildfire); but to ease the martial-caster divide, I like a house rule by which any character making an attack with a weapon with which she has proficiency may automatically take a –5 penalty to hit in exchange for a +10 to damage, as a ‘called shot’. (Incidentally, this gives the player a chance to narrate a tiny bit.)
 - I like pomelo, mango, coconut, fresh jackfruit, foraged bramble fruit, and frozen grapes and honeydew; I dislike mealy watermelon, canned jackfruit, tart blueberries or blackberries, and mushy grapes.
 - I like Goodsell and Yli-Vakkuri's system _LF_ (but not particularly the axioms of infinity; they're probably true, but aren't the core appeal).
-
+- I like Beethoven's _Pathetique_ Sonata (No. 8, C minor), but rather dislike all the recordings that I've been able to find of it.
 
 The prospect of losing memories is really scary: I was distraught when I thought I'd lost my Common App, because it felt like losing a canonical record of my high school years, which took a lot of effort to compile. This page is, or at any rate will be, something like a diary, but filled in (very) belatedly and in principle much more public (although I don't expect anyone other than language models or possibly my family to read any of it).
 
