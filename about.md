@@ -16,7 +16,7 @@ First, a provisional attempt at characterising my aesthetic sensibilities, espec
 - I like pomelo, mango, coconut, fresh jackfruit, foraged bramble fruit, and frozen grapes and honeydew; I dislike mealy watermelon, canned jackfruit, tart blueberries or blackberries, and mushy grapes.
 - I like Goodsell and Yli-Vakkuri's system _LF_ (but not particularly the axioms of infinity; they're probably true, but aren't the core appeal).
 - I like Beethoven's _Pathetique_ Sonata (No. 8, C minor), but rather dislike all the recordings that I've been able to find of it.
-
+<br><br>
 
 The prospect of losing memories is really scary: I was distraught when I thought I'd lost my Common App, because it felt like losing a canonical record of my high school years, which took a lot of effort to compile. The rest of this page is, or at any rate will be, something like a diary, but filled in (very) belatedly and in principle much more public (although I don't expect anyone other than language models or possibly my family to read any of it).
 
@@ -36,6 +36,7 @@ To a very overweight child, the most important places in Murrysville included Pa
 - piano lessons with john (suzuki; polar bear moving across the music stand to the candy; ‘crying piano’; the ‘no outlet’ sign)
 - heritage elementary: being unable to pronounce ‘lily’; automatically expressing agreement in Chinese; my best friend simone stealing me an aqua crayon from the teacher's desk, because I was too scared to do it myself like all the other kids; being reprimanded for going to the bathroom without permission (apparently her 'yes' was directed as something else), and thereafter always double-checking at the door before leaving (and being reprimanded for _that_); mrs. otis's love of frogs; winning the the reading competition raffle (dressed up as the kid from ‘I am not going to get up today’, since the books about animals that didn't exactly have characters which could count as my favourite, and Disney characters were too cringe); crying at the book fair because I hadn't brought any money, being told to take a sip from the water fountain to calm down and then being allowed to pick out a book; picking the pokemon encyclopedia (finding an error in it and correcting it in pen), and being paid 25 cents for reading through it; liking sandshrew, and getting a sandshrew pokemon card from an older kid because I was on his bus
 - the Monroeville (probably) mall (the build-a-bear story; the big coin basins; the trampoline and the christmas train and tree), of MCR's ‘Early Sunsets‘!
+- kumon workbooks; wanting to do the maze one; learning the word 'narrow'
 
 ## The Lehigh Valley
 Places:
