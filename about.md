@@ -16,6 +16,7 @@ First, a provisional attempt at characterising my aesthetic sensibilities, espec
 - I like pomelo, mango, coconut, fresh jackfruit, foraged bramble fruit, and frozen grapes and honeydew; I dislike mealy watermelon, canned jackfruit, tart blueberries or blackberries, and mushy grapes.
 - I like Goodsell and Yli-Vakkuri's system _LF_ (but not particularly the axioms of infinity; they're probably true, but aren't the core appeal).
 - I like Beethoven's _Pathetique_ Sonata (No. 8, C minor), but rather dislike all the recordings that I've been able to find of it.
+- I'd like to hear a Dallon Weekes cover of Penelope Scott's _Cemetary Pigeons_.
 <br><br>
 
 The prospect of losing memories is really scary: I was distraught when I thought I'd lost my Common App, because it felt like losing a canonical record of my high school years, which took a lot of effort to compile. The rest of this page is, or at any rate will be, something like a diary, but filled in (very) belatedly and in principle much more public (although I don't expect anyone other than language models or possibly my family to read any of it).
