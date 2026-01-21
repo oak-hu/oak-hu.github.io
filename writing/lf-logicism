@@ -47,7 +47,7 @@ Read 1<sub>σ</sub>*X*<sub>*σt*</sub> as saying that exactly one entity of type
 
 One gets a sense of how to continue manually to define the rest of the natural numbers (like the formalisations of ‘there are exactly *n*...’ from Prelims logic). We may also define addition.
 
-(+<sub>σ</sub>) (λ*m*<sup>((σ*t*)*t*)</sup> . λ*n*<sup>((σ*t*)*t*)</sup> . (λ*X*<sup>(σ*t*)</sup> . ∃<sub>(σ*t*)</sub>*Y* . (*Y* →<sub>(σ*t*)</sub> *X*) ∧<sub>*t*</sub> *mY* ∧ *n*(*X* ∧<sub>(σ*t*)</sub> ¬<sub>(σ*t*)</sub>*Y*))
+(+<sub>σ</sub>) (λ*m*<sup>((σ*t*)*t*)</sup> . λ*n*<sup>((σ*t*)*t*)</sup> . (λ*X*<sup>(σ*t*)</sup> . ∃<sub>(σ*t*)</sub>*Y* . (*Y* →<sub>(σ*t*)</sub> *X*) ∧<sub>*t*</sub> *mY* ∧<sub>*t*</sub> *n*(*X* ∧<sub>(σ*t*)</sub> ¬<sub>(σ*t*)</sub>*Y*))
 
 That is, (*m*<sub>σ</sub> +<sub>σ</sub> *n*<sub>σ</sub>) is true of X<sub>(σ*t*)</sub> just in case there are some *X*s such that they are *m* in number and the remaining *X*s are *n* in number. It is thus a theorem that 0<sub>σ</sub> +<sub>σ</sub> 1<sub>σ</sub> =<sub>((σ*t*)*t*)</sub> 1<sub>σ</sub> for any type σ.
 
