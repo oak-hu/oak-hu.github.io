@@ -47,9 +47,9 @@ Read 1<sub>σ</sub>*X*<sub>*σt*</sub> as saying that exactly one entity of type
 
 One gets a sense of how to continue manually to define the rest of the natural numbers (like the formalisations of ‘there are exactly *n*...’ from Prelims logic). We may also define addition.
 
-(+<sub>σ</sub>) (λ*m*<sup>((σ*t*)*t*)</sup> . λ*n*<sup>((σ*t*)*t*)</sup> . (λ*X*<sup>(σ*t*)</sup> . ∃<sub>(σ*t*)</sub>*Y* . (*Y* →<sub>(σ*t*)</sub> *X*) ∧<sub>*t*</sub> *mY* ∧ n(*X* ∧<sub>(σ*t*)</sub> ¬<sub>(σ*t*)</sub>*Y*))
+(+<sub>σ</sub>) (λ*m*<sup>((σ*t*)*t*)</sup> . λ*n*<sup>((σ*t*)*t*)</sup> . (λ*X*<sup>(σ*t*)</sup> . ∃<sub>(σ*t*)</sub>*Y* . (*Y* →<sub>(σ*t*)</sub> *X*) ∧<sub>*t*</sub> *mY* ∧ *n*(*X* ∧<sub>(σ*t*)</sub> ¬<sub>(σ*t*)</sub>*Y*))
 
-That is, (m<sub>σ</sub> +<sub>σ</sub> n<sub>σ</sub>) is true of X<sub>(σ*t*)</sub> just in case there are some *X*s such that they are *m* in number and the remaining *X*s are *n* in number. It is thus a theorem that 0<sub>σ</sub> +<sub>σ</sub> 1<sub>σ</sub> =<sub>((σ*t*)*t*)</sub> 1<sub>σ</sub> for any type σ.
+That is, (*m*<sub>σ</sub> +<sub>σ</sub> *n*<sub>σ</sub>) is true of X<sub>(σ*t*)</sub> just in case there are some *X*s such that they are *m* in number and the remaining *X*s are *n* in number. It is thus a theorem that 0<sub>σ</sub> +<sub>σ</sub> 1<sub>σ</sub> =<sub>((σ*t*)*t*)</sub> 1<sub>σ</sub> for any type σ.
 
 One may extend this treatment to cover more of arithmetic, and indeed more of mathematics; the issues about the viability of the entire project are roughly the same as the issues about the viability of the reduction of addition among the natural numbers to logic.
 
@@ -81,9 +81,9 @@ It is worth noting that the system of G&Y avoids issues with other logicist proj
 
 The solution is to introduce type-shifting operations; namely, to formalise the idea of cross-type isomorphisms, and show that 1<sub>*t*</sub> is the image of 1<sub>*e*</sub> under the isomorphism from the natural numbers used to count individuals to the natural numbers used to count propositions, as so on. Implementing this is beyond the scope of this paper, but see G&Y 2022 for details.
 
-## References
+## References{% include sidenote.html content = "I did skim the things on Bernhard's actual reading list, but of course didn't end up really engaging them closely here—the ideas in the latter half of the essay are generally in the air." %}
 
 > Goodsell, Z., & Yli-Vakkuri, J. (2022). Logical foundations. Manuscript
 >
 > Goodsell, Z., & Yli-Vakkuri, J. (2024). LF: A foundational higher-order logic.
-arXiv preprint arXiv:2401.11050.{% include sidenote.html content = "I did skim the things on Bernhard's actual reading list, but of course didn't end up really engaging them closely here—the ideas in the latter half of the essay are generally in the air." %}
+arXiv preprint arXiv:2401.11050.
