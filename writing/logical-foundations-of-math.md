@@ -5,7 +5,7 @@ date: 2026-01-19
 tag: "Philosophy of Math (Week 1)"
 ---
 
-# *LF* Logicism
+# Logical Foundations of Math
 
 > The following is a tutorial essay for the philosophy of mathematics with Bernhard Salow. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘Is mathematics logic?’. A free-standing and much more readable version of some of the material will eventually go up on my [Substack](https://offhandquibbles.substack.com).
 
