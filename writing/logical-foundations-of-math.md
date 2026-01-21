@@ -1,0 +1,89 @@
+---
+layout: default
+title: "Logical Foundations of Mathematics"
+date: 2026-01-19
+tag: "Philosophy of Math (Week 1)"
+---
+
+# Logical Foundations of Mathematics
+
+> The following is a tutorial essay for the philosophy of mathematics with Bernhard Salow. In effect, it is a quick agenda for an hour-long discussion on a guiding question, which for this week was ‘Is mathematics logic?’. A free-standing and much more readable version of some of the material will eventually go up on my [Substack](https://offhandquibbles.substack.com).
+
+## 1. Introduction
+
+I assess Goodsell and Yli-Vakkuri’s (henceforth, ‘G&Y’; 2022, 2024) attempt to show that mathematics is logic.
+
+G&Y provide a formal theory of subject matter as those individuals, properties, and propositions (henceforth, ‘entities’) which remain invariant under permutations, and thus characterise (pure) logicality as the broadest subject matter (what remains invariant under the permutations of properties induced by arbitrary permutations of individuals and →-preserving permutations of propositions). However, those who hold that mathematics is not logic—for instance, because no axiom of infinity adequate for mathematics is logical—should not find this characterisation compelling. Instead, I assume we have some recognitional capacity for logic (that is, that we “know it when we see it”), and assess whether G&Y’s characterisation of mathematics is logical by this standard.
+
+First, I introduce their logical theory informally by sketching a model theory for it (§2.1), and show how to do arithmetic in this system (§2.2). Then, I consider some worries for the logicality of the project: namely, that the axiom of infinity—more generally, any large cardinal axiom—is not purely logical because it asserts that there are infinitely many individuals (§3.1); that higher-order logic is not purely logical because of its metaphysical commitments (§3.2); that some questions of mathematics, such as the continuum hypothesis, are not settled by logic and hence not purely logical (§3.3); and finally that there are problems raised by there being many different types of numbers (§3.4). The upshot is that mathematics is logic.
+
+## 2. Formal Background
+
+### 2.1. A model theory for LF
+
+Let *w* be some infinite set. Let *t* be the powerset 𝒫(*w*) of *w*. Let *e* be some other infinite set, on which we will place restrictions shortly.{% include sidenote.html content = "I'm not sure if further restrictions are actually necessary; but certainly you should implement them when using these models to reason about LF informally." %} The types are the following sets: *e* is a type; *t* is a type; and for any (not necessarily distinct) types σ and and τ, the set of functions *f* : σ ⟶ τ is a type, which we will denote ‘(στ)’. We want to have chosen *e* such that, informally, there are no “collisions” between types. We use λ as a function builder in the usual way: λ*x*.ϕ(*x*) is the function *x* ↦ ϕ(*x*).
+
+Next, we want to interpret the logical constants. For any (relational) type σ, understand ∧<sub>σ</sub> as intersection ∩ : σ ⟶ (σ ⟶ σ) and ¬<sub>σ</sub> as σ-relative complement ()<sup>C</sup> : σ ⟶ σ. We then define the other logical operators in the usual way, and the relational types are each an infinite complete atomic boolean algebra under these logical operations since *t* was a power set.{% include sidenote.html content = "The relational types are *t*, and (στ) for any type σ and relational type τ. We can also define these for the individuals, given a suitable mereology theory, which allows us to induce these constants for any type. However, perhaps the way we ultimately want to understand the individuals is as spacetime points, and ordinary objects as properties of spacetime points—that is, of type (*et*). This induces the suitable mereology." %} Understand ⊤<sub>σ</sub> as the top element of σ, and ⊥<sub>σ</sub> as the bottom element of σ; for instance, ⊤<sub>*t*</sub> is *w* ∈ *t*, and and ⊥<sub>*t*</sub> is ∅ ∈ *t*. Further, =<sub>σ</sub>: σ ⟶ (σ ⟶ *t*) maps a pair of elements of σ to ⊤<sub>*t*</sub> just in case they are identical (in the ordinary set-theoretic way) and maps them to ⊥<sub>*t*</sub> otherwise. Understand □<sub>σ</sub> as λ*x*<sup>σ</sup> . *x* =<sub>σ</sub> ⊤</sub>σ</sub>. Finally, understand ∀</sub>σ : (σ ⟶ *t*) ⟶ *t* as mapping any *x* ∈ (σ*t*) to the infimum of its image in *t*; we can also define ∃<sub>σ</sub> in the usual way as the dual of ∀<sub>σ</sub>, making sure to type the negations correctly, which maps *x* ∈ (σ*t*) to the supremum of its image in *t*. That is, universal quantification is effectively an infinite conjunction of its instantiations, and existential quantification is effectively an infinite disjunction of its instantiations.
+
+We will sometimes drop subscripts of *t* for brevity. Also, we may abbreviate ∀<sub>σ</sub>(λ*x*<sup>σ</sup> . ϕ(*x*)) as ∀<sub>σ</sub>*x*.ϕ(*x*).
+
+Now, the logic *LF* is the one associated with signature implicitly defined above, with a string of such symbols being logically true just in case it resolves to ⊤<sub>*t*</sub> given any such choice of sets *e* and *t*. For instance, the following is a theorem of *LF*:
+
+> (**NNE**) □<sub>*t*</sub>∀<sub>*e*</sub>(λy<sup>*e*</sup> . □<sub>*t*</sub>¬<sub>*t*</sub>∀<sub>*e*</sub>¬<sub>*et*</sub>(λ*x*<sup>*e*</sup> . *x* =<sub>*e*</sub> *y*))
+
+Which is to say that, as one may readily verify, this string resolves to ⊤<sub>*t*</sub> no matter the choice of *e* and *t*. Incidentally, the logic *LF* is thus consistent relative to **ZFC**, as it has models inside set-theoretic universes. On the intended interpretation of *LF*, the entities of type *t* are propositions (which may also be understood as possibilities or states of affairs), and the entities of type *e* are the individuals.{% include sidenote.html content="Again, maybe we should think that they're spacetime points. Incidentally, on this quasi-physicalist picture, we can tell you exactly how many entities of each type there are, which is neat. Given the analysis of numbers later, though, **ZFC** is inconsistent—it generates too many cardinals." %} Thus, for instance, **NNE** is naturally paraphrased as saying that necessarily, every individual is necessarily some individual.{% include sidenote.html content="Bernhard and I talked about *LF* for a while at the start of the tutorial." %}
+
+### 2.2. Arithmetic in *LF*
+
+We have the following definitions (see G&Y 2024):
+
+> (0<sub>σ</sub>) (λ*X*<sup>(σt)</sup> . ∀<sub>σ</sub>¬<sub>(σt)</sub>*X*)
+
+Read 0<sub>σ</sub>*X*<sub>(σt)</sub> as saying that exactly zero entities of type σ have the property *X*. For instance, when *X* is (λ*x*<sup>*e*</sup> . ¬<sub>*t*</sub>(*x* =<sub>e</sub> *x*)), it is a theorem that □0<sub>*e*</sub>X<sub>(*et*)</sub> (that is, necessarily exactly zero individuals are not self-identical).
+
+(1<sub>σ</sub>) (λ*X*<sup>(*σt*)</sup> . ∃<sub>σ</sub>*y* . ∀<sub>σ</sub>*x* . *Xx* ↔<sub>*t*</sub> (*x* =<sub>σ</sub> *y*))
+
+Read 1<sub>σ</sub>*X*<sub>*σt*</sub> as saying that exactly one entity of type σ has the property *X*. For instance, it is a theorem that 1<sub>*t*</sub>□ (that is, exactly one proposition is necessary—namely, ⊤<sub>*t*</sub>).
+
+One gets a sense of how to continue manually to define the rest of the natural numbers (like the formalisations of ‘there are exactly *n*...’ from Prelims logic). We may also define addition.
+
+(+<sub>σ</sub>) (λ*m*<sup>((σ*t*)*t*)</sup> . λ*n*<sup>((σ*t*)*t*)</sup> . (λ*X*<sup>(σ*t*)</sup> . ∃<sub>(σ*t*)</sub>*Y* . (*Y* →<sub>(σ*t*)</sub> *X*) ∧<sub>*t*</sub> *mY* ∧ n(*X* ∧<sub>(σ*t*)</sub> ¬<sub>(σ*t*)</sub>*Y*))
+
+That is, (m<sub>σ</sub> +<sub>σ</sub> n<sub>σ</sub>) is true of X<sub>(σ*t*)</sub> just in case there are some *X*s such that they are *m* in number and the remaining *X*s are *n* in number. It is thus a theorem that 0<sub>σ</sub> +<sub>σ</sub> 1<sub>σ</sub> =<sub>((σ*t*)*t*)</sub> 1<sub>σ</sub> for any type σ.
+
+One may extend this treatment to cover more of arithmetic, and indeed more of mathematics; the issues about the viability of the entire project are roughly the same as the issues about the viability of the reduction of addition among the natural numbers to logic.
+
+## 3. Objections to *LF*-logicism
+
+### 3.1. The axiom(s) of (potential) infinity
+
+Although *LF* is not axiomatised here, one may take issue with the fact that it asserts that there are infinitely many individuals and infinitely many propositions; for, at first blush, these do not seem like matters of pure logic.
+
+Although it does entail that there are infinitely many individuals and infinitely many propositions, *LF* may be axiomatised without an axiom to either effect. In particular, G&Y axiomatise *LF* using axioms of _potential_ infinity, which simply say that it is not necessary that there are finitely many individuals (respectively, propositions). Combined with a theorem of the same flavour of **NNE**, this yields the objectionable results. The axioms of potential infinitely, as characterised informally here, seem much more purely logical than outright axioms of (actual) infinity. Of course, given the rest of *LF*, they are equivalent, so it may be that the other parts of *LF* are not purely logical, an objection we take up next.{% include sidenotes.html content = "Bernhard thought this was nice. We had some discussion about the analogous move from structuralism to modal structuralism. Of course, the intensionalism of *LF* gives a cheap reply to epistemological worries about this move." %}
+
+### 3.2. Metaphysical commitments of *LF*
+
+The parts of *LF* which convert the axioms of potential infinity, which seem purely logical, to axioms of actual infinity, which do not seem purely logical, deal with identity and necessity. The logic of identity has a very good claim to being purely logical; and necessity under *LF* is just understood as being identical to the proposition whose conjunction with any other proposition is identical to that other proposition, which also seems like a purely logical matter.
+
+These commitments are indeed very large: for instance, it is a theorem of *LF* (suitably enriched with non-logical constants) that the proposition that 2 + 2 = 4 is the very same proposition as the proposition that there is something which is such that it could have been Wittgenstein’s twelfth child. More basically, it also carries commitments to the existence of propositions and, more generally, properties.{% include sidenote.html content = "This really is “more generally” insofar as propositions may be understood as nullary functions to *t*." %} However, firstly, some properties and propositions—for instance, being self-identical, or the necessarily true proposition—seem perfectly logical. From there, indiscriminately allowing any property or proposition seems like a fairly innocent choice, one that can be made without leaving the realm of pure logic.{% include sidenote.html content = "As Bernhard noted, one should compare this to set-theoretic reductionism. After some discussion, it looks like we might want to say that some version of algebraic elementhood is purely logical, just as being the inverse of a group element should be purely logical. However, “true” elementhood does not look like a purely logical relation. But functional application for each pair of applicable types might be—it's the identity map on the domain of the function. Relatedly, the real sets seem not to be purely logical: on a Tarski-style informal picture of logicality, they're just arbitrary individuals (unless we specifically introduce lots of logical constants for them), and on a first-orderist informal picture of logicality, you're shoving something into the domain. Meanwhile, the on the Tarksi-style picture, our logical constants are the usual suspects—indeed, these propositional operators seem like the core subject matter of logic (although maybe this gets us wanting to say that inscription-types are purely logical, which seems wrong); and on the first-orderist picture, we're not forcing anything into the domain." %}
+
+Of course, one may be suspicious that we are rephrasing non-logical sounding matters into logical-sounding matters. But the best “smell test” for logicality is not whether something seems logical under every guise, but whether it seems logical under some guise. For instance, the question of whether all cats are cats does not seem purely logical at first blush; but, given that it may be answered using logic alone, it turns out to be a logical one. Of course, not everything to do with cats turns out to be purely logical. We next take up an objection that, although parts of mathematics may be purely logical (after all, logic may be a branch of mathematics), not all parts are.
+
+### 3.3. The independence of **CH**
+
+In particular, the question of the continuum hypothesis—whether there is a cardinal strictly between the cardinality of the natural numbers and the cardinality of the power set of the natural numbers—is a mathematical one. Nevertheless, it is not resolved by (indeed, is provably independent from) *LF*. So, if *LF* settles all the logical questions, but does not settle the mathematical question of CH, then some mathematical questions are not logical ones, and so mathematics is not logic.
+
+The issue here is the assumption that *LF* settles all logical questions; it very well may not. Indeed, for any logical system, the question of whether it is consistent seems like a purely logical question; but no consistent logical system can settle the question of its own consistency.{% include sidenote.html content = "Bernhard points out that this is a poor argument. It's plausible that we should understand settling not as proving but as something like proving when augmented with reflection principles. With **CH**, unlike with reflection principles, it's not clear which way to go. However, the argument gestured at in the previous subsection works: famously, **CH** can be put in higher-order logical terms, which is often pointed out to suggest that higher-order logic is mathematics in disguise." %}
+
+### 3.4. The different types of numbers
+
+It is worth noting that the system of G&Y avoids issues with other logicist projects: namely, it avoids problems associated with neo-logicist abstraction principles, as well as problems associated with Russell’s axiom of reducibility. However, it has a particular problem of its own: although it aims to define numbers so as to be suitable for counting, it is not able to literally vindicate certain identities because of the typing system. For instance, it is not literally true that the number of things identical to me (1<sub>*e*</sub>) is the same as the number of necessary propositions (1<sub>*t*</sub>), and neither is it true that this is the same as the number of natural numbers less than one (1<sub>((*et*)*t*)</sub>). Similarly, once one formalises the real numbers, the real number 2 will not be identical to the natural number 2 as defined above.
+
+The solution is to introduce type-shifting operations; namely, to formalise the idea of cross-type isomorphisms, and show that 1<sub>*t*</sub> is the image of 1<sub>*e*</sub> under the isomorphism from the natural numbers used to count individuals to the natural numbers used to count propositions, as so on. Implementing this is beyond the scope of this paper, but see G&Y 2022 for details.
+
+## References
+
+> Goodsell, Z., & Yli-Vakkuri, J. (2022). Logical foundations. Manuscript
+>
+> Goodsell, Z., & Yli-Vakkuri, J. (2024). LF: A foundational higher-order logic.
+arXiv preprint arXiv:2401.11050.{% include sidenote.html content = "I did skim the things on Bernhard's actual reading list, but of course didn't end up really engaging them closely here—the ideas in the latter half of the essay are generally in the air." %}
