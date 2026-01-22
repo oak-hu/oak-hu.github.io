@@ -15,4 +15,4 @@ This site hosts some [personal writing](/about) and [university essays](/writing
 
 The wallpaper is [adapted](https://en.wikipedia.org/wiki/Nano_Banana) from an photograph taken while visiting Wuzhen (<cjk>乌镇</cjk>) in August 2025. Since then, I've left the UK for a rationality camp reunion in Hostačov; a philosophy conference in New York City; and an economics retreat in San Salvador.
 
-This site was set up with substantial help from Gemini and Claude. My email address is the concatenation of my first name, a period, my last name, and the string ‘@magd.ox.ac.uk’; my Signal is `oak.76`.
+This site was set up with substantial help from Gemini and Claude. You can reach me by email at [oak.hu@magd.ox.ac.uk](mailto:oak.hu@magd.ox.ac.uk) or on Signal at [oak.76](https://signal.me/#eu/v-1hPsh6eppfzck9xyYmHkUMvEke7Fj8DRbjWo87LhTdNiRkwYBHdrMsBfO8alBI).
