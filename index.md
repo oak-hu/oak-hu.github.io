@@ -11,8 +11,8 @@ Welcome! My name is Oak.{% include sidenote.html content="Well, <a href='https:/
 
 I do mathematics and philosophy—the two armchair disciplines—at Magdalen College, Oxford. My main interests are in the areas of philosophy where you find λ-terms: the formal semantics of natural language, and the application of higher-order logic to metaphysics.
 
-This site hosts some [personal writing](/about) and [tutorial essays](/writing/), but you'll probably be more interested in the work posted on my [Substack](https://offhandquibbles.substack.com/).
+This site hosts some [personal writing](/about) and [university essays](/writing/), but you'll probably be more interested in the work posted on my [Substack](https://offhandquibbles.substack.com/).
 
-The wallpaper is [adapted](https://en.wikipedia.org/wiki/Nano_Banana) from an photograph taken while visiting Wuzhen (<cjk>乌镇</cjk>) in August 2025. Since then, I've left the UK for Hostačov (a rationality camp reunion), New York City (a philosophy conference), and San Salvador (an economics retreat).
+The wallpaper is [adapted](https://en.wikipedia.org/wiki/Nano_Banana) from an photograph taken while visiting Wuzhen (<cjk>乌镇</cjk>) in August 2025. Since then, I've left the UK for a rationality camp reunion in Hostačov; a philosophy conference in New York City; and an economics retreat in San Salvador.
 
-This site was set up with substantial help from Gemini and Claude. My email address is the concatenation of my first name, a period, my last name, and the string ‘@magd.ox.ac.uk’.
+This site was set up with substantial help from Gemini and Claude. My email address is the concatenation of my first name, a period, my last name, and the string ‘@magd.ox.ac.uk’; my Signal is `oak.76`.
