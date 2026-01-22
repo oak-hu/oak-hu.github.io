@@ -5,7 +5,7 @@ date: 2026-01-19
 tag: "Grad Seminar Notes"
 ---
 
-# Distinctions in Theoretical Philosophy
+# Epistemology
 
 > The following are some notes from a graduate seminar, mostly consisting of ~novel observations rather than recapitulations of the content (as I had on the old version of my site), although I'll try to include some minimal exposition. This class was on distinctions in theoretical philosophy, run by Bernhard Salow in Hilary Term 2026.
 
