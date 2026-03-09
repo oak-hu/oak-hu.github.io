@@ -10,7 +10,7 @@ Welcome! My name is Oak.{% include sidenote.html content="Well, <a href='https:/
 
 I do mathematics and philosophy—the two armchair disciplines—at Magdalen College, Oxford.
 
-My main academic interests are in the areas of philosophy where you find λ-terms: the formal semantics of natural language, and the application of higher-order logic to metaphysics.
+My main academic interests are in the areas of philosophy where you find λ-terms: the formal semantics of natural language, and applications of higher-order logic to metaphysics.
 
 I occassionally get sidetracked into doing other weekend projects, like this [wavefunction visualisation](/schrodinger/spirals), this [evolutionary branching simulation](/anisogamy/simulation), or this [toy language model](https://substack.com/@offhandquibbles/note/c-153216383) which has seen nothing but three of Timothy Williamson's books.
 
