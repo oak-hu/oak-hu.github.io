@@ -12,7 +12,7 @@ I do mathematics and philosophy—the two armchair disciplines—at Magdalen Col
 
 My main academic interests are in the areas of philosophy where you find λ-terms: the formal semantics of natural language, and applications of higher-order logic to metaphysics.
 
-I occassionally get sidetracked into doing other weekend projects, like this [wavefunction visualisation](/schrodinger/spirals), this [evolutionary branching simulation](/anisogamy/simulation), or this [toy language model](https://substack.com/@offhandquibbles/note/c-153216383) which has seen nothing but three of Timothy Williamson's books.
+I occasionally get sidetracked into doing other weekend projects, like this [wavefunction visualisation](/schrodinger/spirals), this [evolutionary branching simulation](/anisogamy/simulation), or this [toy language model](https://substack.com/@offhandquibbles/note/c-153216383) which has seen nothing but three of Timothy Williamson's books.
 
 This website also hosts some [personal writing](/about) and [university essays](/writing/); but you'll probably be more interested in the work posted on my [Substack](https://offhandquibbles.substack.com/).
 
