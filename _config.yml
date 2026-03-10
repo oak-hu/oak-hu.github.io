@@ -26,6 +26,8 @@ navigation:
     url: /about
   - title: Writing
     url: /writing
+  - title: Projects
+    url: /projects
   - title: CV
     url: /cv
 #  - title: Gallery
