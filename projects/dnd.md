@@ -4,6 +4,8 @@ title: My Favourite D&D 5E Build
 permalink: /projects/dnd
 ---
 
+# My Favourite D&D 5E Build
+
 I think I spent more than half my waking hours towards the end of high school doing things related to D&D (often working from a spreadsheet or reading from a rulebook). Here's my favorite character that I played in D&D 5e (weekly through the second half of 2022). It's Draconic 1 / Stars X / Twilight 5, with DEX as the highest stat. (!!) I might write later about DMing. I thought a lot of the build decisions were clever, and I'm really proud of the result. The progression is really, really smooth, with fun new toys at every level, and everything fits together both thematically and mechanically.
 
 The module was Ghosts of Saltmarsh, so the vibe was essentially 'pirates'. I wanted to go Stars Druid (my favorite subclass), for the navigating-by-stars vibe; their best feature is the Dragon constellation, and draconic theming is also nice here because dragons, like pirates, covet treasure. Other party members were a Great-Old-One Warlock, a Knowledge Cleric, a Swashbuckler Rogue.

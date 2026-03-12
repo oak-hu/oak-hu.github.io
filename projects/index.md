@@ -34,7 +34,7 @@ permalink: /projects
     </a>
     <div class="project-info">
       <div class="project-name"><a href="/projects/dnd" class="no-icon">My Favourite D&amp;D 5E Build</a></div>
-      <p class="project-desc">Draconic 1 / Stars X / Twilight 5, with DEX as the highest stat.</p>
+      <p class="project-desc">Draconic Sorcerer 1 / Stars Druid X / Twilight Cleric 5, with no armour.</p>
     </div>
   </div>
 
