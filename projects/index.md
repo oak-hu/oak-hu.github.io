@@ -28,4 +28,14 @@ permalink: /projects
     </div>
   </div>
 
+  <div class="project-card">
+    <a href="/projects/dnd" class="project-img-wrap no-icon">
+      <img src="/assets/projects/dnd.png" alt="D&D Build">
+    </a>
+    <div class="project-info">
+      <div class="project-name"><a href="/projects/dnd" class="no-icon">My Favourite D&amp;D 5E Build</a></div>
+      <p class="project-desc">Draconic 1 / Stars X / Twilight 5, with DEX as the highest stat.</p>
+    </div>
+  </div>
+
 </div>
