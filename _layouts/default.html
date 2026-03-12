@@ -21,6 +21,17 @@
         },
         options: {
           skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+        },
+        startup: {
+          ready() {
+            MathJax.startup.defaultReady();
+            MathJax.startup.promise.then(() => {
+              for (const math of MathJax.startup.document.math) {
+                const d = math.display ? '$$' : '$';
+                math.typesetRoot.setAttribute('aria-label', d + math.math + d);
+              }
+            });
+          }
         }
       };
     </script>
