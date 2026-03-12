@@ -21,7 +21,28 @@ Kelp argues that the aim of inquiry is knowledge. Someone brings up the case of 
 
 Note 27 January 2026: Kelp gave today's metaphysics & epistemology talk! I didn't find it super compelling, though. It's weird how little awareness there is of (i) the ur-prior approach on which your credences can go down from 1 (because you can lose evidence), although I was happy that Maria Lasonen pointed it out; and (ii) that probability 1 is _not_ the same as guaranteed.
 
-# Double-Checking
+## Double-Checking
 
 In our class's disgression on what checking is supposed to be, Bernhard suggests that checking might involve making belief sensitive in a way not required for knowledge. For instance, you can know that ice left in the sunlight two hours ago has melted, or that your dog doesn't secretly speak German; although of course, if it wasn't melted (say, if someone picked it up and put it in the freezer) or you dog did secretly speak German (after all, it would be *secret*), you would retain the same belief (or belief in something under the same guise, or whatever). But *didn't* you check that the ice cube was melted? For it seems that one way of checking that *p* is by checking that *p* is locally necessary. (Bernhard's example: maybe you didn't know whether it was left in the sun or the shade, and you can check that it was in fact left in the shade, and so in all close worlds must have melted.) But if you can do that, you can do that in the imagination! In particular, you can imagine the ice melting within two hours in the sun, and thereby come to know that the ice *would* melt, and thereby come to know (in the good case) that the ice *did* melt. Someone objects that (i) checking that it's likely that the ice melted doesn't suffice, and (ii) in the case where this seems plausible you didn't already believe and so didn't *double* check. But what you checked wasn't that the ice melted in a high proportion of worlds (that you had a low chance of error), what you checked was that the ice melted in every world in this region of modal space and so in the actual world (that you had no *close* chance of error). Someone else supplies the example of throwing a ball, closing your eyes, and then imagining where it will go based on the trajectory; someone else adds that double-checking by solving dynamical equations should count as double-checking, so using your capacities for rolling forward physical simulations in the imagination should count too. And indeed this example deals with the second objection, too: suppose you somewhat unreasonably believe that you're about to sink this half-court shot; you shoot, then close your eyes, and confirm after a moment that you in fact *would* sink it. Bernhard quite liked the observation that you can (double-)check things by just thinking about them! Of course, if your wife asks you to double-check that you turned off the oven, and you just imagine leaving the kitchen and observe that you turn off the oven (without this being an actual memory)...
 
+## Epistemic Consequentialism
+
+Lasonen has a view on which some doxastic state (belief, disbelief, suspension of judgement) is *reasonable* (or *justified*) just in case it manifests (something stronger than merely resulting from) some knowledge-conducive disposition.
+
+The axiology has suspension of judgement fixed to zero value; but it's really the relative difference between states that's doing any consequentialist work (i.e., we only care about the values up to positive affine transformations).
+
+Here are some different axiological views, ranking by value.
+
+> **Veritism:** *false belief \< suspension < true belief = knowledge*
+>
+> **Weak Gnosticism:** *false belief \< suspension < true belief < knowledge*
+>
+> **Pure Gnosticism:** *false belief \< suspension = true belief < knowledge*
+> 
+> **Radical Gnosticism:** *false belief < true belief < suspension < knowledge*
+
+Even if *suspension < true belief* as with veritism or weak gnosticism, it's reasonable to suspend judgement just in case the probability—maybe the evidential probability, in particular—of ending up with true rather than false belief is higher than the proportion of the way relative to false belief that suspension gets you towards true belief. (For instance, if suspension is three units better than false belief, and true belief is one unit better than suspension, then you should belief when you have at least a 75% chance of getting things right). Similarly for what chances you should take when there's a possibility of knowledge. On pure gnosticism and radical gnosticism, you get that you should suspend judgement whenever there's no chance of knowledge, and sometimes when there is such a chance if there's also a chance of false belief.
+
+One objection to the latter two views, apparently due to Pettigrew, comes from thinking about the oddness of testifying to something which someone believes truthfully but fails to know. But (against this) consider their doxastic attitude with respect to whether they know. On the one hand, of course, if they falsely believe that they know, then you've helped them. But, further, if they've suspended judgement as to whether they know, then you've also helped them! (If they truly believe that they don't know, they have the Moorean belief that something is the case, but they don't know that it's the case.)
+
+A general worry about Lasonen's view: why are we relativising to feasibility? Do you make things easier for yourself by giving yourself brain damage? (Do you become a better person by cutting off your arms?)
