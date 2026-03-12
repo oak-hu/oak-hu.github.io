@@ -25,7 +25,7 @@ Some philosophical sympathies:
 
 * Our best metaphysical theory is easily the one given by [Logical Foundations](https://arxiv.org/pdf/2401.11050).
 * Our best ethical theory is likely (impartial, maximising, totalist) consequentialism, but what matters is much better described as ‘flourishing’ than ‘happiness’.
-* Our best epistemological theory might be knowledge-first Bayesianism, but Frege cases are pervasive and cause huge problems.^^Let $A$ be the (rigid) class of propositions comprising all and only the true ones.<br><br>Now, notice that for any proposition $p$, if $p$ is true then the sentence $\ulcorner p \leftrightarrow (p\in A)\urcorner$ means that $p$, and otherwise the sentence means that $\lnot p$. <br><br>So, if you're ever wondering whether $p$, the answer is that $p \leftrightarrow (p\in A)$. Congratulations on unlocking omniscience.^^
+* Our best epistemological theory might be knowledge-first Bayesianism, but Frege cases are pervasive and cause huge problems.^^Let *A* be the (rigid) class of propositions comprising all and only the true ones.<br><br>Now, notice that for any proposition *p*, if *p* is true then the sentence ⌜*p* ↔ (*p* ∈ *A*)⌝ means that *p*, and otherwise the sentence means that ¬*p*.<br><br>So, if you're ever wondering whether *p*, the answer is that *p* ↔ (*p* ∈ *A*). Congratulations on unlocking omniscience.^^
 
 And some more personal tastes:
 
