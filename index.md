@@ -17,9 +17,7 @@ I occasionally get distracted by weekend projects, like:
 
 On this site, you can also find some [personal writing](/about) and my [university essays](/writing/); but you'll probably be much more interested in the work on my [Substack](https://offhandquibbles.substack.com/).
 
-The wallpaper is a [stylised](https://en.wikipedia.org/wiki/Nano_Banana) version of a photo taken while visiting Wuzhen (<cjk>乌镇</cjk>) in August 2025. More recently, I've visited Hostačov (for a rationality camp reunion); New York City (for a higher-order metaphysics conference); and San Salvador (for an economics retreat). I'll next be in Berkeley in April 2026 for a conference on AI Control.
-
-This site was set up with substantial help from Gemini and Claude.
+The wallpaper is a [stylised](https://en.wikipedia.org/wiki/Nano_Banana) version of a photo taken while visiting Wuzhen (<cjk>乌镇</cjk>) in August 2025. More recently, I've visited Hostačov (for a rationality camp reunion); New York City (for a higher-order metaphysics conference); and San Salvador (for an economics retreat). I'll be in Berkeley April 2026 for an AI Control conference.
 
 You can reach me by email at [oak.hu@magd.ox.ac.uk](mailto:oak.hu@magd.ox.ac.uk) or on Signal at [oak.76](https://signal.me/#eu/v-1hPsh6eppfzck9xyYmHkUMvEke7Fj8DRbjWo87LhTdNiRkwYBHdrMsBfO8alBI).
 
@@ -37,3 +35,7 @@ And some more personal tastes:
 * I like 49th State Brewing's Wild Blueberry Cream Soda, and I really dislike Cherry Coke Zero (weird aftertaste, and I generally need more calories). I like nicely-textured fruits (pomelo, fresh jackfruit, mango, and coconut), bramble fruits when sweet (especially foraged), and frozen watery fruits (grapes, honeydew); I dislike mealy or mushy fruits, bramble fruits when tart, and canned jackfruit. I generally like savoury food over sweet food, and enjoy cooking with carbon steel.
 * I like Palatino, and I really dislike Calibri; more generally, I tend to prefer serifed fonts (though I liked Verdana for a time). I think that I like British pronunciation-guided acronym styling (‘BBC’, ‘Nato’, ‘CFar’). I like single quotes for quote-names and double quotes for scare quoting, and putting quotation marks inside punctuation. I like en dashes for complex modifiers (‘New York–style pizza’, and even ‘twenty year–old’), and rewording sentences so as not to end with prepositions. However, I like ‘me’ in compound subjects and ‘I’ in compound objects, although they still must appear first or last respectively.
 * I like the fifth generations of both the mainline Pokémon games and of D&D. More generally for the former, I like the DS / 3DS generations; more specifically for the latter, I like the Druid subclasses from _Tasha's_ (Spores, Stars, and Wildfire), as well as a house rule letting any character making an attack with a weapon take –5 to hit for +10 damage, as a ‘called shot’ (to ease the martial-caster divide).
+
+<hr>
+
+<p style="text-align: center;"><em>This site was built with the help of Gemini and Claude.</em></p>
