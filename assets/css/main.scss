@@ -10,12 +10,12 @@
     --text-secondary: #af694a;
     --link-color: #50b090;
     --hover-color: #a4ecda;
-    --nav-color: #0f1e4d;
+    --nav-color: var(--text-secondary);
     
     /* Glassmorphism */
     --glass-bg: rgba(1.875, 3.75, 9.625, 0.85);
     --sidenote-bg: rgba(3.75, 7.5, 19.25, 0.8);
-    --secondary-bg: rgba(240, 225, 178,0.5);
+    --secondary-bg:var(--sidenote-bg);
     --glass-border: rgba(255, 255, 255, 0.1);
     --glass-blur: 8px;
     --glass-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
@@ -177,18 +177,13 @@ a:hover { color: var(--hover-color); }
 
 .nav-item {
     color: var(--nav-color);
-    font-family: var(--font-title);
+    font-family: var(--font-nav);
     transition: color 0.5s, opacity 0.5s ease;
     opacity: 0;
 }
 .fonts-loaded .nav-item { opacity: 1; }
 .fonts-loaded .glass-card { opacity: 1; }
 .fonts-loaded .sidenote { opacity: 1; }
-.nav-item:first-child {
-    font-family: var(--font-nav);
-    position: relative;
-    top: 0.1rem;
-}
 .nav-item:hover, .nav-item.active { color: var(--link-color); font-weight: bold; }
 
 .progress-container {
@@ -201,7 +196,6 @@ a:hover { color: var(--hover-color); }
     height: 0.25rem; background: var(--text-primary); width: 100%;
     transform: scaleX(0); transform-origin: left;
     will-change: transform;
-    box-shadow: 0 0 10px var(--text-primary);
 }
 
 /* Content Styling */
@@ -219,10 +213,11 @@ a:hover { color: var(--hover-color); }
 .content h2 {
     font-family: var(--font-title);
     font-size: var(--fs-h2);
-    color: var(--text-secondary);
+    color: var(--link-color);
     margin-top: 2rem;
     margin-bottom: 1rem;
 }
+
 .anchor-link {
     opacity: 0;
     font-size: 0.7em;
