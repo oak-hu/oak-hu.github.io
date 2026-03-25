@@ -24,10 +24,10 @@ navigation:
     url: "https://0ak.hu"
   - title: About
     url: /about
-  - title: Writing
-    url: /writing
   - title: Projects
     url: /projects
+  - title: Writing
+    url: /writing
   - title: CV
     url: /cv
 #  - title: Gallery

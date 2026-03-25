@@ -1,28 +1,44 @@
 ---
 ---
 /* Imports fonts */
-@import url('https://fonts.googleapis.com/css2?family=Langar&family=Ma+Shan+Zheng&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Langar&family=Ma+Shan+Zheng&family=Cormorant+SC&family=Cormorant+Upright&family=Cormorant+Garamond&display=swap');
 
 :root {
     /* Palette */
     --bg-color: #022520;
     --text-primary: #f0e1b2;
     --text-secondary: #af694a;
-    --link-color: #409573;
-    --hover-color: #af694a;
+    --link-color: #50b090;
+    --hover-color: #a4ecda;
+    --nav-color: #0f1e4d;
     
     /* Glassmorphism */
-    --glass-bg: rgba(0, 24, 32, 0.67);
+    --glass-bg: rgba(1.875, 3.75, 9.625, 0.85);
+    --sidenote-bg: rgba(3.75, 7.5, 19.25, 0.8);
+    --secondary-bg: rgba(240, 225, 178,0.5);
     --glass-border: rgba(255, 255, 255, 0.1);
-    --glass-blur: 25px;
-    --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+    --glass-blur: 8px;
+    --glass-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 
     /* Typography */
-    --font-main: 'Palatino Linotype', 'Palatino', 'Georgia', serif;
-    --font-display: 'Langar', 'Courier New', monospace;
+    --font-main: 'Cormorant Garamond', 'Palatino Linotype', 'Palatino', 'Georgia', serif;
+    --font-nav: 'Langar', 'Courier New', monospace;
+    --font-display: 'Cormorant Upright', 'Courier New', monospace;
+    --font-title: 'Cormorant SC', 'Courier New', monospace;
     --font-cjk: 'Ma Shan Zheng', 'Palatino Linotype', serif;
-    --font-min: 0.9rem;
-    --font-min: 0.9rem;
+    --font-min: 1rem;
+
+    /* Font sizes */
+    --fs-body: clamp(1rem, 1.5vw, 2rem);
+    --fs-nav: clamp(1.25rem, 1.75vw, 2rem);
+    --fs-h1: clamp(1.5rem, 3vw, 3rem);
+    --fs-h2: clamp(1.25rem, 2vw, 2rem);
+    --fs-sidenote: clamp(1rem, 1vw, 1.25rem);
+    --fs-card-title: var(--fs-body);
+    --fs-card-week: var(--fs-sidenote);
+    --fs-project-name: var(--fs-body);
+    --fs-project-desc: var(--fs-sidenote);
+    --fs-link: inherit;
 
     /* Grid */
     --unit: calc(100vw / 21);
@@ -58,19 +74,25 @@ body::before {
     z-index: -1;
 }
 
+em, i {
+    font-family: var(--font-display);
+    font-style: italic;
+}
+
 a {
     color: var(--link-color);
     font-family: var(--font-display);
+    font-size: var(--fs-link);
     font-weight: bold;
     text-decoration: none;
     cursor: pointer;
 }
 
 /* 1. External Links: Brown "box arrow" icon */
-a[href^="http"]:not([href*="0ak.hu"]):not(.nav-item):not(.no-icon)::after {
+/*a[href^="http"]:not([href*="0ak.hu"]):not(.nav-item):not(.no-icon)::after {
     display: inline-block;
-    width: 0.75em;             
-    height: 0.75em;
+    width: 0.6em;
+    height: 0.6em;
     margin-left: 0.15em;      
     content: "";
     background-color: var(--text-secondary); 
@@ -82,19 +104,19 @@ a[href^="http"]:not([href*="0ak.hu"]):not(.nav-item):not(.no-icon)::after {
     -webkit-mask-position: center;
     mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6'%3E%3C/path%3E%3Cpolyline points='15 3 21 3 21 9'%3E%3C/polyline%3E%3Cline x1='10' y1='14' x2='21' y2='3'%3E%3C/line%3E%3C/svg%3E");
     -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6'%3E%3C/path%3E%3Cpolyline points='15 3 21 3 21 9'%3E%3C/polyline%3E%3Cline x1='10' y1='14' x2='21' y2='3'%3E%3C/line%3E%3C/svg%3E");
-}
+}*/
 
 /* 2. Internal Links: Border around text, NO icon */
-a:not([href^="http"]):not(.nav-item):not(.no-icon),
+/*a:not([href^="http"]):not(.nav-item):not(.no-icon),
 a[href*="0ak.hu"]:not(.nav-item):not(.no-icon) {
-    border: 1.5px solid #af694ac0;
+    border: 1px solid var(--hover-color);
     border-radius: 5px;
-    padding: 4px 2px;
+    padding: 0px 2px 3px 2px;
     //So that following punctuation is spaced correctly
     margin: 0px 2px 0px 0px;
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
-}
+}*/
 
 a:hover { color: var(--hover-color); }
 
@@ -102,24 +124,24 @@ a:hover { color: var(--hover-color); }
 .glass-card {
     width: var(--container-width);
     margin-left: var(--unit);
-    margin-top: 2rem; 
+    margin-top: 2rem;
     background: var(--glass-bg);
-    backdrop-filter: blur(var(--glass-blur));
-    -webkit-backdrop-filter: blur(var(--glass-blur));
     border-radius: 16px;
     border: 1px solid var(--glass-border);
     box-shadow: var(--glass-shadow);
-    padding: 4vw; 
+    padding: 4vw;
     min-height: 80vh;
     position: relative;
     opacity: 0;
-    animation: cardFadeInUp .5s ease-in-out forwards;
-    animation-delay: 0.1s;
+    transition: opacity 0.5s ease;
+    /* z-index to sit above any future pseudo-element washes */
+    z-index: 1;
+    will-change: transform;
 }
 
-@keyframes cardFadeInUp {
-    0% { opacity: 0; transform: translateY(40px); }
-    100% { opacity: 1; transform: translateY(0); }
+.glass-card.full-width {
+    width: calc(100% - 2 * var(--unit));
+    margin-left: var(--unit);
 }
 
 /* Navigation */
@@ -130,10 +152,11 @@ a:hover { color: var(--hover-color); }
     left: 0;
     width: 100%;
     z-index: 1000;
-    background: rgba(0, 0, 0, 0.8);
-    backdrop-filter: blur(10px);
+    background: var(--secondary-bg);
     border-bottom: 1px solid rgba(255,255,255,0.1);
-    /* REMOVED: display, padding, overflow, etc. */
+    box-shadow: var(--glass-shadow);
+    backdrop-filter: blur(var(--glass-blur));
+    -webkit-backdrop-filter: blur(var(--glass-blur));
 }
 
 /* New Scrolling Content Wrapper */
@@ -142,63 +165,73 @@ a:hover { color: var(--hover-color); }
     align-items: center;
     justify-content: center;
     padding: 1rem 2rem;
-    gap: 4vw;
+    gap: 8vw;
     overflow-x: auto; /* Scrolling happens here now */
     width: 100%;
     
     /* Typography moved here */
-    font-family: var(--font-main);
-    font-size: clamp(1rem, 1.5vw, 1.5rem);
+    font-family: var(--font-nav);
+    font-size: var(--fs-nav);
     line-height: 1.5;
 }
 
-/* Ensure Progress Container stays absolute relative to the main header */
-.progress-container {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    width: 100%;
-    height: 5px;
-    background: transparent;
-    z-index: 1001;
-}
-
 .nav-item {
-    color: var(--link-color);
-    transition: color 0.2s;
+    color: var(--nav-color);
+    font-family: var(--font-title);
+    transition: color 0.5s, opacity 0.5s ease;
+    opacity: 0;
 }
-.nav-item:hover, .nav-item.active { color: var(--hover-color); font-weight: bold; }
+.fonts-loaded .nav-item { opacity: 1; }
+.fonts-loaded .glass-card { opacity: 1; }
+.fonts-loaded .sidenote { opacity: 1; }
+.nav-item:first-child {
+    font-family: var(--font-nav);
+    position: relative;
+    top: 0.1rem;
+}
+.nav-item:hover, .nav-item.active { color: var(--link-color); font-weight: bold; }
 
 .progress-container {
-    position: absolute; bottom: 0; left: 0; 
+    position: absolute; top: 100%; left: 0;
     width: 100%; height: 5px; 
     background: transparent;
     z-index: 1001;
 }
 .progress-bar {
-    height: 3px; background: var(--link-color); width: 0%;
-    transition: width 0.1s ease-out; box-shadow: 0 0 10px var(--link-color);
+    height: 0.25rem; background: var(--text-primary); width: 100%;
+    transform: scaleX(0); transform-origin: left;
+    will-change: transform;
+    box-shadow: 0 0 10px var(--text-primary);
 }
 
 /* Content Styling */
 .content {
     line-height: 1.75;
-    font-size: clamp(1.0rem, 1.25vw, 1.25rem);
+    font-size: var(--fs-body);
 }
 .content h1 {
-    font-family: var(--font-display);
-    font-size: clamp(1.5rem, 3vw, 3rem);
+    font-family: var(--font-title);
+    font-size: var(--fs-h1);
     text-align: center;
     color: var(--text-secondary);
     margin-bottom: 2rem;
 }
 .content h2 {
-    font-family: var(--font-display);
-    font-size: clamp(1.25rem, 2vw, 2rem);
-    color: var(--link-color);
+    font-family: var(--font-title);
+    font-size: var(--fs-h2);
+    color: var(--text-secondary);
     margin-top: 2rem;
     margin-bottom: 1rem;
 }
+.anchor-link {
+    opacity: 0;
+    font-size: 0.7em;
+    color: var(--text-secondary);
+    position: relative;
+    top: -0.1em;
+    transition: opacity 0.2s;
+}
+.content h2:hover .anchor-link { opacity: 0.6; }
 .content p { margin-bottom: 1.5rem; text-align: justify; hyphens: auto; }
 hr { border: none; border-top: 1px solid rgba(255, 255, 255, 0.15); margin: 1.5rem 0; }
 .content ul, .content ol { padding-left: 1.75rem; margin-bottom: 1.5rem; }
@@ -207,15 +240,38 @@ blockquote ul, blockquote ol { padding-left: 1.75rem; margin-bottom: 0.5rem; }
 blockquote li { margin-bottom: 0.25rem; }
 cjk { font-family: var(--font-cjk); }
 
+.profile-wrap {
+    float: right;
+    margin-left: 3vw;
+    margin-bottom: 1.5vw;
+    width: 30%;
+    shape-outside: circle(50%);
+    border-radius: 50%;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid var(--glass-border);
+}
+.profile-wrap::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: 50%;
+    box-shadow:
+        inset 2px 2px 4px rgba(0, 0, 0, 0.5);
+    pointer-events: none;
+    z-index: 1;
+}
+
 .profile-img {
-    float: right; margin-left: 3vw; margin-bottom: 1.5vw;
-    border-radius: 50%; width: 30%; shape-outside: circle(50%);
+    width: 100%;
+    display: block;
+    border-radius: 50%;
 }
 
 /* Writing Grid */
 .writing-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    grid-template-columns: repeat(4, 1fr);
     gap: 1rem;
     margin-bottom: 2rem;
 }
@@ -243,7 +299,7 @@ cjk { font-family: var(--font-cjk); }
 }
 
 .writing-card-title {
-    font-size: clamp(0.9rem, 1.1vw, 1.1rem);
+    font-size: var(--fs-card-title);
     color: var(--text-secondary);
     opacity: 0.65;
     line-height: 1.3;
@@ -251,14 +307,12 @@ cjk { font-family: var(--font-cjk); }
 
 .writing-card-week {
     font-family: var(--font-display);
-    font-size: clamp(0.75rem, 0.85vw, 0.85rem);
+    font-size: var(--fs-card-week);
     color: var(--link-color);
     opacity: 0.8;
 }
 
 /* Sidenotes */
-
-body { counter-reset: sidenote-counter; }
 
 input.margin-toggle { display: none; }
 label.sidenote-number { 
@@ -280,21 +334,23 @@ label.sidenote-number {
     position: absolute;
     width: var(--sidenote-width);
     left: var(--sidenote-offset);
-    font-size: clamp(0.9rem, 1.20vw, 1.25rem);
+    font-size: var(--fs-sidenote);
     line-height: 1.5;
     text-align: left;
-    background: rgba(0, 0, 0, 0.8);
     padding: 1rem;
     border-radius: 8px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    border: 1px solid var(--glass-border);
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.5);
+    background: var(--sidenote-bg);
+    backdrop-filter: blur(var(--glass-blur));
+    -webkit-backdrop-filter: blur(var(--glass-blur));
     opacity: 0;
-    animation: noteFadeIn 0.3s ease-out forwards;
+    transform: translateX(-40px);
+    transition: opacity 0.75s ease, transform 0.75s ease;
+    color: var(--text-primary);
 }
+.fonts-loaded .sidenote { opacity: 1; transform: translateX(0); }
 
-@keyframes noteFadeIn {
-    0% { opacity: 0; transform: translateX(40px); }
-    100% { opacity: 1; transform: translateX(0); }
-}
 .sidenote:before {
     content: counter(sidenote-counter) " ";
     font-family: var(--font-main); font-size: 0.9em; font-weight: bold; vertical-align: super; margin-right: 0.3em; 
@@ -306,11 +362,13 @@ label.sidenote-number {
     :root { --container-width: 94vw; }
     .nav-links { justify-content: flex-start; gap: 4vw; padding: 1rem; }
     .glass-card { width: 100%; margin-left: 0; padding: 6vw; }
-    .profile-img { float: none; display: block; margin: 0 auto 2rem auto; width: 150px; }    
+    .profile-wrap { float: none; margin: 0 auto 2rem auto; width: 150px; }    
     .sidenote { display: none; } 
     .sidenote-number::before { font-family: var(--font-display); color: var(--link-color); cursor: pointer; }
-    .sidenote-number::after { content: "⇲"; color: var(--hover-color); display: inline-block; font-size: 0.8em; margin-left: 2px; vertical-align: super; }
-    .margin-toggle:checked + .sidenote { display: block; position: relative; float: none; left: auto; width: 100%; margin: 1.5rem 0; padding: 1rem; animation: noteFadeIn 0.25s ease forwards; opacity: 0; background: rgba(0, 12, 16, 0.5);}
+    .sidenote-number::after { content: "⇲"; color: var(--text-secondary); display: inline-block; font-size: 0.8em; margin-left: 2px; vertical-align: super; }
+    @keyframes inlineSlideIn { 0% { opacity: 0; transform: translateX(-40px); } 100% { opacity: 1; transform: translateX(0); } }
+    .margin-toggle:checked + .sidenote { display: block; position: relative; float: none; left: auto; width: 100%; margin: 1.5rem 0; padding: 1rem; animation: inlineSlideIn 0.5s ease forwards; opacity: 0; background: var(--glass-bg);}
+    .writing-grid { grid-template-columns: repeat(2, 1fr); }
 }
 
 /* Project Cards */
@@ -363,13 +421,14 @@ label.sidenote-number {
 
 .project-name {
     font-family: var(--font-display);
-    font-size: clamp(1.1rem, 1.4vw, 1.4rem);
+    font-size: var(--fs-project-name);
     color: var(--link-color);
+    text-align: center;
     margin-bottom: 0.5rem;
 }
 
 .project-desc {
-    font-size: clamp(0.9rem, 1.1vw, 1.1rem);
+    font-size: var(--fs-project-desc);
     line-height: 1.5;
     margin-bottom: 0;
     text-align: left;
@@ -389,11 +448,11 @@ blockquote {
     border-radius: 8px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
     
-    /* Typography: Fluid font size */
-    font-size: clamp(0.9rem, 1.20vw, 1.25rem);
-    line-height: 1.5;
+    /* Typography: Match body text */
+    font-size: var(--fs-body);
+    line-height: 1.75;
     color: var(--text-primary);
-    
+
     /* Reset default browser styles */
     border-left: none;
 }

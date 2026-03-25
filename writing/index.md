@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Writing
+full_width: true
 ---
 
 # Writing
