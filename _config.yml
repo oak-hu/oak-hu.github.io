@@ -22,12 +22,12 @@ plugins:
 navigation:
   - title: 0ak.hu
     url: "https://0ak.hu"
-  - title: About
-    url: /about
   - title: Projects
     url: /projects
   - title: Writing
     url: /writing
+  - title: About
+    url: /about
   - title: CV
     url: /cv
 #  - title: Gallery

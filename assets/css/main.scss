@@ -6,8 +6,8 @@
 :root {
     /* Palette */
     --bg-color: #022520;
-    --text-primary: #f0e1b2;
-    --text-secondary: #af694a;
+    --text-primary: #f8f0D9;
+    --text-secondary: #95544a;
     --link-color: #50b090;
     --hover-color: #a4ecda;
     --nav-color: var(--text-secondary);
@@ -30,7 +30,7 @@
 
     /* Font sizes */
     --fs-body: clamp(1rem, 1.5vw, 2rem);
-    --fs-nav: clamp(1.25rem, 1.75vw, 2rem);
+    --fs-nav: var(--fs-body);
     --fs-h1: clamp(1.5rem, 3vw, 3rem);
     --fs-h2: clamp(1.25rem, 2vw, 2rem);
     --fs-sidenote: clamp(1rem, 1vw, 1.25rem);
@@ -165,7 +165,7 @@ a:hover { color: var(--hover-color); }
     align-items: center;
     justify-content: center;
     padding: 1rem 2rem;
-    gap: 8vw;
+    gap: 6vw;
     overflow-x: auto; /* Scrolling happens here now */
     width: 100%;
     
@@ -193,7 +193,7 @@ a:hover { color: var(--hover-color); }
     z-index: 1001;
 }
 .progress-bar {
-    height: 0.25rem; background: var(--text-primary); width: 100%;
+    height: 0.2rem; background: var(--text-primary); width: 100%;
     transform: scaleX(0); transform-origin: left;
     will-change: transform;
 }
