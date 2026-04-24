@@ -7,7 +7,7 @@ full_width: true
 # Writing
 
 {% assign writing_pages = site.pages | where_exp: "item", "item.path contains 'writing/'" | where_exp: "item", "item.name != 'index.md'" %}
-{% assign categories = "Grad Seminar Notes,Philosophy of Math,Philosophy of Language,Strawson Prize Essay,Frege,Knowledge and Reality,Moral Philosophy,2024 Summer Project" | split: "," %}
+{% assign categories = "Grad Seminar Notes,Philosophy of Language,Strawson Prize Essay,Frege,Knowledge and Reality,Moral Philosophy,2024 Summer Project" | split: "," %}
 
 {% for category in categories %}
   {% assign cat_pages = writing_pages | where_exp: "item", "item.tag contains category" | sort: 'tag' %}
