@@ -8,16 +8,16 @@ permalink: /
 
 Welcome! My name is Oak.^^Well, <a href='https://offhandquibbles.substack.com/p/quotes-and-quinean-quasi-quotes-quickly'>technically</a>, my name is ‘Oak Hu’ (a five-letter string), while <em>I'm</em> Oak Hu (the person to whom ‘Oak Hu’ refers); but it’s almost always fine to be sloppy.<br><br>My parents named me ‘Oak’ after Oklahoma State University, where they went for graduate school.<br><br>My last name, ‘Hu’, is from the Chinese <cjk>胡</cjk>; appending <cjk>说</cjk> (‘speak’) yields <cjk>胡说</cjk> (‘nonsense’)—naturally, someone named ‘Oak Hu’ does philosophy.^^
 
-I do mathematics and philosophy—the two armchair disciplines—at Magdalen College, Oxford.
+I do mathematics and philosophy—the two armchair disciplines—at Magdalen College, Oxford. This summer, I'll be working at Redwood Research.
 
 I occasionally get distracted by weekend projects, like:
 * this [wavefunction](/schrodinger/spirals) visualisation; 
 * this [evolutionary branching](/anisogamy/simulation) simulation; or
 * this [toy language model](/williamson/loom) trained only on Tim Williamson's work.
 
-On this site, you can also find some [personal writing](/about) and my [university essays](/writing/); but you'll probably be much more interested in the work on my [Substack](https://offhandquibbles.substack.com/).
+This site hosts some [personal](/about) and [university](/writing/) writing, but you really should go read my [Substack](https://offhandquibbles.substack.com/) instead.
 
-The wallpaper is a [stylised](https://en.wikipedia.org/wiki/Nano_Banana) version of a photo taken while visiting Wuzhen (<cjk>乌镇</cjk>) in August 2025. More recently, I've visited Hostačov (for a rationality camp reunion); New York City (for a higher-order metaphysics conference); and San Salvador (for an economics retreat). I'm in Berkeley in April 2026 for an AI Control conference.
+The wallpaper is a [stylised](https://en.wikipedia.org/wiki/Nano_Banana) version of a photo taken while visiting Wuzhen (<cjk>乌镇</cjk>) in August 2025. More recently, I've visited Hostačov (for a rationality camp reunion); New York City (for a higher-order metaphysics conference); San Salvador (for an economics retreat); and Berkeley (for an AI control conference).
 
 You can reach me by email at [oak.hu@magd.ox.ac.uk](mailto:oak.hu@magd.ox.ac.uk) or on Signal at [oak.76](https://signal.me/#eu/v-1hPsh6eppfzck9xyYmHkUMvEke7Fj8DRbjWo87LhTdNiRkwYBHdrMsBfO8alBI).
 
@@ -31,11 +31,11 @@ Some philosophical sympathies:
 
 And some more personal tastes:
 
-* I like Beethoven's *Pathetique* Sonata (No. 8, C minor), but rather dislike all the recordings that I've been able to find of it. I'd like to hear Dallon Weekes cover Penelope Scott's *Cemetery Pigeons*. I like pretty much any jazz, metal, or EDM. I like Yoasobi's music in Japanese, but hate it in English. I had 300,744 minutes on Spotify in 2021, but now basically just listen to papers and podcasts (typically around 3x speed, which is a bit lower than it used to be).
+* I like Beethoven's *Pathetique* Sonata (No. 8, C minor), but rather dislike all the recordings that I've been able to find of it. I'd like to hear Dallon Weekes cover Penelope Scott's ``Cemetery Pigeons''. I like pretty much any jazz, metal, or EDM. I like Yoasobi's music in Japanese, but hate it in English. I had 300,744 minutes on Spotify in 2021, but now basically just listen to papers and podcasts (typically around 3x speed, which is a bit lower than it used to be).
 * I like 49th State Brewing's Wild Blueberry Cream Soda, and I really dislike Cherry Coke Zero (weird aftertaste, and I want the calories). I really like fruit: pomelo, jackfruit, mango, melon, crisp watermelon, crisp or frozen grapes, coconut, bramble fruits (especially foraged). However, I generally like savoury food over sweet food, and enjoy cooking with carbon steel.
 * I like British pronunciation-guided acronym styling, but with small caps (‘<sc>BBC</sc>’, ‘<sc>Nato</sc>’, ‘<sc>JPeg</sc>’). I like single quotes for quote-names (even nested) and double quotes for scare quoting, but always inside punctuation. I like en dashes for complex modifiers (‘New York–style pizza’, and even ‘twenty year–old’), and rewording sentences so as not to end with prepositions. However, I like ‘me’ in compound subjects and ‘I’ in compound objects, although they still must appear first or last respectively.
 * I like the fifth generation mainline Pokémon games and also the fifth edition of D&D. More generally for the former, I like the DS / 3DS generations; more specifically for the latter, I like the Druid subclasses from _Tasha's_ (Spores, Stars, Wildfire), and a house rule letting any attack with a proficient weapon take –5 to hit for +10 damage as a “called shot” (martials need the help).
-* I care a lot about Murrysville, Hawk Mountain, Longwood Gardens, and the house in Huangshan (<cjk>黄山</cjk>) where my maternal grandmother now lives.
+* I care an outsize amount about Murrysville, Hawk Mountain, Longwood Gardens, and the house in Huangshan (<cjk>黄山</cjk>) where my maternal grandmother now lives.
 
 <hr>
 
