@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Maths Revision — Notes</title>
+<style>
+  :root{ --ink:#1f2430; --accent:#4f46e5; }
+  body{font-family:Georgia,'Times New Roman',serif; color:var(--ink); margin:0; background:#fcfcfa; line-height:1.55;}
+  .wrap{max-width:760px; margin:0 auto; padding:0 20px 80px;}
+  header{background:#1e1b4b; color:#eef; padding:34px 20px 26px; margin-bottom:8px;}
+  header .inner{max-width:760px; margin:0 auto;}
+  header h1{margin:0 0 6px; font-weight:normal; letter-spacing:.5px; font-size:1.8rem;}
+  header p{margin:4px 0; color:#c7c9f4;}
+  h2{font-size:1.25rem; margin:34px 0 6px; color:#26204f; border-bottom:2px solid #e3e3dd; padding-bottom:4px;}
+  .sub{color:#777; font-size:.9rem; margin:0 0 12px;}
+  .row{display:flex; flex-wrap:wrap; gap:10px; margin-bottom:6px;}
+  a.card{display:block; flex:1 1 220px; text-decoration:none; color:var(--ink);
+    border:1px solid #e3e3dd; border-left:5px solid var(--accent); border-radius:0 8px 8px 0;
+    padding:12px 16px; background:#fff; box-shadow:0 1px 2px rgba(0,0,0,.04); transition:.12s;}
+  a.card:hover{box-shadow:0 2px 8px rgba(0,0,0,.10); transform:translateY(-1px);}
+  a.card b{display:block; font-size:1.05rem;}
+  a.card span{font-size:.85rem; color:#666;}
+  .big{border-left-width:6px;}
+  .ca{border-left-color:#4f46e5;} .ms{border-left-color:#0e7490;}
+  .rm{border-left-color:#7c3aed;} .la{border-left-color:#b45309;}
+  .extra{border-left-color:#9aa;}
+  .note{color:#888; font-size:.85rem; margin-top:40px;}
+  a{color:var(--accent);}
+</style>
+</head>
+<body>
+<header><div class="inner">
+<h1>Maths Revision — Notes</h1>
+<p>Skimmable overviews of the Part A courses: definitions, theorems with hypotheses, proof sketches, dependency graphs.</p>
+</div></header>
+<div class="wrap">
+
+<h2>Complex Analysis</h2>
+<p class="sub">A2 · Belyaev</p>
+<div class="row">
+<a class="card ca big" href="MetricSpacesAndComplexAnalysis/index.html"><b>Overview →</b><span>full map: CIF, Taylor, Laurent, residues, the dependency graph</span></a>
+<a class="card ca" href="MetricSpacesAndComplexAnalysis/ca_cheatsheet.html"><b>Cheatsheet</b><span>one-page recap</span></a>
+</div>
+
+<h2>Metric Spaces</h2>
+<p class="sub">A2 · Lauder</p>
+<div class="row">
+<a class="card ms big" href="MetricSpacesAndComplexAnalysis/ms_index.html"><b>Overview →</b><span>completeness, connectedness, compactness, conformal maps</span></a>
+<a class="card ms" href="MetricSpacesAndComplexAnalysis/ms_cheatsheet.html"><b>Cheatsheet</b><span>one-page recap</span></a>
+</div>
+
+<h2>Rings &amp; Modules</h2>
+<p class="sub">A3 · McGerty / Lauder</p>
+<div class="row">
+<a class="card rm big" href="RingsAndModules/rm_index.html"><b>Overview →</b><span>ED⊊PID⊊UFD, Smith normal form, structure theorem, canonical forms</span></a>
+</div>
+
+<h2>Linear Algebra</h2>
+<p class="sub">A0</p>
+<div class="row">
+<a class="card la big" href="LinearAlgebra/la.html"><b>Overview →</b></a>
+<a class="card la" href="LinearAlgebra/la_cheatsheet.html"><b>Cheatsheet</b></a>
+</div>
+<div class="row">
+<a class="card la extra" href="LinearAlgebra/a0_analysis.html"><b>Exam analysis</b><span>topic frequency</span></a>
+<a class="card la extra" href="LinearAlgebra/a0_2025_solutions.html"><b>2025 solutions</b></a>
+</div>
+
+<h2>Other</h2>
+<div class="row">
+<a class="card extra" href="MetricSpacesAndComplexAnalysis/a2_analysis.html"><b>A2 exam analysis</b><span>topic frequency</span></a>
+<a class="card extra" href="MetricSpacesAndComplexAnalysis/rouche_repair.html"><b>Rouché note</b><span>the common-zero subtlety</span></a>
+</div>
+
+<p class="note">Pages render math with MathJax (needs a connection). Built as static study aids.</p>
+</div>
+</body>
+</html>
