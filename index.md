@@ -4,20 +4,20 @@ title: Home
 permalink: /
 ---
 
-<div class="profile-wrap"><img class="profile-img" src="https://0ak.hu/assets/headshot.jpg" alt="Oak Hu"></div>
+<div class="profile-wrap"><img class="profile-img" src="/assets/headshot.jpg" alt="Oak Hu"></div>
 
 Welcome! My name is Oak.^^Well, <a href='https://offhandquibbles.substack.com/p/quotes-and-quinean-quasi-quotes-quickly'>technically</a>, my name is ‘Oak Hu’ (a five-letter string), while <em>I'm</em> Oak Hu (the person to whom ‘Oak Hu’ refers); but it’s almost always fine to be sloppy.<br><br>My parents named me ‘Oak’ after Oklahoma State University, where they went for graduate school.<br><br>My last name, ‘Hu’, is from the Chinese <cjk>胡</cjk>; appending <cjk>说</cjk> (‘speak’) yields <cjk>胡说</cjk> (‘nonsense’)—naturally, someone named ‘Oak Hu’ does philosophy.^^
 
 I do mathematics and philosophy—the two armchair disciplines—at Magdalen College, Oxford.
 
-This summer, I'll be working at Redwood Research, which I think has the most exciting empirical agendas as well as the best strategic thinking about big-picture risks.
+This summer, I'm working at Redwood Research, which I think has the most exciting empirical agendas as well as the best strategic thinking about big-picture risks.
 
 I occasionally get distracted by weekend projects, like:
-* this [wavefunction](/schrodinger/spirals) visualisation; 
-* this [evolutionary branching](/anisogamy/simulation) simulation; or
+* this [evolutionary branching](/anisogamy/simulation) simulation;
+* this [wavefunction](/schrodinger/spirals) visualisation; or
 * this [toy language model](/williamson/loom) trained only on Tim Williamson's work.
 
-This site hosts some [personal](/about) and [university](/writing/) writing, but you really should go read my [Substack](https://offhandquibbles.substack.com/) instead.
+This site also hosts some [personal](/about) and [university](/writing/) writing, but you really should go read my [Substack](https://offhandquibbles.substack.com/) (philosophy) or [LessWrong](https://www.lesswrong.com/users/oakhu) (AI) instead.
 
 The wallpaper is a [stylised](https://en.wikipedia.org/wiki/Nano_Banana) version of a photo taken while visiting Wuzhen (<cjk>乌镇</cjk>) in August 2025. More recently, I've visited Hostačov (for a rationality camp reunion); New York City (for a higher-order metaphysics conference); San Salvador (for an economics retreat); and Berkeley (for an AI control conference).
 
