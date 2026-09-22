@@ -2,6 +2,7 @@
 layout: default
 title: CV
 permalink: /cv
+published: false
 ---
 <h1>Curriculum Vitae</h1>
 <div style="text-align: center; margin-top: -1.5rem; margin-bottom: 2.5rem; font-family: var(--font-display);">
