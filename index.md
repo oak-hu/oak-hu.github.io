@@ -10,7 +10,7 @@ Welcome! My name is Oak.^^Well, <a href='https://offhandquibbles.substack.com/p/
 
 I do mathematics and philosophy—the two armchair disciplines—at Magdalen College, Oxford.
 
-This summer, I'm working at Redwood Research, which I think has the most exciting empirical agendas as well as the best strategic thinking about big-picture risks.
+I'm also a member of technical staff at Redwood Research, working on big-picture risks related to ASI.
 
 I occasionally get distracted by weekend projects, like:
 * this [evolutionary branching](/anisogamy/simulation) simulation;
@@ -21,7 +21,7 @@ This site also hosts some [personal](/about) and [university](/writing/) writing
 
 The wallpaper is a [stylised](https://en.wikipedia.org/wiki/Nano_Banana) version of a photo taken while visiting Wuzhen (<cjk>乌镇</cjk>) in August 2025. More recently, I've visited Hostačov (for a rationality camp reunion); New York City (for a higher-order metaphysics conference); San Salvador (for an economics retreat); and Berkeley (for an AI control conference).
 
-You can reach me by email at [oak.hu@magd.ox.ac.uk](mailto:oak.hu@magd.ox.ac.uk) or on Signal at [oak.76](https://signal.me/#eu/v-1hPsh6eppfzck9xyYmHkUMvEke7Fj8DRbjWo87LhTdNiRkwYBHdrMsBfO8alBI).
+You can reach me by email at [oak@rdwrs.com](mailto:oak@rdwrs.com) or on Signal at [oak.76](https://signal.me/#eu/v-1hPsh6eppfzck9xyYmHkUMvEke7Fj8DRbjWo87LhTdNiRkwYBHdrMsBfO8alBI).
 
 <hr>
 
