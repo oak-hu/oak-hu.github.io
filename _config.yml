@@ -37,3 +37,4 @@ exclude:
   - Gemfile.lock
   - node_modules
   - README.md
+  - cloudflare

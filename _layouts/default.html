@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     {% seo %}
+    {% assign url_end = page.url | slice: -1, 1 %}{% if url_end == '/' %}{% assign md_url = page.url | append: 'index.md' %}{% else %}{% assign md_url = page.url | replace: '.html', '' | append: '.md' %}{% endif %}
+    <link rel="alternate" type="text/markdown" href="{{ md_url | relative_url }}">
     <link rel="canonical" href="https://0ak.hu{{ page.url }}" />
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     

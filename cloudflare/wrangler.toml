@@ -1,0 +1,7 @@
+name = "markdown-for-agents"
+main = "worker.js"
+compatibility_date = "2026-10-01"
+routes = [
+  { pattern = "0ak.hu/*", zone_name = "0ak.hu" },
+  { pattern = "www.0ak.hu/*", zone_name = "0ak.hu" },
+]
